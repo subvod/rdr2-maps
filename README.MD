@@ -5,6 +5,8 @@
 
 These are current maps of my own edition, all noting locations of numerous animal species (listed below). I verify all locations myself at least twice. Animals which are fast on their feet/feathers are tracked back to their original location before they moved. (That has proven to be difficult at times, but I'm shooting for quality rather than quantity.) All verified locations are marked with red circles.
 
+**NOTE:** *The releases will be in 7z format, so you'll need an archiving program capable of extracting 7-zip archives. I use [7-zip itself](https://www.7-zip.org/), but you're free to use whatever you want.*
+
 ### Roadmap
 
 I'm marking owl locations only in New Austin as [there is already a map of most locations outside of New Austin](https://static.wikia.nocookie.net/reddeadredemption/images/d/d4/Owl_habitats_-_Red_Dead_2.png). I plan to change random encounter (special) locations to blue (or some other color). As for the rival gang map, different colors for different scenarios. For example, red for hideouts, blue for camps, green for random encounters/ambushes, etc. (Again, that is coming in the near future as I continue to catalogue all of this.) Yes, I will be including a key in each image, but for now it's just bare locations all marked in red. Animal maps' locations are marked as 10px smaller than "Sit" locations as, again, I'm trying to be as precise as possible.
@@ -45,3 +47,4 @@ Original map, by Reddit user [domriccobene](https://www.reddit.com/user/domricco
 - [GNU Image Manipulation Program](https://www.gimp.org/) *self-explanatory*
 - [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) *to change/freeze time of day and/or weather*
 - [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) *RampageTrainer dependency*
+- [7-Zip](https://www.7-zip.org/) *archiving and compressing*
