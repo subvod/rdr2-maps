@@ -7,10 +7,6 @@ These are current maps of my own edition, all noting locations of numerous anima
 
 **NOTE:** *The releases will be in 7z format, so you'll need an archiving program capable of extracting 7-zip archives. I use [7-zip itself](https://www.7-zip.org/), but you're free to use whatever you want.*
 
-### Roadmap
-
-I'm marking owl locations only in New Austin as [there is already a map of most locations outside of New Austin](https://static.wikia.nocookie.net/reddeadredemption/images/d/d4/Owl_habitats_-_Red_Dead_2.png). I plan to change random encounter (special) locations to blue (or some other color). As for the rival gang map, different colors for different scenarios. For example, red for hideouts, blue for camps, green for random encounters/ambushes, etc. (Again, that is coming in the near future as I continue to catalogue all of this.) Yes, I will be including a key in each image, but for now it's just bare locations all marked in red. Animal maps' locations are marked as 10px smaller than "Sit" locations as, again, I'm trying to be as precise as possible.
-
 Here's the maps I've included:
 
 - Western Bull Moose and Western (Cow) Moose
@@ -26,25 +22,59 @@ The file **"TIMESTAMPS.MD"** contains, well... timestamps *and* location-specifi
 
 **NOTE:** Panther locations were integrated into the cougar map as panthers have only two localized spawn areas. That being the case, I felt no need for an entire map just for a few locations within a dense area. Besides, cougars don't spawn in Lemoyne anyway, so the locations in Lemoyne are guaranteed to be panthers.
 
+### Map Key/Legend
+
+As promised.
+
+COLOR | SPAWN TYPE
+:--- | ---
+Red | Static
+Blue | Random Encounter
+
+### Roadmap
+
+I'm marking owl locations only in New Austin as [there is already a map of most locations outside of New Austin](https://static.wikia.nocookie.net/reddeadredemption/images/d/d4/Owl_habitats_-_Red_Dead_2.png).
+
 ### Contributing
 
 If you're a story mode maniac like myself and have proof of a location of any of the aforementioned which I've yet to document, I welcome your findings. Please include a full timestamp in a format like so: **year-month-day-hour-minute-weather** of your in-game time as of the encounter. You can get a timestamp like that by navigating to **World > Time** in **RampageTrainer**. I'm unsure if it's possible without mods, though. However, in which case (namely if you're on console), provide the timestamp in this alternative format: **hour-minute-weather**. If you use 12-hour time format, simply add either an `a` (if AM) or `p` (if PM).
 
-### Sources/Cites
+# Extended Information
 
-Original map, by Reddit user [domriccobene](https://www.reddit.com/user/domriccobene/), is a fantastic [10MP hillshaded render based on the in-game map](https://www.reddit.com/r/reddeadredemption/comments/gimo7v/10mp_rdr2_game_map_redux_enhanced_with_hillshaded/).
+*Reference links to documents/maps that were used, among other things.*
 
-### External maps used for verification.
+### Testing Procedures and Constants
 
+- PC v1436 locked at 60fps, V-Sync off, Triple Buffering on, mostly medium settings aside from low lighting qualities and ultra textures
+- 100% game completion.
+- All missions (story, strangers, bounties, etc) completed.
+- All random encounters completed honorably.
+- All legendary animals and fish sold/mailed.
+- Own *all* outfits.
+- LotE outfit and satchel.
+- Bolt action rifle as sole primary with akimbo LeMat revolvers. All using split point.
+- Level four bonded amber champagne MFT with panther trapper saddle.
+- Perlino Andalusian and White Arabian stabled.
+
+### Map References
+
+[Original map, a fantastic 10MP hillshaded render](https://www.reddit.com/r/reddeadredemption/comments/gimo7v/10mp_rdr2_game_map_redux_enhanced_with_hillshaded/) by Reddit user [domriccobene](https://www.reddit.com/user/domriccobene/).
+
+[RDOMap](https://jeanropke.github.io/RDOMap/) and its associated [contributors](https://github.com/jeanropke/RDOMap/blob/master/CONTRIBUTORS.md) for nearly all sit locations.
+
+[Sit map](https://www.reddit.com/r/RedDeadOnline/comments/bzv17m/for_those_of_you_who_like_to_stay_classy_even/) by Reddit user [Impossible_Phase](https://www.reddit.com/user/Impossible_Phase/).
+
+For select animal population maps:
 - [Red Dead Wiki](https://reddead.fandom.com/)
 - [GosuNoob](https://www.gosunoob.com/red-dead-redemption-2/)
 - [GTABase](https://gtabase.com/)
 - [RDR2.org](https://rdr2.org/)
 - [PowerPyx's Guides](https://www.powerpyx.com/red-dead-redemption-2-all-animal-locations-zoologist-skin-deep/)
-- [Reddit post with map of numerous "sit" locations.](https://www.reddit.com/r/RedDeadOnline/comments/bzv17m/for_those_of_you_who_like_to_stay_classy_even/)
 
 ### Programs Used
+
 - [GNU Image Manipulation Program](https://www.gimp.org/) *self-explanatory*
 - [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) *to change/freeze time of day and/or weather*
 - [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) *RampageTrainer dependency*
+- [CheatEngine](https://www.cheatengine.org/download/CheatEngine7.2_MissingSetup.rar) *portable version; used for speedhack to make time fly by*
 - [7-Zip](https://www.7-zip.org/) *archiving and compressing*
