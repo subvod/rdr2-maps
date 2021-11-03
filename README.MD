@@ -28,7 +28,8 @@ As promised.
 
 COLOR | SPAWN TYPE
 :--- | ---
-Red | Static
+Solid Red | Enemy Hideout (Gang Locations Only)
+Red | Static Spawn, Enemy Campsite
 Blue | Random Encounter
 
 ### Roadmap
@@ -78,3 +79,4 @@ For select animal population maps:
 - [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) *RampageTrainer dependency*
 - [CheatEngine](https://www.cheatengine.org/download/CheatEngine7.2_MissingSetup.rar) *portable version; used for speedhack to make time fly by*
 - [7-Zip](https://www.7-zip.org/) *archiving and compressing*
+- [VS Code](https://code.visualstudio.com/) - *editing and previewing Markdown docs*
