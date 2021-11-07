@@ -10,17 +10,18 @@ These are current maps of my own edition, all noting locations of numerous anima
 Here's the maps I've included:
 
 - Western Bull Moose and Western (Cow) Moose
-- Cougars
-- Panthers and Florida Panthers
+- Cougars, Panthers, and Florida Panthers (All-In-One)
 - Grizzly Bears
 - Timber Wolves
 - Little Brown Bats
 - Rival Gang Camps/Hideouts/Ambushes
 - Places where you can "Sit"
 
-The file **"TIMESTAMPS.MD"** contains, well... timestamps *and* location-specific information for each spawn location.
+The file **TIMESTAMPS.MD** contains, well... timestamps *and* location-specific information for each spawn location.
 
 **NOTE:** Panther locations were integrated into the cougar map as panthers have only two localized spawn areas. That being the case, I felt no need for an entire map just for a few locations within a dense area. Besides, cougars don't spawn in Lemoyne anyway, so the locations in Lemoyne are guaranteed to be panthers.
+
+**NOTE:** Night Folk encounter locations have been added to **RDR2-RivalGangs.jpg**. They are localized to **Lagras** and **Lakay**.
 
 ### Map Key/Legend
 
@@ -29,8 +30,8 @@ As promised.
 COLOR | SPAWN TYPE
 :--- | ---
 Solid Red | Enemy Hideout (Gang Locations Only)
-Red | Static Spawn, Enemy Campsite
-Blue | Random Encounter
+Red | Static Spawn<br>Enemy Campsite
+Blue | Random Encounter (Animal & Enemy)
 
 ### Roadmap
 
@@ -47,15 +48,10 @@ If you're a story mode maniac like myself and have proof of a location of any of
 ### Testing Procedures and Constants
 
 - PC v1436 locked at 60fps, V-Sync off, Triple Buffering on, mostly medium settings aside from low lighting qualities and ultra textures
-- 100% game completion.
-- All missions (story, strangers, bounties, etc) completed.
-- All random encounters completed honorably.
-- All legendary animals and fish sold/mailed.
-- Own *all* outfits.
-- LotE outfit and satchel.
-- Bolt action rifle as sole primary with akimbo LeMat revolvers. All using split point.
-- Level four bonded amber champagne MFT with panther trapper saddle.
+- Level four bonded Silver Dapple Pinto MFT with Panther Trapper Saddle.
 - Perlino Andalusian and White Arabian stabled.
+
+*Started a new playthrough. Outfit, loadout, and progression don't appear to affect static animal spawns.*
 
 ### Map References
 
