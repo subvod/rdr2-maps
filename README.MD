@@ -19,6 +19,8 @@ Here's the maps I've included:
 
 The file **TIMESTAMPS.MD** contains, well... timestamps *and* location-specific information for each spawn location.
 
+In-game screenshots of the player sitting at a "sit" location are uploaded in a separate archive with the suffix **SitLocationsInGame**.
+
 <u><b>NOTE:</b></u> Panther locations were integrated into the cougar map as panthers have only two localized spawn areas. That being the case, I felt no need for an entire map just for a few locations within a dense area. Besides, cougars don't spawn in Lemoyne anyway, so the locations in Lemoyne are guaranteed to be panthers.
 
 <u><b>NOTE:</b></u> Night Folk encounter locations have been added to **RDR2-RivalGangs.jpg**. They are localized to **Lagras** and **Lakay**.
