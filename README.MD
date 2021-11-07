@@ -5,7 +5,7 @@
 
 These are current maps of my own edition, all noting locations of numerous animal species (listed below). I verify all locations myself at least twice. Animals which are fast on their feet/feathers are tracked back to their original location before they moved. (That has proven to be difficult at times, but I'm shooting for quality rather than quantity.) All verified locations are marked with red circles.
 
-**NOTE:** *The releases will be in 7z format, so you'll need an archiving program capable of extracting 7-zip archives. I use [7-zip itself](https://www.7-zip.org/), but you're free to use whatever you want.*
+<u>**NOTE:**</u> The releases will be in 7z format, so you'll need an archiving program capable of extracting 7-zip archives. I use [7-zip itself](https://www.7-zip.org/), but you're free to use whatever you want.
 
 Here's the maps I've included:
 
@@ -19,9 +19,9 @@ Here's the maps I've included:
 
 The file **TIMESTAMPS.MD** contains, well... timestamps *and* location-specific information for each spawn location.
 
-**NOTE:** Panther locations were integrated into the cougar map as panthers have only two localized spawn areas. That being the case, I felt no need for an entire map just for a few locations within a dense area. Besides, cougars don't spawn in Lemoyne anyway, so the locations in Lemoyne are guaranteed to be panthers.
+<u>**NOTE:**</u> Panther locations were integrated into the cougar map as panthers have only two localized spawn areas. That being the case, I felt no need for an entire map just for a few locations within a dense area. Besides, cougars don't spawn in Lemoyne anyway, so the locations in Lemoyne are guaranteed to be panthers.
 
-**NOTE:** Night Folk encounter locations have been added to **RDR2-RivalGangs.jpg**. They are localized to **Lagras** and **Lakay**.
+<u>**NOTE:**</u> Night Folk encounter locations have been added to **RDR2-RivalGangs.jpg**. They are localized to **Lagras** and **Lakay**.
 
 ### Map Key/Legend
 
