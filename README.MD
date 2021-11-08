@@ -1,11 +1,18 @@
 # rdr2-maps
+
 *A collection of maps showing locations for several rare/uncommon animals.*
+
+## Overview
+
+### Release Format
+
+The releases are 7z format with LZMA2 compression, so you'll need an archiving program capable of extracting LZMA2 7-zip archives. I use [7-zip itself](https://www.7-zip.org/), but you're free to use whatever you want.
+
+In-game screenshots of the player sitting at a "sit" location are uploaded in their own, separate archives with the suffix `SitLocationsInGame` (i.e. `rdr2-maps-2021-11-07-SitLocationsInGame.7z`).
 
 ### The Objective
 
 These are current maps of my own edition, all noting locations of numerous animal species (listed below). I verify all locations myself at least twice. Animals which are fast on their feet/feathers are tracked back to their original location before they moved. (That has proven to be difficult at times, but I'm shooting for quality rather than quantity.) All verified locations are marked with red circles.
-
-<u><b>NOTE:</b></u> The releases will be in 7z format, so you'll need an archiving program capable of extracting 7-zip archives. I use [7-zip itself](https://www.7-zip.org/), but you're free to use whatever you want.
 
 Here's the maps I've included:
 
@@ -17,13 +24,11 @@ Here's the maps I've included:
 - Rival Gang Camps/Hideouts/Ambushes
 - Places where you can "Sit"
 
-The file **TIMESTAMPS.MD** contains, well... timestamps *and* location-specific information for each spawn location.
+`TIMESTAMPS.MD` contains, well... timestamps *and* location-specific information for each spawn location.
 
-In-game screenshots of the player sitting at a "sit" location are uploaded in a separate archive with the suffix **SitLocationsInGame**.
+**NOTE:** Panther locations were integrated into the cougar map as panthers have only two localized spawn areas. That being the case, I felt no need for an entire map just for a few locations within a dense area. Besides, cougars don't spawn in Lemoyne anyway, so locations marked in Lemoyne in **RDR2-CougarPanther.jpg** are guaranteed to be panthers.
 
-<u><b>NOTE:</b></u> Panther locations were integrated into the cougar map as panthers have only two localized spawn areas. That being the case, I felt no need for an entire map just for a few locations within a dense area. Besides, cougars don't spawn in Lemoyne anyway, so the locations in Lemoyne are guaranteed to be panthers.
-
-<u><b>NOTE:</b></u> Night Folk encounter locations have been added to **RDR2-RivalGangs.jpg**. They are localized to **Lagras** and **Lakay**.
+**NOTE:** Night Folk encounter locations have been added to `RDR2-RivalGangs.jpg`. They are localized to **Lagras** and **Lakay**.
 
 ### Map Key/Legend
 
@@ -41,9 +46,9 @@ I'm marking owl locations only in New Austin as [there is already a map of most 
 
 ### Contributing
 
-If you're a story mode maniac like myself and have proof of a location of any of the aforementioned which I've yet to document, I welcome your findings. Please include a full timestamp in a format like so: **year-month-day-hour-minute-weather** of your in-game time as of the encounter. You can get a timestamp like that by navigating to **World > Time** in **RampageTrainer**. I'm unsure if it's possible without mods, though. However, in which case (namely if you're on console), provide the timestamp in this alternative format: **hour-minute-weather**. If you use 12-hour time format, simply add either an `a` (if AM) or `p` (if PM).
+If you're a story mode maniac like myself and have proof of a location of any of the aforementioned which I've yet to document, I welcome your findings. Please include a full timestamp in a format like so: `year-month-day-hour-minute-weather` of your in-game time as of the encounter. You can get a timestamp like that by navigating to `World > Time` in **RampageTrainer**. I'm unsure if it's possible without mods, though. However, in which case (namely if you're on console), provide the timestamp in this alternative format: `hour-minute-weather`. If you use 12-hour time format, simply add either an `a` (if AM) or `p` (if PM).
 
-# Extended Information
+## Extended Information
 
 *Reference links to documents/maps that were used, among other things.*
 
@@ -72,9 +77,11 @@ For select animal population maps:
 
 ### Programs Used
 
-- [GNU Image Manipulation Program](https://www.gimp.org/) *self-explanatory*
-- [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) *to change/freeze time of day and/or weather*
-- [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) *RampageTrainer dependency*
-- [CheatEngine](https://www.cheatengine.org/download/CheatEngine7.2_MissingSetup.rar) *portable version; used for speedhack to make time fly by*
-- [7-Zip](https://www.7-zip.org/) *archiving and compressing*
-- [VS Code](https://code.visualstudio.com/) - *editing and previewing Markdown docs*
+- [GNU Image Manipulation Program](https://www.gimp.org/) - *Editing maps.*
+- [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - *To change/freeze time of day and/or weather*
+- [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) - *RampageTrainer dependency*
+- [GreenShot](https://github.com/greenshot/greenshot) - Capturing in-game screenshots.
+- [nomacs](https://github.com/nomacs/nomacs) - Scan through screenshots when marking new locations.
+- [CheatEngine](https://www.cheatengine.org/download/CheatEngine7.2_MissingSetup.rar) - *portable version; used for speedhack to make time fly by.*
+- [7-Zip](https://www.7-zip.org/) - *Archiving and compressing.*
+- [VS Code](https://code.visualstudio.com/) - *Editing and previewing Markdown docs.*
