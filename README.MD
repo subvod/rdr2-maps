@@ -1,6 +1,6 @@
 # rdr2-maps
 
-*A collection of maps showing locations for several rare/uncommon animals.*
+*A collection of maps showing locations of places to sit, enemy encounters, and rare animals.*
 
 ## Overview
 
@@ -26,9 +26,25 @@ Here's the maps I've included:
 
 `TIMESTAMPS.MD` contains, well... timestamps *and* location-specific information for each spawn location.
 
-**NOTE:** Panther locations were integrated into the cougar map as panthers have only two localized spawn areas. That being the case, I felt no need for an entire map just for a few locations within a dense area. Besides, cougars don't spawn in Lemoyne anyway, so locations marked in Lemoyne in **RDR2-CougarPanther.jpg** are guaranteed to be panthers.
+### Some Notes
 
-**NOTE:** Night Folk encounter locations have been added to `RDR2-RivalGangs.jpg`. They are localized to **Lagras** and **Lakay**.
+- **Panther** locations were integrated into the Cougar map as panthers have only two localized spawn areas. That being the case, I felt no need for an entire map just for a few locations within a dense area. Besides, cougars don't spawn in Lemoyne anyway, so locations marked in Lemoyne (`RDR2-CougarPanther.jpg`) are guaranteed to be **Panthers**.
+
+### Rival Gangs
+
+**NOTE:** O'Driscolls and Laramies share some of the same random encounter locations.
+
+**NOTE:** The gang around Saint Denis are goons serving **Guido Martelli** (as per Charles). They don't have a known hideout, but are localized to parts of Saint Denis and appear in only random encounters.
+
+NAME | LOCALIZED TO
+:--- | ---
+O'Driscoll Boys | Big Valley, WE<br>Heartlands, NH<br>Cumberland Forest, NH
+Lemoyne Raiders | Scarlett Meadows, LE<br>Saint Denis, Bayou Nwa, LE (Random Encounters)
+Murfree Brood | Roanoke Ridge, NH
+Laramie Boys | Big Valley, WE (Epilogue)
+Skinner Brothers | Tall Trees, WE (Epilogue)
+Del Lobos | Gaptooth Ridge, NA<br>Cholla Springs, NA<br>Rio Bravo, NA<br>Hennigan's Stead, NA
+Martelli's Men | Saint Denis, Bayou Nwa, LE
 
 ### Map Key/Legend
 
@@ -67,6 +83,8 @@ If you're a story mode maniac like myself and have proof of a location of any of
 [RDOMap](https://jeanropke.github.io/RDOMap/) and its associated [contributors](https://github.com/jeanropke/RDOMap/blob/master/CONTRIBUTORS.md) for nearly all sit locations.
 
 [Sit map](https://www.reddit.com/r/RedDeadOnline/comments/bzv17m/for_those_of_you_who_like_to_stay_classy_even/) by Reddit user [Impossible_Phase](https://www.reddit.com/user/Impossible_Phase/).
+
+[Looser3241](https://gtaforums.com/profile/1225578-looser3241/) for the sit location at Clemens Point. [Cutter de Blanc](https://gtaforums.com/profile/642145-cutter-de-blanc/) for testing the location.
 
 For select animal population maps:
 - [Red Dead Wiki](https://reddead.fandom.com/)
