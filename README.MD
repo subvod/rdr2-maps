@@ -44,6 +44,7 @@ Murfree Brood | Roanoke Ridge, NH
 Laramie Boys | Big Valley, WE (Epilogue)
 Skinner Brothers | Tall Trees, WE (Epilogue)
 Del Lobos | Gaptooth Ridge, NA<br>Cholla Springs, NA<br>Rio Bravo, NA<br>Hennigan's Stead, NA
+Night Folk | Lagras, Bayou Nwa, LE<br>Lakay, Bayou Nwa, LE
 Martelli's Men | Saint Denis, Bayou Nwa, LE
 
 ### Map Key/Legend
