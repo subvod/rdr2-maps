@@ -141,9 +141,11 @@ Martelli's Men | Saint Denis, Bayou Nwa, LE
 - Old Harry Fen, Scarlett Meadows, LE (two spawns close together; southeast of **Old Harry Fen**; southwest of tri-junction; 24-hour)
 - Lakay, Bayou Nwa, LE (two spawns close together; eastern bank of **Kamassa River**; sleeping at water's edge northeast of **Lakay**; 22:00-04:00)
 
-### Californian/Great/Coastal Horned Owl
+### Owl
 
 *Primarily nocturnal. Three coats: Californian (rust brown), Coastal (brown gray), and Great (gray white).*
+
+**NOTE:** Owls seem to share many (if not all) of the same perch locations as Hawks and Eagles.
 
 **NOTE:** Coastal and Great Horned can be found across the entire map despite name implications. (I've found Coastals all the way up at **Cairn Lake**.) Owls in **New Austin** are usually Californians, but all three coats spawn out there.
 
