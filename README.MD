@@ -12,11 +12,12 @@
 <br>[Animal Locations](#animal-locations)
 <br>&emsp;[Western Bull Moose](#western-bull-moose)
 <br>&emsp;[Panther](#panther)
-<br>&emsp;[Owl](#owl)
+<br>&emsp;[Horned Owl](#horned-owl)
 <br>&emsp;[Timber Wolf](#timber-wolf)
 <br>&emsp;[Cougar](#cougar)
 <br>&emsp;[Grizzly Bear](#grizzly-bear)
 <br>&emsp;[Little Brown Bat](#little-brown-bat)
+<br>&emsp;[Birds](#birds)
 <br>[Extended Information](#extended-information)
 <br>&emsp;[Testing Procedures](#testing-procedures)
 <br>&emsp;[Release Format](#release-format)
@@ -29,19 +30,31 @@ For release format information, see [Release Format](#release-format).
 
 ### Map Key/Legend
 
-COLOR | MARKER TYPE
-:--- | ---
+*Markers/Blips:*
+
+Color | Marker Type
+:-- | ---
 Solid Red | Enemy Hideout
-Hollow Red | Static Spawn<br>Perch Spawn (Bird)<br>Enemy Campsite
-Hollow Blue | Animal Random Encounter<br>Enemy Random Encounter<br>Flying (Bird)
+Hollow Red | Static Spawn<br>Perched Bird<br>Enemy Campsite
+Hollow Blue | Animal Random Encounter<br>Enemy Random Encounter<br>Flying Bird
+
+*Locations:*
+
+Abbreviation | State | Regions
+:- | -- | --
+AM | Ambarino | Grizzlies West<br>Grizzlies East
+NH | New Hanover | Heartlands<br>Cumberland Forest<br>Roanoke Ridge
+LE | Lemoyne | Scarlett Meadows<br>Bayou Nwa<br>Bluewater Marsh
+WE | West Elizabeth | Big Valley<br>Great Plains<br>Tall Trees
+NA | New Austin | Hennigan's Stead<br>Cholla Springs<br>Rio Bravo<br>Gaptooth Ridge
 
 ### Some Notes
 
-- Yes, I'm aware bats are mammals. Overhead spawns are still marked as blue since they're flying.
 - Text within quotes, for example `"Willard's Rest"`, signifies text on the overworld (pause menu) map. Actual, in-game locations are noted in bold and not in quotes or a code block, as such: **Willard's Rest**. When describing placement relative to individual letters, the associated text will be in quotes and the individual letter(s) mentioned will be bolded. For example: west edge of the 'a' in "Will**a**rd's Rest".
 - All reference locations (nearby plants, landmarks, etc) used are those which are the closest to where the animal was spotted. I try not to be vague, like "large rock next to the mountain". Some spawnpoints were a ways away from notable locations, and in those cases I've noted only landmarks and/or plants nearest to the spawnpoint as well as the animal's location relative to them.
 - Random encounters seem to appear more frequently if you reload in a nearby location or spend a great amount of time in the general vicinity. This includes all random encounters.
 - The chace of random encounters does not change at any point if story mode, contrary to what I suspected. In `Simple Pleasures`, **Abe** says something I feel leans towards this being an actual mechanic put into the game for post-story play: "It’s changed. Rich fellers are coming in and buying everything… the ranches… but… well, it ain’t as wild as it once were, at least." [[Citation.]](#quotes) But, after extensive testing, random encounters are just as random regardless of story progression.
+- It is possible to (apparently) increase the likelihood of random encounter spawning: hitch your horse and rest (kneel) a ways away from the point where whatever you're looking for is meant to spawn. Go do something else as time passes. I give at least six in-game hours, horse hitched and me kneeling. After that short while, head towards the location. This is how I get the dodgy animal encounters to spawn more frequently.
 
 ### Time Frames
 
@@ -58,7 +71,7 @@ Animal(s) | Description
 Cougar<br>Deer | Cougar stalks and attacks Deer.
 Grizzly Bear<br>Gray Wolf | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly.
 Western Bull Moose | Only occurs at **Lake Isabella**, **Barrow Lagoon**, and **Cairn Lake**.<br>Moose is slipping on ice while attempting to stand upright.
-Hawk/Eagle<br>Fish/Snake | Dives and catches random Fish (over water) or random Snake (on land).
+Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
 Whitetail Buck | Two Bucks (one dead) with interlocked horns. Live Buck cannot escape.
 Whitetail Buck | Two Bucks pushing each other around.
 Bighorn Ram | Two Rams headbutt each other.
@@ -141,17 +154,17 @@ Martelli's Men | Saint Denis, Bayou Nwa, LE
 - Old Harry Fen, Scarlett Meadows, LE (two spawns close together; southeast of **Old Harry Fen**; southwest of tri-junction; 24-hour)
 - Lakay, Bayou Nwa, LE (two spawns close together; eastern bank of **Kamassa River**; sleeping at water's edge northeast of **Lakay**; 22:00-04:00)
 
-### Owl
+### Horned Owl
 
 *Primarily nocturnal. Three coats: Californian (rust brown), Coastal (brown gray), and Great (gray white).*
 
-**NOTE:** Owls seem to share many (if not all) of the same perch locations as Hawks and Eagles.
+Owls seem to share many (if not all) of the same perch locations as Hawks and Eagles. However owls' spawn rate is apparently drastically lower and they only come out at night.
 
-**NOTE:** Coastal and Great Horned can be found across the entire map despite name implications. (I've found Coastals all the way up at **Cairn Lake**.) Owls in **New Austin** are usually Californians, but all three coats spawn out there.
+Coastal and Great variants can be found across the entire map despite name implications. I've found Coastals as far north as **Cairn Lake** (Grizzlies West, AM) and as far south as **Lake Don Julio** (Rio Bravo, NA). Owls in **New Austin** are usually Californians, but all three coats can spawn in the entire state.
 
-**NOTE:** Far as I can tell, the Californian is exclusive to **New Austin** until I'm proven otherwise. Some players have noted finding it around **Lone Mule Stead** (Big Valley, WE), **Bear Claw** (Tall Trees, WE), and the marsh flats around **Canebreak Manor** (Bluewater Marsh, LE). But I have yet to see it anywhere north of the **Upper Montana River**. Closest I've seen is flying overhead and perched atop **Beecher's Hope**.
+As far as I can tell, the Californian spawns only south of the **Upper Montana River** until I'm proven otherwise. It is possible to study, kill, and pluck one as Arthur. There is an in-flight spawn north of Blackwater which Owls start from, then have a chance of taking a route headed north in which they fly over both the **Upper Montana River** and **Lone Mule Stead**. I have never seen a Californian perched atop Lone Mule, though. Some players have noted finding it in the marsh flats around **Canebreak Manor** (Bluewater Marsh, LE), but I have yet to see it anywhere north of the **Upper Montana River**.
 
-**NOTE:** According to GTABase, the areas with the highest concentration of Owl spawns are (highest to lowest): Tall Trees, slightly north of Strawberry, the whole stretch of the **Little Creek River** (from **Hanging Dog Ranch** to **Sheperd's Rise**), **Cumberland Falls**, the **Trading Post** (point of interest located northwest of **Gill's Landing**), and the entirety of **Cumberland Forest**. I can verify **Tall Trees** is the best for Owl hunting in general, but pre-Epilogue I've killed plenty of Great Horned and Coastals in and around **Cumberland Forest** while hunting Timber Wolves, as well as a ton around **Canebreak Manor** (Bluewater Marsh, LE).
+According to GTABase, the areas with the highest concentration of Owl spawns are (highest to lowest): Tall Trees, slightly north of Strawberry, the whole stretch of the **Little Creek River** (from **Hanging Dog Ranch** to **Sheperd's Rise**), **Cumberland Falls**, the **Trading Post** (point of interest located northwest of **Gill's Landing**), and the entirety of **Cumberland Forest**. I can verify **Tall Trees** is the best for Owl hunting in general, but pre-Epilogue I've killed plenty of Great Horned and Coastals around **Fort Wallace** (Cumberland Forest, NH), **Cumberland Falls** (Cumberland Forest, NH) and down that section of the **Dakota River**, as well as a ton around **Canebreak Manor** (Bluewater Marsh, LE).
 
 - Emerald Ranch, Heartlands, NH (perched in the south window of the barn where **Seamus** runs his **Fence**)
 - Guthrie Farm, Heartlands, NH (perched atop the southeast house)
@@ -175,23 +188,29 @@ Martelli's Men | Saint Denis, Bayou Nwa, LE
 - Ridgewood Farm, Cholla Springs, NA (perched atop north barn above front doors)
 - Silent Stead, Gaptooth Ridge, NA (perched atop cabin above front door)
 
+- shipwreck islands (atop mast)
+- shipwreck islands (atop dead tree)
+- elysian pool (atop dead tree)
+- aurora basin (atop cliff lakeside)
+- aurora basin (atop junction sign)
+- aurora basin (atop cliff southeast of lake)
+
 ### Timber Wolf
 
-*Primarily nocturnal. Very much localized to **Cotorra Springs** and **Cumberland Forest**, but can be found in a few places outside of its main habitat. On those fringe locations, every Timber I've encountered was in a team of two. Random Wolf ambush locations in **Grizzlies West, AM**, **Grizzlies East, AM**, and **Cumberland Forest, NH** seem to randomly spawn either Timbers or Grays. All locations outside of those areas have yielded nothing but Grays.*
+*Primarily nocturnal. Very much localized to **Cotorra Springs, Grizzlies West, AM** and the entirety of **Cumberland Forest, NH**, but can be found in a few places outside of its main habitat. On those fringe locations, every Timber I've encountered was in a team of two. Wolf ambush locations in **Grizzlies West, AM**, **Grizzlies East, AM**, and **Cumberland Forest, NH** seem to randomly spawn either Timbers or Grays. All wolf spawn locations outside of those areas have yielded nothing but Grays.*
 
 - Cairn Lake, Grizzlies West, AM (south side of path; west of lake)
 - Lake Isabella, Grizzlies West, AM (west side of path; north of lake)
 - Barrow Lagoon, Grizzlies West, AM (west side of path; south of lagoon)
 - Cotorra Springs, Grizzlies East, AM (east side of easternmost path aside hot springs)
 - Veteran's Homestead, Grizzlies East, AM (peninsula south of cabin)
-- *Fairvale Shanty, Grizzlies East, AM (south side of road atop hill; seen video evidence but not encountered one there myself)*
-- *Hanging Dog Ranch, Big Valley, WE (north of the ranch; iirc wolves spawn east of the path)*
-- *Clawson's Rest, Grizzlies West, AM (east of Clawson's; between 'a' and 'k' of "Dakota River")*
-- *Owanjila, Big Valley, WE (somewhere along the paths running east towards Strawberry)*
+- Fairvale Shanty, Grizzlies East, AM (south side of road atop hill)
 
 ### Cougar
 
-*Primarily nocturnal, but some spawn during the day. Aside from random encounters, hotspots are **Roanoke Ridge, NH** (mainly east of the **Kamassa River**) and north of **Ridgewood Farm** (Cholla Springs, NA).*
+*Primarily nocturnal, but some spawn during the day. Four coats: orange/tan, light brown/tan (almost like buck pelt), gray (very similar to white, especially in moonlight), and white (mission-specific). Aside from random encounters, hotspots are northeast **Roanoke Ridge, NH** (mainly east of the **Kamassa River**) and north of **Ridgewood Farm** (Cholla Springs, NA).*
+
+**NOTE:** The rare white cougar can only be found during `Money Lending and Other Sins IV` while hunting it with **Winton Holmes**. The gray coat can be found in the wild at random, and looks very much like a white cougar especially in the moonlight.
 
 - Pronghorn Ranch, Big Valley, WE (north side of path north of last 'h' in "Pronghorn Ranc**h**")
 - Valley View, Big Valley, WE (attacking deer; south of last 'e' in "Little Creek Riv**e**r"; 23:05)
@@ -202,7 +221,7 @@ Martelli's Men | Saint Denis, Bayou Nwa, LE
 - Cochinay, Tall Trees, WE (northwest of first 'T' in "**T**ALL TREES"; 24-hour)
 - Beecher's Hope, Great Plains, WE (east of 'G' in "**G**REAT PLAINS")
 - Quaker's Cove, Great Plains, WE (between 'N' and 'S' in "GREAT PLAI**NS**")
-- Rathskeller Fork, Gaptooth Ridge, NA (southeast of **Rathskeller**, technically in **Cholla Springs**; there's a ton of spawns between 'C' and second 'L' in "**C**HOL**L**A SPRINGS")
+- Ridgewood Farm, Cholla Springs, NA (north of **Ridgewood Farm**; from southeast of **Rathskeller Fork** to east of **Pleasance House**; there's a ton of spawns between 'C' and second 'L' in "**C**HOL**L**A SPRINGS")
 - Rathskeller Fork, Gaptooth Ridge, NA (south of **Rathskeller**; northeast corner of junctions north of 'G' in "GAPTOOTH RID**G**E"; west of rabbit map icon)
 - Plainview, Rio Bravo, NA (southwest of **Plainview**; in land depression on north side of path beyond junctions located west of **Plainview**; north-northeast of last 'R' in "SAN LUIS RIVE**R**"; at the base of a rocky hill)
 - Benedict Point, Rio Bravo, NA (dead west of **Solomon's Folly**; dead south of the 'i' in "Benedict Po**i**nt"; 15:15)
@@ -237,24 +256,28 @@ Martelli's Men | Saint Denis, Bayou Nwa, LE
 - Bear Claw, Tall Trees, WE (south of **Bear Claw**)
 - Aurora Basin, Tall Trees, WE (eating deer carcass on northeastern peninsula; 15:15)
 - Aurora Basin, Tall Trees, WE (catching salmon on east shore)
-- *Black Bone Forest, Big Valley, WE (east side of path southeast of Trapper; east-southeast of path diverge from creek; dead south of 'B' in "BIG VALLEY")*
-- *O'Creagh's Run, Grizzlies East, AM (north of O'Creagh's; southwest of 'O' in "AMBARINO")*
-- *Window Rock, Grizzlies West, AM (southeast of Window Rock; possibly on south shore of Dakota or northwest edge of Cumberland Forest)*
 
 ### Little Brown Bat
 
-*Solely nocturnal.*
+*Solely nocturnal and common across Lemoyne, but can be found in only certain locations outside of Lemoyne.*
 
 - Mount Shann, Big Valley, WE (cave mouth just south of 'U' in "MO**U**NT SHANN"; same cave **Winton Holmes** and the player travel to during `Money Lending and Other Sins IV`)
 - Flattened Cabin, Grizzlies East, AM (inside the cabin at **Moonstone Pond**; tons of them if you approach shortly after 18:00)
 - Wild Man's Cave, Roanoke Ridge, NH (perched on ceiling of cave entrance)
 - Elysian Pool, Roanoke Ridge, NH (perched on ceiling of cave inside the waterfall)
+- Fort Brennand, Roanoke Ridge, NH (perched in southwest crows nest)
 - Pleasance, Scarlett Meadows, LE (inside the schoolhouse damaged by a fallen tree; south of 'c' in "Pleasan**c**e")
 - Canebreak Manor, Bluewater Marsh, LE (flying over the marsh flats)
 - Bayall Edge, Bayou Nwa, LE (perched on the front of the cabin)
 - Braithewaite Manor, Scarlett Meadows, LE (flying around the boat house on the east shore of Flat Iron Lake)
 - Bolger Glade, Scarlett Meadows, LE (flying overhead, usually towards Flat Iron Lake)
 - Swadbass Point, Tall Trees, WE (perched on north side of cabin at **Aurora Basin**)
+
+### Birds
+
+*Small birds (sparrows, blue jays, woodpeckers, etc) are primarily diurnal, but can be stirred up while roosting at night.*
+
+Most small birds can be found pretty much everywhere except **New Austin** (excluding **Hennigan's Stead, NA**). Hotspots for easy finds are along the entire **Dakota River** and **Kamassa River**. Look atop rocks in the water and near the shore.
 
 ## Extended Information
 
