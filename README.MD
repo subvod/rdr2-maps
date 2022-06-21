@@ -60,6 +60,7 @@
 <br>&emsp;[Chapter VI](#chapter-vi)
 <br>&emsp;[Epilogue I](#epilogue-i)
 <br>&emsp;[Epilogue II](#epilogue-ii)
+<br>&emsp;[Temporary Items](#temporary-items)
 <br>[ITEM SELL PRICES](#item-sell-prices)
 <br>&emsp;[Animal Skins](#animal-skins)
 <br>&emsp;[Orchids](#orchids)
@@ -87,8 +88,12 @@
 <br>&emsp;[Getting out of bounds.](#getting-out-of-bounds)
 <br>&emsp;[Speed crafting.](#speed-crafting)
 <br>&emsp;[Duplicate journal sketches.](#duplicate-journal-sketches)
+<br>&emsp;[Huge Bass with Kieran](#huge-bass-with-kieran)
 <br>[EASTER EGGS](#easter-eggs)
+<br>&emsp;[Soothsayer](#soothsayer)
+<br>&emsp;[Sun Worshipper](#sun-worshipper)
 <br>&emsp;[KKK](#kkk)
+<br>&emsp;[Ghost In Swamp](#ghost-in-swamp)
 <br>&emsp;[Skinner Brothers' yelps.](#skinner-brothers-yelps)
 <br>&emsp;[Voices at Colter.](#voices-at-colter)
 <br>&emsp;[Whispers in Roanoke forests.](#whispers-in-roanoke-forests)
@@ -114,17 +119,16 @@
 <br>&emsp;[Bull](#bull)
 <br>&emsp;[Ox](#ox)
 <br>&emsp;[Rooster](#rooster)
-<br>[Activities](#activites)
-<br>&emsp;[Coffee](#coffee)
-<br>&emsp;[Alcohol Cases](#alcohol-cases)
-<br>&emsp;[Stew Bowl](#stew-bowl)
-<br>&emsp;[Chop Firewood](#chop-firewood)
+<br>&emsp;[Activities](#activites)
+<br>&emsp;&emsp;[Coffee](#coffee)
+<br>&emsp;&emsp;[Alcohol Cases](#alcohol-cases)
+<br>&emsp;&emsp;[Stew Bowl](#stew-bowl)
+<br>&emsp;&emsp;[Chop Firewood](#chop-firewood)
 <br>[Extended Information](#extended-information)
 <br>&emsp;[Testing Procedures](#testing-procedures)
 <br>&emsp;[Release Format](#release-format)
 <br>&emsp;[Map References](#map-references)
 <br>&emsp;[Programs Used](#programs-used)
-
 <br>[MISCELLANEOUS](#miscellaneous)
 <br>&emsp;[Cool Things](#cool-things)
 <br>&emsp;[Tools](#tools)
@@ -140,20 +144,20 @@ You're better off with a horse, but it's certainly possible to survive on your o
 
 The game has dynamic weather and it will change based upon where you're at.
 
-Weather | Effects | Location(s)
-:--- | --- | ---
-Clear (Sunny) | Mostly clear with a few clouds here and there. | Everywhere.
-Overcast | Solid layer of cloud cover. | Everywhere except New Austin.
-Rain | Visible rain. | Everywhere.
-Thunder | Just lightning/thunder, no rain. | Everywhere.
-Thunderstorm | Heavy rain with lightning and thunder. | Everywhere.
-Hurricane | Strong wind and heavy rain. | Entire state of Lemoyne.<br>Heartlands, NH
-Sleet | Freezing rain. Occasional gusts. | Big Valley, WE<br>Heartlands, NH<br>Roanoke Ridge, NH
-Blizzard (Whiteout) | High winds. Heavy snow. Super low visibility. | Northwestern portion of **Grizzlies West, AM** (high mountains).
-Windy | Leaves and other animated particles flying around. Audible wind. Usually indicative of a storm ahead. | Everywhere.
-Fog | Very low visibility. | Heartlands, NH<br>Roanoke Ridge, NH<br>State of Lemoyne
-Mist | Low visibility. More common in early mornings. | Heartlands, NH<br>Roanoke Ridge, NH<br>State of Lemoyne
-Dust Storm | Strong wind. Super low visibility.| All regions of **New Austin** except **Hennigan's Stead, NA**.
+Weather | Effects/Details
+:--- | ---
+Clear (Sunny) | Mostly clear with a few clouds here and there.
+Overcast | Solid layer of cloud cover.
+Rain | Visible rain.
+Thunder | Just lightning/thunder, no rain. More common in **Great Plains, WE** and **Heartlands, NH**.
+Thunderstorm | Heavy rain with lightning and thunder.
+Hurricane | Strong wind and heavy rain. Entire state of **Lemoyne** and **Heartlands, NH**.
+Sleet | Freezing rain. Occasional gusts. Common in **Big Valley, WE**, **Heartlands, NH**, **Roanoke Ridge, NH**
+Blizzard (Whiteout) | High winds. Heavy snow. Super low visibility. Northwestern portion of **Grizzlies West, AM** (high mountains).
+Windy | Leaves and other animated particles flying around. Audible wind. Usually indicative of a storm ahead.
+Fog | Cloud cover moves close to ground level. Very low visibility. **Heartlands, NH**, **Roanoke Ridge, NH**, **State of Lemoyne**.
+Mist | Low visibility. More common in early mornings. **Heartlands, NH**, **Roanoke Ridge, NH**, **State of Lemoyne**.
+Dust Storm | Strong wind. Super low visibility. All regions of **New Austin** except **Hennigan's Stead, NA**.
 
 ### Killing, Skinning, and Cooking
 
@@ -247,7 +251,7 @@ Some NPCs have a chance of holding a small mammal pelt of random quality. Usuall
 
 ### Bed, Bath, and Beyond
 
-Some businesses offer lodging, baths, table games, and/or dining. If a shop as two meals available, the less costly one will fully restore all cores while the more costly one will yield a gold health core. Completing the batch "minigame" (chore) will yield a gold stamina core.
+Some businesses offer lodging, baths, table games, and/or dining. If a shop as two meals available, the less costly one will fully restore all cores while the more costly one will yield a gold health core. Completing the batch "minigame" (chore) will yield a gold stamina core. All businesses where clothing can be bought offer a wardrobe somewhere inside or outside the shop.
 
 Business | Amenities
 :--- | ---
@@ -255,7 +259,6 @@ Business | Amenities
 **Keane's Saloon**<br>Valentine, Heartlands NH | Oatmeal
 **Smithfield's Saloon**<br>Valentine, Heartlands, NH | Poker<br>Beef Stew<br>Lamb's Fry with green peas and boiled potatoes.
 **Saints Hotel**<br>Valentine, Heartlands, NH | Room<br>Bath
-**Wallace Station**<br>Big Valley, WE | Wardrobe
 **Old Light Saloon**<br>Van Horn, Roanoke Ridge, NH | Blackjack<br>Fish Stew<br>Lamb's Heart with boiled cabbage.
 **Van Horn Post Station**<br>Van Horn, Roanoke Ridge, NH | Room<br>Bath
 **Rhodes Parlour House**<br>Rhodes, Scarlett Meadows, LE | Blackjack<br>Cracked Wheat and Milk<br>Fried Catfish with greens and boiled beans.
@@ -580,7 +583,7 @@ Sparrow's Egg Orchid | All around northeastern **Roanoke Ridge, NA**.<br>Odd loc
 - Hermit Woman's Shack, Big Valley, WE (high shelf)
 - Black Bone Forest, Big Valley, WE (next to a bag, cans, and a compass between four large rocks; northeast of Trapper)
 - Owanjila Dam, Big Valley, WE (between tree and rock on shoreline; just west of the dam itself)
-- Manzanita Post, Tall Trees, WE
+- Manzanita Post, Tall Trees, WE (atop table next to stew pot over campfire)
 - Aurora Basin, Tall Trees, WE (in a lockbox at the random Skinner campsite on the east shore)
 - **Cholla Springs, NA (lockbox on abandoned white wagon; northwest of Mercer Station)**
 
@@ -700,30 +703,61 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 ### Horse Races
 
 - second solid path directly east of 'Y' in "BIG VALLE**Y**" (race 2)
+- triple junction northwest of **Fort Riggs, Big Valley, WE**
 
 ### Moonshiners
 
-- southwest of the first 'E' in "BLU**E**WATER MARSH"
+- southwest of the first 'E' in "BLU**E**WATER MARSH", 2x Milkweed
+- north of first 'E' in "BLU**E**WATER MARSH", 2x Milkweed
+- north of junction north of second 'E' in "BLUEWAT**E**R MARSH"
+- dead south of **Old Harry Fen, Scarlett Meadows, LE**, 2x Indian Tobacco
+- southeast of the first 'E' in "CUMB**E**RLAND FOREST", 2x Indian Tobacco
+- east of **Vetter's Echo**; 2x Ginseng
 
 ### Competitive Shooter
 
 - south of the second 'e' in "Heartland Ov**e**rflow"
+- southeast of the first 'E' in "N**E**W HANOVER"
+- west of 't' in "Dako**t**a River", southwest of **Downes Ranch**
 
 ### William
 
+*The herbalist guy.*
+
 - northwest of **Lonnie's Shack**, across the path
+- north of first 'a' in "He**a**rtland Overflow"
 - north of deer icon in **Big Valley**, east of train tracks, directly in line west of 'k' in "Da**k**ota River"
+- first 's' in "Mo**s**sy Flats" (**Roanoke Ridge, NH**)
 - dead end of path west of **Moonstone Pond**
+- northwest of **Mysterious Hill Home**
 
 ### Soothsayer
 
 - 20:00-04:00 southwest of **Canebreak Manor** in **Bluewater Marsh, LE**
 
+### KKK
+
+*18:00-06:00*
+
+- just south of junctions along **Little Creek River**, dead east of **Valley View** (across path to the east)
+- southeast of 'L' in "WEST E**L**IZABETH"
+
+### Ex Soldier
+
+*The guy that has the Native American Ring.*
+
+This is random camp encounter which happens only at night. Appears to be active from 00:00 to 04:00. An ex soldier will invite you to his camp, ask for whiskey, reveal his past, and pass out. Loot him and you get the ring. Its effect(s) is unknown, and nothing immediately noticeable occurs aside from larger random wolf packs. The encounter with the ex soldier has several possible locations:
+
+- south of the first 'A' in "THE HE**A**RTLANDS"
+- north of 'H' in "NEW **H**ANOVER"
+- east of the first 'E' in ""SCARL**E**TT MEADOWS"
+- just off the water southwest of **Van Horn Mansion**
+
 # MISSABLE CONTENT
 
 *Missable content grouped by chapter.*
 
-**NOTE:** Some stranger missions can be done with only Arthur.
+**NOTE:** Some stranger missions can be done with only Arthur. This includes certain missions in character strands.
 
 **NOTE:** If you're only concerned with missable cosmetics, Pearson's Scout Jacket and Dutch's Spurs are the only missable cosmetic items.
 
@@ -731,12 +765,13 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 
 *Items:*
 
-- **Mining Company Letter to Cornwall** - Looted in the last train car in "Who the Hell is Leviticus Cornwall"
-- **Oil Company Letter to Cornwall** - Looted in the last train car in "Who the Hell is Leviticus Cornwall"
+- **Mining Company Letter to Cornwall** - Last train car during `Who the Hell is Leviticus Cornwall`
+- **Oil Company Letter to Cornwall** - Last train car during `Who the Hell is Leviticus Cornwall`
 
 ### Chapter II
 
 *Missions:*
+
 - Money Lending and Other Sins (I, II, III)
 - Debt Owed by Mr. Wrobel (see `Antique Watch` in **Items** below)
 - Debt Owed by Chick Matthews
@@ -750,16 +785,18 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 - Event Area missions (3x, look for missable items below) [Video.](https://www.youtube.com/watch?v=QUZl1tseOF8)
 
 *Random Events:*
+
 - Rescue Bill Williamson: Random Event outside the camp where you’re getting asked to help safe Bill from some Bounty hunters
 - Fundraiser: (Possible Chapter II – IV)
 - Braithwaite's Secret: point of interest, the crazy lady in the outhouse, Gertrude Braithwaite. She is no longer there after Chapter 6
 - Horse Races: can be made unavailable if declined once; [Reddit post.](https://redd.it/9yq601)
 
 *Items:*
+
 - **Classic Raccoon Mountain Hat**: looted from **Jon** at **Smithfields Saloon** in **Valentine**; unavailable after Ch. 6
 - **Charity Handbill**: on the table of **Thomas Downes’** charity in **Valentine**; he shows up once before `Americans At Rest`, and once again after that mission; his table is outside of the newly built house adjacent the **Valentine Stable**.
 - **Dutch’s Speech Notes**: picked up in **Horseshoe Overlook** camp; can be missed if you don’t pick it up before you move to the next camp
-- **Native American Ring**: This is random camp encounter at night. Appears to be active from 00:00 to 04:00, several possible locations: south of the first 'A' in "THE HE**A**RTLANDS", east of the first 'E' in ""SCARL**E**TT MEADOWS", and just off the water southwest of **Van Horn Mansion**. A guy will invite you to his camp, ask for whiskey, reveal his past, and pass out; loot him and you get the ring; effects unknown.
+- **Native American Ring**: see [Ex Soldier](#ex-soldier).
 - **John’s Cattleman Revolver**: You can actually get these as **Arthur** in Ch. 2 missions `Paying a Social Call`, `The Sheep and the Goats`, `Pouring Forth Oil` [Reference.](https://reddead.fandom.com/wiki/John%27s_Cattleman_Revolver#Acquisition)
 - **Rare Shotgun**: used by **Hermit Man** at **Manito Glade**
 - **Jimmy's Pen**: during `Polite Society, Valentine Style` only if you spare him; makes some (not all) journal entries more neatly written and darker; does not affect sketches)
@@ -805,7 +842,7 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 - `Valentine Bank Robbery`: only if you have the DLC.
 
 *Items:*
-- Lion's Paw Trinket: stranger mission `He's British, of Course IV`
+- Lion's Paw Trinket: stranger mission `He's British, of Course IV`, hold Y to "Take Trophy" after killing the lion, then craft the trinket at a **Fence**
 - Mine Share: **Trelawny’s Caravan** in **Rhodes** explored during the mission `Magicians for Sport`
 - Rare Rolling Block Rifle: during `Magicians for Sport`, the sniper shooting at from the barn has it
 - Golden Shield: Braithwaite mission `Blood Fueds, Ancient and Modern` inside the manor on the fireplace
@@ -907,6 +944,12 @@ Joaquín Arroyo † | Del Lobo | Alive | $60 | Tumbleweed
 - Cholera Handbill: collected from the **Town Crier** in **Armadillo** after interacting
 - Unfinished Letter: random encounter with undertaker in **Armadillo**; the body he puts in the wagon must be looted before it is thrown into the pit
 
+### Temporary Items
+
+Some items are temporary, but can be retained either via glitch or a trainer function. (RampageTrainer has an "Unlimited Items" code break with prevents the game from removing items from the inventory.)
+
+- Property Deed (second mission for **Central Union Railroad Company**)
+
 # ITEM SELL PRICES
 
 ### Animal Skins
@@ -940,19 +983,19 @@ $10.00 | Rat Tail<br>Queen's<br>Lady Slipper<br>
 
 ### Unable to send orchids by mail.
 
-After taking the **Rare Orchids Order**, sending more than one species of orchid at a time will glitch out the mailing order and you will no longer be able to send orchids nor receive the money for orchids you've sent. Always send only one orchid and receive its payment **one at a time** to avoid glitching it. The mailing menu automatically sends all of whatever Orchid you select for mailing, and this case doesn't apply to the glitch. However, sending more than one Orchid species (example **Dragon's Mouth** and **Acuna's Star**) at the same time will glitch out the mailing order and you will no longer be able to send Orchids or receive payments for them.
+After taking the **Rare Orchids Order**, you are forced to send all you have of one orchid at a time. This does not affect payout via mail. Beware, though, as sending more than one species of orchid at a time will glitch out the mailing order and you will no longer be able to send more orchids nor receive money for orchids sent. For example, sending both a **Dragon's Mouth Orchid** and **Acuna's Star Orchid** will glitch out the mailing order. Always send only one orchid species and receive its payment **one at a time** to avoid glitching it.
 
 ### Double skins.
 
-- If an animal can be picked up, you can get two ticks added to its `Skinned` counter in the **Compendium**. This does not yield two skins per animal, it just counts as skinning it twice.
+If an animal can be picked up, you can get two ticks added to its `Skinned` counter in the **Compendium**. This does not yield two skins per animal, it just counts as skinning it twice.
 
 ### Severe flickering or outright blackout in Bluewater Marsh and/or Bayou Nwa.
 
-I've found this to occur only when I'm near a **Snowy Egret** or the **Bluewater Marsh Ghost**. No clue why as it has never happened anywhere else.
+I've found this to occur only when I'm near a **Snowy Egret** or the ghost of **Agnes Dowd**. No clue why, as it has never happened anywhere else. Likely just specific to my system and/or graphics settings.
 
 ### Javier not getting off his horse during Chez Porter Homestead Robbery.
 
-I've run across one glitch twice: once on Xbox One and once on PC. Basically, you start the robbery, travel to **Chez Porter** with Javier, but when the black bars retract and Javier advises to go on foot from there, he won't get off his horse. The quickest way to fix this is suicide, but you can also run off to abandon Javier thus failing the mission. Either way, afterwards he should spawn off his horse and you can continue the mission.
+Present on both Xbox One and PC. Basically, you start the robbery, travel to **Chez Porter** with Javier, but when the black bars retract and Javier advises to go on foot from there, he won't get off his horse. The quickest way to fix this is suicide, but you can also run off to abandon Javier (thus failing the mission). Either way, restarting from checkpoint afterwards he should spawn off his horse and you can continue the mission normally.
 
 ### Locations not being noted on the map.
 
@@ -963,13 +1006,13 @@ I know of several locations which have buggy overworld map names:
 - Nekoti Rock, Tall Trees, WE
 - Rattlesnake Hollow, Cholla Springs, NA
 
-These can be obtained, they're just dodgy as shit. Save your game quite a ways away from each before entering them for the first time. Just keep rolling the dice until the name shows up, move onto the next, save again, enter the next, etc, etc. The only location I've never been able to obtain is Granger's Hoggery. I've no idea why.
+These can be obtained, they're just dodgy as shit. Save your game quite a ways away from each before entering them for the first time. Just keep rolling the dice until the name shows up, move onto the next, save again, enter the next, etc, etc. The only location I've never been able to obtain is Granger's Hoggery. I've no idea why. There are other cabins and such which don't appear to have overworld map names, but those are completely void as they don't have a name to begin with.
 
 For **Dormin Crest**, you must enter the cabin while the random encounter is still active. (Where there's a trail coming out of the front door.) I noticed in `PC v1436` the front door jots aside just a tiny bit just before reaching to open it. This only happens when the event is active. Still, I had to keep reloading and retrying to get it to show up on the map.
 
-For **Planter's Baun**, I did not explore Grizzlies West extensively as long as I could. Barrow Lagoon and the surrounding area remained with fog of war. In Chapter 3, even though I hadn't explored up there and the fog of war was still there, the name showed up on the map shortly after starting Chapter 3. Yes, on top of the fog of war. I've no idea why or how.
+For **Planter's Baun**, I did not explore Grizzlies West extensively as long as I could. Barrow Lagoon and the surrounding area remained with fog of war. In Chapter 3, even though I hadn't explored up there and the fog of war was still there, the name showed up on the map shortly after starting Chapter 3. Yes, on top of the fog of war. I've no idea why or how. The door of the cabin itself isn't have the same forward jot like **Dormin Crest**, so on every run I've done it's been hit or miss.
 
-For **Nekoti Rock** and **Rattlesnake Hollow**, there appear to be very small, specific areas you have to visit to get the names to pop. I've not narrowed down exactly where aside from inside the small caves and atop the highest peaks just aside OOB (respectively).
+For **Nekoti Rock** and **Rattlesnake Hollow**, there appear to be very small, specific areas you have to visit to get the names to pop. Nothing glitchy to them. I've not narrowed down exactly where aside from inside the cave with the chest (at Rattlesnake) and atop the highest peaks just aside OOB (at Nekoti).
 
 ### Discount at Saint Denis shops as reward for killing Jean Marc as ordered by Mayor Henri Lemieux.
 
@@ -1118,12 +1161,12 @@ Go there and get robbed as Arthur right before the mission **"Red Dead Redemptio
 
 ### Getting out of bounds.
 
-[OOB on San Luis River.](https://www.youtube.com/watch?v=kYmREKUf09A)
-[OOB on San Luis River (alternate).](https://www.youtube.com/watch?v=GfM9vxakKTA)
-[Bridge glitch.](https://www.youtube.com/watch?v=VSRt7FPGItE)
-[OOB far northeast.](https://www.youtube.com/watch?v=eppF2TnLt00)
-[OOB in Devil's Cave.](https://www.youtube.com/watch?v=Kx0llq2e8qs)
-[OOB at Aurora Basin.](https://www.youtube.com/watch?v=KKgIuLrLe8A) - using slide glitch.
+[OOB on San Luis River.](https://youtu.be/kYmREKUf09A)<br>
+[OOB on San Luis River (alternate).](https://youtu.be/GfM9vxakKTA)<br>
+[Bridge glitch.](https://youtu.be/VSRt7FPGItE)<br>
+[OOB far northeast.](https://youtu.be/eppF2TnLt00)<br>
+[OOB in Devil's Cave.](https://youtu.be/Kx0llq2e8qs)<br>
+[OOB at Aurora Basin.](https://youtu.be/KKgIuLrLe8A) - using slide glitch.<br>
 
 You'll need enough alcohol to blackout to do this, and it works anywhere applicable. Most spots under cliffs work well. If you've got the **Wolf Heart Trinket**, you'll need a lot. Now, to get compendium entries and sketches as Arthur for animals specific to New Austin (and/or Guarma before/after of Chapter 5), or just to run around and explore, you can travel out of bounds via the far west end (at the edge of a drop-off) in the **Devil's Cave**. If you're running post-Epilogue and want to explore the southern side out-of-map or travel to Guarma much quicker, an infinitely faster method is to travel to a specific point on the southern shore of the **San Luis River**.) Do the following once at either location:
 
@@ -1155,13 +1198,31 @@ Some POIs can be sketched as both Arthur and John (meaning two journal sketches 
 - Blind Man Cassidy
 - Strange Statues
 
+### Huge Bass with Kieran
+
+In Chapter 3, while fishing at the second spot during **Fishing - Kieran**, a huge bass (reminiscient of the legendary bass found in the **San Luis River**) has a chance of spawning during the mission. It is not a legendary fish and cannot be mailed to Jeremy Gill.
+
 # EASTER EGGS
 
-Many sourced from the [Red Dead Fandom](https://reddead.fandom.com/wiki/Easter_Eggs_%26_Secrets_in_Redemption_2).
+Much information here was sourced from the [Red Dead Fandom](https://reddead.fandom.com/wiki/Easter_Eggs_%26_Secrets_in_Redemption_2).
+
+### Soothsayer
+
+A fortuneteller woman of African American heritage. Otherwise more commonly known as "the black lady fortuneteller in the swamp". In foggy weather at 18:00-02:00, she can be found at two different locations: south of **Canebreak Manor**, and northeast of **Bayall Edge**. She can be encountered again three in-game days after the previous encounter.
+
+### Sun Worshipper
+
+[Reference.](https://youtu.be/97ruEliFXt0)
+
+Bob Brownlee is a Sun worshipper who can be found at 12 different locations around New Austin. He spawns only when it is sunny weather and around noon. He can be encountered again three in-game days after the previous encounter.
 
 ### KKK
 
 Encountered some guys after Epilogue II northeast of Lucky's Cabin (Heartlands, NH). Unsure if they continuously spawn post story or if they're one-time events, but I've found them in four places, three of which were in Lemoyne.
+
+### Ghost in Swamp
+
+A physical manifestation of the ghost of a woman can be seen near a tree west of the **Trapper's Cabin**. [Here's a compilation of all possible encounters.](https://youtu.be/P3Tra3O6Rko)
 
 ### Skinner Brothers Yelps
 
@@ -1369,13 +1430,15 @@ Both Hawks and Eagles spawn flying over dead carcasses. This happens even at nig
 
 ### Horned Owl
 
-*Primarily nocturnal. Some spawns are 24-hour. Three coats: Californian (rust brown), Coastal (brown gray), and Great (gray white).*
+*Californian Horned Owl, Coastal Horned Owl, and Great Horned Owl.*
 
-*Owls seem to share many (if not all) of the same perch locations as Hawks and Eagles. However owls' spawn rate is apparently drastically lower and primarily come out at night. Go figure.*
+*Primarily nocturnal. Some spawns are 24-hour. Three coats: Californian (rust brown), Coastal (tan gray), and Great (gray white).*
 
-Coastal and Great variants can be found across the entire map despite name implications. I've found Coastals as far north as **Cairn Lake** (Grizzlies West, AM) and as far south as **Lake Don Julio** (Rio Bravo, NA). Owls in **New Austin** are usually Californians, but all three coats can spawn in the entire state.
+*Owls seem to share many (if not all) perch locations with Hawks and Eagles. However owls' spawn rate is apparently drastically lower and they primarily come out at night. Go figure.*
 
-As far as I can tell, the Californian spawns only south of the **Upper Montana River** until I'm proven otherwise. It is possible to study, kill, and pluck one as Arthur. There is an in-flight spawn north of Blackwater which Owls start from, then have a chance of taking a route headed north in which they fly over both the **Upper Montana River** and **Lone Mule Stead**. The alternative route appears to fly towards the plains west of Blackwater. I have never seen a Californian perched atop **Lone Mule**, though. Some players have noted finding it in the marsh flats around **Canebreak Manor** (Bluewater Marsh, LE), but I have yet to see it anywhere north of the **Upper Montana River**.
+Coastal and Great variants can be found across the entire map despite name implications. I've found Coastals as far north as **Cairn Lake** (Grizzlies West, AM) and as far south as **Lake Don Julio** (Rio Bravo, NA). Coastals seem to spawn more frequently around bodies of water. Again, go figure. Owls in **New Austin** are usually Californians, but all three coats can spawn in the entire state. Coastals in New Austin are more common along the **San Luis River** and **Lake Don Julio**.
+
+The Californian appears to spawn only south of the **Upper Montana River**. It is possible to study, kill, and pluck one as Arthur via traveling to the outskirts of New Austin using an OOB glitch (best done blacking out at the **Devil's Cave** in **Big Valley, WE**). There is an in-flight spawn north of **Blackwater** which owls start from. They have a chance of taking a route headed north on which they fly over both the **Upper Montana River** and **Lone Mule Stead**. The alternative route appears to fly towards the plains west of Blackwater. I have never seen a Californian perched atop **Lone Mule**, though. Some players have noted finding it in the marsh flats around **Canebreak Manor** (Bluewater Marsh, LE), but I have yet to see it anywhere north of the **Upper Montana River**. Given there are out-of-place animal icons on the map (desert ram in **Big Valley**, armadillo near **Caliga Hall**), I reckon the Californian can be found in the southwest region of **Big Valley**. [This fella posted screens of his catch at Fort Riggs.](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/page/64/#comment-1071852129)
 
 According to GTABase, the areas with the highest concentration of Owl spawns are (highest to lowest): Tall Trees, slightly north of Strawberry, the whole stretch of the **Little Creek River** (from **Hanging Dog Ranch** to **Sheperd's Rise**), **Cumberland Falls**, the **Trading Post** (point of interest located northwest of **Gill's Landing**), and the entirety of **Cumberland Forest**. I can verify **Tall Trees** is the best for Owl hunting in general, but pre-Epilogue I've killed plenty of Great Horned and Coastals around **Fort Wallace** (Cumberland Forest, NH), **Cumberland Falls** (Cumberland Forest, NH) and down that section of the **Dakota River**, as well as a ton around **Canebreak Manor** (Bluewater Marsh, LE).
 
@@ -1399,11 +1462,6 @@ According to GTABase, the areas with the highest concentration of Owl spawns are
 - Two Crows, Cholla Springs, NA (perched atop wagon)
 - Ridgewood Farm, Cholla Springs, NA (perched atop north barn above front doors)
 - Silent Stead, Gaptooth Ridge, NA (perched atop cabin above front door)
-
-*Speculated Locations:*
-
-- shipwreck islands (atop dead tree)
-- elysian pool (atop dead tree)
 
 ### Timber Wolf
 
@@ -1487,26 +1545,45 @@ According to GTABase, the areas with the highest concentration of Owl spawns are
 
 *Small birds (sparrows, blue jays, woodpeckers, etc) are primarily diurnal, but can be stirred up while roosting at night.*
 
-Most small birds can be found pretty much everywhere except **New Austin** (excluding **Hennigan's Stead, NA**). Hotspots for easy finds are along the entire **Dakota River** and **Kamassa River**. Look atop rocks in the water and near the shore.
+Most small birds can be found pretty much everywhere. Hotspots for easy finds are along the entire **Dakota River** and **Kamassa River**. Look atop rocks in the water and near the shore.
 
-Red Bellied Woodpeckers can be found essentially everywhere. Pileated Woodpeckers can be found most commonly in **Big Valley, WE**, **Grizzlies West, AM**, and **Grizzlies East, AM**.
+- Red Bellied Woodpeckers can be found essentially everywhere. I've come across only two which were actually on the side of a tree. Both were next to the **Kamassa River** around the **Viking Burial Site** in **Roanoke Ridge, NH**.
+- Pileated Woodpeckers can be found most commonly in **Big Valley, WE**, **Grizzlies West, AM**, and **Grizzlies East, AM**.
+- American Robins can be found in **Scarlett Meadows, LE** and **Great Plains, WE**.
+- California Quail are quite localized and can be found in groups of 2 to 3. Primarily in eastern **Big Valley, WE** (east of Strawberry), but a few can be found around **Carmody Dell, Heartlands, NH**.
 
-Robins can be found in **Scarlett Meadows, LE** and **Great Plains, WE**.
+Below are locations I've found smaller birds:
+
+Bird | Location(s)
+:--- | ---
+Red Bellied<br>Woodpecker | Atop rocks and on the sides of trees around the **Kamassa River** northwest of **Beaver Hollow, Roanoke Ridge, NH**.
+Pileated<br>Woodpecker | Flying overhead in **Black Bone Forest, Big Valley, WE**.
+American Robin | Atop large rocks in **Great Plains, WE**.
+California Quail | 2-3 on west side of house at **Lone Mule Stead, Big Valley, WE**.<br>Southwest of **Brush Fire**.
 
 ### Bull
 
-- Carmody Dell, Heartlands, NH
-- Hanging Dog Ranch, Big Valley, WE (scoreless)
+- Carmody Dell, Heartlands, NH (in fenced off area on north side of ranch)
+- Hill Haven Ranch, Scarlett Meadows, LE (in the southeasternmost pen)
+- Bayou Nwa, LE (in ranch north of second 'A' in "BAYOU NW**A**")
+- Hanging Dog Ranch, Big Valley, WE (scoreless; Epilogue only)
 
 ### Ox
 
+- Robard Farm, Scarlett Meadows, LE (inside the wooden fence across from the small pond; southwest of second 'F' in "Southfield **F**lats")
+- Robard Farm, Scarlett Meadows, LE (northwest edge of the 's' in "Southfield Flat**s**")
+- Caliga Hall, Scarlett Meadows, LE (near the water northeast of all the houses)
+- Braithewaite Manor, Scarlett Meadows, LE (southeast of the main plantation house)
 - Guthrie Farm, Heartlands, NH
-- Downes Ranch, Heartlands, NH
+- Downes Ranch, Heartlands, NH (inside fence directly southwest of barn)
+- Hill Haven Ranch, Scarlett Meadows, LE (walking with rancher across the road northwest of the ranch)
+- Eris Field, Scarlett Meadows, LE (walking with rancher on east side of road directly west of north side of **Ringneck Creek**)
 
 ### Rooster
 
-Emerald Ranch, Heartlands, NH (southwest side of ranch)
-Macfarlane's Ranch, Hennigan's Stead, NA (south side of ranch)
+- Emerald Ranch, Heartlands, NH (southwest side of ranch)
+- Bayou Nwa, LE (in ranch north of second 'A' in "BAYOU NW**A**")
+- Macfarlane's Ranch, Hennigan's Stead, NA (up to four around chicken coops on south side of ranch)
 
 ## Activites
 
@@ -1537,6 +1614,7 @@ Macfarlane's Ranch, Hennigan's Stead, NA (south side of ranch)
 ### Stew Bowl
 
 - Valentine, Heartlands, NH (in camp west side of town)
+- Beecher's Hope, Great Plains, WE (Abigail will serve stew every evening)
 - Blackwater, Great Plains, WE (west side of bank construction)
 
 ### Chop Firewood
@@ -1630,6 +1708,8 @@ For select animal population maps:
 - [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer.
 - [Proper horse sprint on controller.](https://www.nexusmods.com/reddeadredemption2/mods/1347)
 - [Lenny's Mod Loader](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) - stream modded content directly into game.
+- [Huntsman](https://www.nexusmods.com/reddeadredemption2/mods/1482) - animals yield more materials.
+- [Herbalist](https://www.nexusmods.com/reddeadredemption2/mods/1457) - plants yield more ingredients.
 
 ### References
 
