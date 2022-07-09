@@ -61,6 +61,7 @@
 <br>&emsp;[Ghost In Swamp](#ghost-in-swamp)
 <br>&emsp;[KKK](#kkk)
 <br>&emsp;[Ex Soldier](#ex-soldier)
+<br>&emsp;[Feral Man](#feral-man)
 <br>[MISSABLE CONTENT](#missable-content)
 <br>&emsp;[Chapter I](#chapter-i)
 <br>&emsp;[Chapter II](#chapter-ii)
@@ -75,6 +76,7 @@
 <br>&emsp;[Animal Skins](#animal-skins)
 <br>&emsp;[Orchids](#orchids)
 <br>[BUGS](#bugs)
+<br>&emsp;[Unable to obtain Wild Man's Journal](#unable-to-obtain-wild-mans-journal)
 <br>&emsp;[Bugged Soldier During The King's Son](#bugged-soldier-during-the-kings-son)
 <br>&emsp;[Unable to send orchids by mail.](#unable-to-send-orchids-by-mail)
 <br>&emsp;[Double skins.](#double-skins)
@@ -101,15 +103,10 @@
 <br>&emsp;[Duplicate journal sketches.](#duplicate-journal-sketches)
 <br>&emsp;[Huge Bass with Kieran](#huge-bass-with-kieran)
 <br>[EASTER EGGS](#easter-eggs)
-<br>&emsp;[Soothsayer](#soothsayer)
-<br>&emsp;[Sun Worshipper](#sun-worshipper)
-<br>&emsp;[KKK](#kkk)
-<br>&emsp;[Ghost In Swamp](#ghost-in-swamp)
 <br>&emsp;[Skinner Brothers' yelps.](#skinner-brothers-yelps)
 <br>&emsp;[Voices at Colter.](#voices-at-colter)
 <br>&emsp;[Whispers in Roanoke forests.](#whispers-in-roanoke-forests)
 <br>&emsp;[Bolger Glade whispers.](#bolger-glade-whispers)
-<br>&emsp;[Feral man - Wild Man's Journal.](#feral-man---wild-mans-journal)
 <br>&emsp;[Lemoyne Ghost Train](#lemoyne-ghost-train)
 <br>[MAPS](#maps)
 <br>&emsp;[Map Key/Legend](#map-keylegend)
@@ -805,6 +802,12 @@ This is random camp encounter which happens only at night. Appears to be active 
 - just off the water southwest of **Van Horn Mansion**
 - east of **Doverhill**
 
+### Feral Man
+
+This is a sequence of three random events. The journal item is missable and [it is possible to glitch it out](#unable-to-obtain-wild-mans-journal).
+
+https://reddead.fandom.com/wiki/Feral_Man
+
 # MISSABLE CONTENT
 
 *Missable content grouped by chapter.*
@@ -1033,6 +1036,10 @@ $10.00 | Rat Tail<br>Queen's<br>Lady Slipper<br>
 # BUGS
 
 *These are bugs which don't appear to have exploitable benefits.*
+
+### Unable to obtain Wild Man's Journal
+
+If you're facing a wonky direction just right while picking up the **Wild Man's Journal**, it is possible to clip out of the animation and forever prevent you from obtaining it. Do yourselves a favor and make a save before pursuing him back to his cave just in case you stumble into some stupid clipping action like I did.
 
 ### Bugged soldier during The King's Son
 
@@ -1292,12 +1299,6 @@ Spooked by those voices before? Especially up at Colter where you know damn well
 ### Bolger Glade Whispers
 
 [Explanation on Reddit.](https://www.reddit.com/r/reddeadredemption/comments/ew1dx0/bolger_glade_sounds/)
-
-### Feral Man - Wild Man's Journal
-
-This is a random event and the journal item is missable.
-
-https://reddead.fandom.com/wiki/Feral_Man
 
 ### Lemoyne Ghost Train
 
