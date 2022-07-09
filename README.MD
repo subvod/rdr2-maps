@@ -128,8 +128,7 @@
 <br>&emsp;&emsp;[American Robin](#american-robin)
 <br>&emsp;&emsp;[California Quail](#california-quail)
 <br>&emsp;&emsp;[Pigeon](#pigeon)
-<br>&emsp;&emsp;[Black Rat](#black-rat)
-<br>&emsp;&emsp;[Brown Rat](#brown-rat)
+<br>&emsp;&emsp;[Rat](#rat)
 <br>&emsp;&emsp;[Gray Wolf (New Austin)](#gray-wolf)
 <br>&emsp;[Domestic Animal Locations](#domestic-animal-locations)
 <br>&emsp;&emsp;[Bull](#bull)
@@ -1661,32 +1660,26 @@ Location | Details
 Van Horn, Roanoke Ridge, NH | swarming on the north side of town
 Braithwaite Manor, Scarlett Meadows, LE | swarming over grass northeast of the main plantation house
 
-### Black Rat
+### Rat
 
-*Primarily nocturnal.*
+*Primarily nocturnal. Most spawns can yield either Black Rats or Brown Rats.*
 
-Location | Details
-:--- | ---
-Oil Derrick, Heartlands, NH | close to the rig tower
-Limpany, Heartlands, NH | mainly in the two story building on the west end
-Bolger Glade, Scarlett Meadows, LE | in and around the **Abandoned Church**
-Pleasance, Scarlett Meadows, LE | around the burned down school house
-Copperhead Landing, Bluewater Marsh, LE | around the dilapidated cabin
-Wild Man's Cave, Roanoke Ridge, NH | inside the cave
-Van Horn, Roanoke Ridge, NH | behind the **Old Light Saloon**
-Hermit Woman's Shack, Big Valley, WE | inside the shack
-Lone Mule Stead, Big Valley, WE | around the cabin
-Fort Riggs, Big Valley, WE | around the western fort
-
-### Brown Rat
-
-*Primarily nocturnal.*
-
-Location | Details
-:--- | ---
-Prinz & Co, Bayou Nwa, LE | around the trash and carcass piles
-Saint Denis, Bayou Nwa, LE | tons of scoreless inside **Doyle's Tavern** during the two infestation random encounters associated with it
-The Old Bacchus Place, Hennigan's Stead, NA | numerous scoreless inside the shack
+Location | Species | Details
+:--- | --- | ---
+Oil Derrick, Heartlands, NH | Black | close to the rig tower
+Limpany, Heartlands, NH | Black | mainly in the two story building on the west end
+Bolger Glade, Scarlett Meadows, LE | Black | in and around the **Abandoned Church**
+Prinz & Co, Bayou Nwa, LE | Black, Brown | around the trash and carcass piles
+Saint Denis, Bayou Nwa, LE | Brown | tons of scoreless inside **Doyle's Tavern** during the two infestation random encounters associated with it
+Pleasance, Scarlett Meadows, LE | Black | around the burned down school house
+Copperhead Landing, Bluewater Marsh, LE | Black | around the dilapidated cabin
+Fort Brennand, Roanoke Ridge, NH | Black | inside the fort walls
+Wild Man's Cave, Roanoke Ridge, NH | Black | inside the cave
+Van Horn, Roanoke Ridge, NH | Black | behind the **Old Light Saloon**
+Hermit Woman's Shack, Big Valley, WE | Black | inside the shack
+Lone Mule Stead, Big Valley, WE | Black | around the cabin
+Fort Riggs, Big Valley, WE | Black | around the western fort
+The Old Bacchus Place, Hennigan's Stead, NA | Brown | numerous scoreless brown rats inside the shack
 
 ### Gray Wolf
 
