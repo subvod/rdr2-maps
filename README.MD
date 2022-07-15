@@ -2137,7 +2137,7 @@ American Standardbred | Palomino Dapple | Race | Race | 3 | 3 | 5 | 4 | **Valent
 American Standardbred | Silver Tail Buckskin | Race | Race | 4 | 4 | 5 | 5 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
 Andalusian | Dark Bay | War | Standard | 5 | 4 | 3 | 3 | **Strawberry, Big Valley, WE** (stable)
 Andalusian | Rose Grey | War | Standard | 7 | 5 | 3 | 3 | **Van Horn, Roanoke Ridge, NH** (stable)
-Andalusian | Palomino | War | Standard | 7 | 5 | 3 | 3 | **Brandywine Drop, Roanoke Ridge, NH**
+Andalusian | Perlino | War | Standard | 7 | 5 | 3 | 3 | **Brandywine Drop, Roanoke Ridge, NH**
 Appaloosa | Blanket | Work | Standard | 3 | 4 | 3 | 3 | -
 Appaloosa | Brown Leopard | Work | Standard | 5 | 6 | 4 | 3 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
 Appaloosa | Leopard | Work | Standard | 5 | 6 | 4 | 3 | **Van Horn, Roanoke Ridge, NH** (stable)
