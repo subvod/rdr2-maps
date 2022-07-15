@@ -20,8 +20,9 @@
 <br>&emsp;[Testing tonics.](#testing-tonics)
 <br>&emsp;[How to max weapon familiarity fast?](#how-to-max-weapon-familiarity-fast)
 <br>&emsp;[How to max bond horses fast?](#how-to-max-bond-horses-fast)
-<br>&emsp;[Map icons.](#map-icons)
-<br>&emsp;[How to trigger camp item requests?](#how-to-trigger-camp-item-requests)
+<br>&emsp;[Map Icons](#map-icons)
+<br>&emsp;[Camp Item Requests](#camp-item-requests)
+<br>&emsp;[Shop Robberies](#shop-robberies)
 <br>&emsp;[Alcohol strength and states.](#alcohol-strength-and-states)
 <br>&emsp;[What's the best saddle?](#whats-the-best-saddle)
 <br>&emsp;[Traveling long distances automatically.](#traveling-long-distances-automatically)
@@ -36,6 +37,7 @@
 <br>&emsp;[Collecting animals which land in deep water.](#collecting-animals-which-land-in-deep-water)
 <br>&emsp;[Farming gritty fish meat for potent predator bait.](#farming-gritty-fish-meat-for-potent-predator-bait)
 <br>&emsp;[Farming wild animals.](#farming-wild-animals)
+<br>&emsp;[List of materials for Satchel, Camp, and Trapper.](#list-of-materials-for-satchel-camp-and-trapper)
 <br>&emsp;[What is the best weapon?](#what-is-the-best-weapon)
 <br>&emsp;[How to get perfect skins?](#how-to-get-perfect-skins-pelts-hides-etc)
 <br>[FISHING TIPS](#fishing-tips)
@@ -138,6 +140,8 @@
 <br>&emsp;&emsp;[Rooster](#rooster)
 <br>&emsp;&emsp;[Chicken](#chicken)
 <br>&emsp;&emsp;[Pig](#pig)
+<br>&emsp;&emsp;[Alpine Goat](#alpine-goat)
+<br>&emsp;[Horse Stats and Locations](#horse-stats-and-locations)
 <br>&emsp;[Activities](#activites)
 <br>&emsp;&emsp;[Coffee](#coffee)
 <br>&emsp;&emsp;[Alcohol Cases](#alcohol-cases)
@@ -372,15 +376,94 @@ Yes, it's a thing and if you'd never seen it on the Compendium for each weapon y
 - Point of interest, dreamcatcher, dinosaur bone, and rock carving locations are added when they are "investigated".
 - All map icons do not change based on what character discovered them. The journal sketches do, though.
 
-### How to trigger Camp Item Requests?
+### Camp Item Requests
 
-*Triggering Pearson's rabbit request to obtain the unique Scout Jacket:*
+*Info on camp item requests. Details are below the table.*
 
-It's available from Ch.2 to Ch.6. Pearson will be drinking beer at his wagon's table. When you walk near him, it will only give a **Greet** prompt when the request is available for activation (like every other request). Low or zero health core seems to do the trick for this. Sleep until morning, then drink a bunch of whiskey or moonshine. Hell, eat oleander sage if you have to. Anything to get that core to zero will work. I've been able to consistently get it to pop just after noon, though. In that attempt, sleep until noon, leave camp a ways out, get your health core to zero, then head back in.
+Camp Member | Chapter(s) | Request | Reward
+:--- | --- | ---
+Abigail | II | $5.00 | -
+Bill | II-IV | Hair Pomade | -
+Pearson | II-IV | Rabbit Carcass | Scout Jacket
+Pearson | II-III | Naval Compass | -
+Charles | II | Oleander Sage | Poison Arrow
+Charles | Epilogue | Eagle Feather | -
+Dutch | II-IV | Pipe | Vaquero Rider Spurs
+Hosea | II-IV | 2x Ginseng | -
+Hosea | II-IV | Crime Novel | -
+Jack | II-IV | Penny Dreadful Book | Chocolate Bar
+Jack | II | Thimble | Jack's Drawing
+Javier | II-IV | Oleander | Poison Throwing Knife
+Kieran | III | 2x Burdock Root | Horse Meal Pamphlet
+Lenny | II-IV | Pocket Watch | -
+Mary Beth | II | Fountain Pen | -
+Molly | III-IV | Pocket Mirror | -
+Sadie | III | Harmonica | -
+Sean | II-III | Kentucky Bourbon | -
+Susan | II | 2x Oregano/Mint/Thyme | -
+Tilly | II | Necklace | -
+Uncle | Epilogue | Kentucky Bourbon<br>Milkweed<br>Peppermint<br>Hair Pomade<br>Skunk Carcass | Frontier Vest<br>Tornado Boots<br>Drifter Hat<br>Classic Frock Coat
 
-*Triggering Dutch's pipe request:*
+**Pearson's Rabbit**
+
+Available from Chapter II to Chapter VI. Pearson will be drinking beer at his wagon's table. When you walk near him, it will only give a **Greet** prompt when the request is available for activation (like every other request). There are two cheese methods to get it to pop; rinse and repeat as needed:
+
+- Low or zero health core. Sleep until morning, then drink a bunch of **Whiskey/Moonshine** or eat **Oleander Sage**. Head out of camp until around 10:00, then head back in.
+- Wait until just after 10:00, then suicide jump off the cliff to the west right out of camp. After respawning, head back into camp.
+
+**Dutch's Pipe**
+
+Vetter's Echo, Big Valley, WE
 
 I've gotten it to pop right after starting both Chapters II and III. In those, Dutch will be standing on the front right side of his tent. In Chapter IV, he'll be standing outside the south door of **Shady Belle**.
+
+**Jack's Thimble**
+
+Looted from random enemies after given the request. Seems to be looted without fail from enemies in random events, even the **Aberdeens**.
+
+**Hosea's Crime Novel**
+
+Hagen Orchards, Bayou Nwa, LE
+
+**Mary Beth's Fountain Pen**
+
+Osman Grove, Roanoke Ridge, NH
+
+**Molly's Pocket Mirror**
+
+Martha's Swain, Grizzlies East, AM
+
+**Jack's Book**
+
+*Locations:*<br>
+Osman Grove, Roanoke Ridge, NH<br>
+Clawson’s Rest, Grizzlies West, AM<br>
+Pleasance, Scarlett Meadows, LE<br>
+Downes Ranch, Heartlands, NH<br>
+Lake Don Julio House, Rio Bravo, NA
+
+**Pearson's Naval Compass**
+
+Given only while playing poker with him.
+
+**Tilly's Necklace**
+
+Given only while playing dominoes with her.
+
+**Sadie's Harmonica**
+
+Granger's Hoggery, Heartlands, NH
+
+**Uncle's Home Remedy**
+
+I haven't figured out a specific way to get this to pop. I've logged it happening from 08:00-20:00.
+
+### Shop Robberies
+
+Shop | Tip Location
+:--- | ---
+Valentine Doctor | In camp during Chapter II, Tilly will walk up to you and mention it.
+Lonnie's Shack | A black woman in a caged wagon east of **Twin Stack Pass, Heartlands, NH**. 14:00
 
 ### Alcohol strength and states.
 
@@ -503,6 +586,33 @@ If you're looking to farm animals for pelts, it's best to get rid of the carcass
 1. Sell the carcass whole.
 2. Shimmy the carcass into to a body of water deep enough for the carcass to float.
 3. Burn the carcass. I've had super spotty success with this, which is why I advise more to use the first two methods. Sometimes burning the carcass still leaves bones, where as donating/selling the carcass completely gets rid of it for sure and leaving it floating in even semi-deep water does the job more consistently.
+
+### List of Materials for Satchel, Camp, and Trapper
+
+**Satchel**
+
+Item | Quantity
+:--- | ---
+Deer Pelt | 7
+Buck | 1
+Elk | 2
+Badger | 1
+Squirrel | 1
+Panther | 1
+Bison | 1
+Raccoon | 1
+Boar | 1
+Iguana | 1
+Beaver | 1
+Rabbit | 1
+Cougar | 1
+Wolf | 1
+
+**Camp Upgrades**
+
+Item | Quantity
+:--- | ---
+NA | NA
 
 ### What is the best weapon?
 
@@ -719,13 +829,13 @@ Beecher's Hope, Great Plains, WE | by a lone tree southeast of **Beecher's Hope*
 
 Pamphlet | Location
 :--- | ---
-Special Miracle Tonic | lockbox under bloodstained green tent on plateau southeast of **Vetter's Echo**
-Special Health Cure | chest at the scaffolding of **Face in Cliff**<br><br>reward for recovering Dr. Alphonse Renaud's medical wagon during `No Good Deed`
-Special Bitters | lockbox near destroyed wagon and crates scattered on the ground just south of **Owanjila Dam**
-Special Snake Oil | inspect floorboard in a shack east and slightly south along the railroad tracks of **Eris Field**
-Special Horse Stimulant | chest under desk in the Sheriff building of **Limpany**
-Special Horse Medicine | chest underneath stairs in southeast corner of **Fort Brennand**
-Special Horse Reviver | tree stump southwest of **Hill Haven Ranch**
+Special Miracle Tonic | Lockbox under bloodstained green tent on plateau southeast of **Vetter's Echo, Big Valley, WE**
+Special Health Cure | Chest at the scaffolding of **Face in Cliff, Grizzlies East, AM**<br>reward for recovering Dr. Alphonse Renaud's medical wagon during `No Good Deed`
+Special Bitters | Lockbox next to open luggage near destroyed wagon and crates scattered on the ground just south of **Owanjila Dam, Big Valley, WE**
+Special Snake Oil | Under floorboard in a small dilapidated shack along the railroad tracks east of **Eris Field, Scarlett Meadows, LE**
+Special Horse Stimulant | Chest under desk in the Sheriff building of **Limpany, Heartlands, NH**
+Special Horse Medicine | Chest underneath stairs in southeast corner of **Fort Brennand, Roanoke Ridge, NH**
+Special Horse Reviver | Lockbox in tree stump southwest of **Hill Haven Ranch, Scarlett Meadows, LE**
 Dynamite Arrow | Lockbox under bridge south of **Wapiti Indian Reservation**.
 Explosive Slug | Chest outside an Alchemist’s burned down house nearby the train tracks between **Gaptooth Ridge** and **Cholla Springs**.
 Incendiary Buckshot | Lockbox under the floorboards of the dilapidated cabin at **Copperhead Landing**.
@@ -734,7 +844,7 @@ Volatile Fire Bottle | Lockbox at **Brush Fire**.
 Homing Tomahawk | Lockbox inside **Flattened Cabin**.
 Horse Meal | Reward for completing Kieran's request for Burdock Root (during Chapter 3).
 Poison Arrow | Lockbox beside the **Mysterious Hill Home**.<br><br>Lockbox at poachers' camp during `Hunting - Charles`
-Poison Throwing Knife | Floorboard of shack to the north of **Saint Denis** near the train and roadways.
+Poison Throwing Knife | Under floorboard of long dilapidated shack north of **Saint Denis** west of the train tracks.
 
 ### Documents
 
@@ -807,7 +917,7 @@ Note from the Sculptor (!) | Looted from hanged corpse at **Face in Cliff** in *
 Dutch's Speech Notes (!) | On a table next to a broken wagon right outside of camp to the east.
 English Spelling Practice | On a desk inside a dilapidated school house at **Fort Riggs, Big Valley, WE**.
 Property Deed (!) | Obtained during the second encounter with Percy Whitsickle at **Central Union Railroad** in **Roanoke Ridge, NH**. Taking the note after returning it to Percy will prevent the event from progressing. Keeping a copy of the document with RampageTrainer's "Unlimited Items" function does not affect the event progression.
-Norwegian Journal Page<br>Norwegian Photo | Chimney and under floorboard (respectively) in small house south of main cabin at **Manzanita Post, Tall Trees, WE**.
+Norwegian Journal Page<br>Norwegian Photo<br>Norwegian Newspaper Scrap | Chimney, under floorboard, and looted from NPCs (respectively) in small house south of main cabin at **Manzanita Post, Tall Trees, WE**.
 True Tales of Frank Heck No. 102 | Inside **Lake Don Julio House** in **Rio Bravo, NA**. Also found in **Shady Belle** during Chapter IV.
 Hopes for the Future | Obtained from Dr. Macintosh in **Annesburg, Roanoke Ridge, NH**.
 Get Rich Quick | Obtained from Timothy A. Donahue northeast of the *Bastille Saloon** entrance in **Saint Denis, Bayou Nwa, LE**.
@@ -946,7 +1056,7 @@ Below are spawn locations for triggering the races.
 
 Racer | Race 1 Location | Race 2 Location
 :--- | --- | ---
-White Horse | triple junction northwest of **Fort Riggs, Big Valley, WE** | second solid path directly east of 'Y' in "BIG VALLE**Y**"
+Thoroughbred | Junction southeast of **Wallace Overlook, Big Valley, WE**. Approach from south. | Triple junction northwest of **Fort Riggs, Big Valley, WE**. Approach from **Strawberry Stable**.
 
 ### Moonshiners
 
@@ -1069,11 +1179,11 @@ https://reddead.fandom.com/wiki/Feral_Man
 - **Newsboy Flat Cap**: worn by Cornwall's men during `The Sheep and the Goats`
 - **Ornate Dagger**: can be picked up after killing the **Vampire** in **Saint Denis** after investigating all **Mysterious Writings** around the city
 - **Flaco's Revolver, Granger's Revolver, Midnight's Pistol, Calloway's Revolver**: picked up after killing the associated gunslingers during `The Noblest of Men, and a Woman` stranger missions
-- **Scout Jacket**: reward for **Pearson's** Rabbit request; he will be standing at his wagon drinking beer and whistling. Greet him to enable the request.
+- **Scout Jacket**: reward for Pearson's Rabbit request; he will be standing at his wagon drinking beer and whistling. Greet him to enable the request.
 
 *Item Requests:*
 - Jack: Thimble (for **Jack's Drawing**; randomly speaks with you after `A Fisher of Men`)
-- Pearson: Rabbit Carcass (for the unique **Scout Jacket**; interact while he's behind the wagon table with the cauldron on top drinking a beer 08:00-14:00; I've had the best luck just after 10:00)
+- Pearson: Rabbit Carcass (for the unique **Scout Jacket**; interact while he's behind the wagon table with the cauldron on top drinking a beer 08:00-14:00)
 - Abigail: 5$: just after `A Fisher of Men`
 - Jack: Comic Book (automatically during `A Fisher of Men`)
 - Javier: Oleander (interact while at the games table with his knives)
@@ -1590,13 +1700,13 @@ Random encounters don't seem to be tied to a specific time span. I've seen a Gri
 Animal(s) | Location(s) | Description
 :--- | --- | ---
 Cougar<br>Deer | Along the **Little Creek River**. | Cougar stalks and attacks Deer.
-Western Bull Moose | **Lake Isabella**<br>**Barrow Lagoon**<br>**Cairn Lake** | Slipping on ice while attempting to stand upright.
-Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | - | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
+Western Bull Moose | Lake Isabella<br>Barrow Lagoon<br>Cairn Lake | Slipping on ice while attempting to stand upright.
+Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | Elysian Pool | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
 Whitetail Buck | - | Two Bucks (one dead) with interlocked horns. Live Buck cannot escape.
 Whitetail Buck | southwest of second 'H' in "THE **H**EARTLANDS" | Two Bucks pushing each other around.
 Bighorn Ram | Northwest side of junction northwest of 'R' in "Little Creek **R**iver".<br>Just east of the Trapper in **Big Valley, WE**.<br>Dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS". | Two Rams headbutt each other.
 American Bison | southwest of 'O' in "Heartland **O**verflow" | One Bison headbutts another.
-Grizzly Bear<br>Gray Wolf | Barrow Lagoon, Grizzlies West, AM | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly.
+Grizzly Bear<br>Gray Wolf | Barrow Lagoon, Grizzlies West, AM<br>Cattail Pond, Grizzlies West, AM | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly. 10:00
 Grizzly Bear | West of **Watson's Cabin** in Big Valley, WE. | Scratching itself on a tree trunk.
 Grizzly Bear<br>Sockeye Salmon | O'Creagh's Run, Grizzlies East, AM<br>Little Creek River, Big Valley, WE<br>Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**) | Grizzly catches and eats Salmon.
 Fox | - | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
@@ -1931,19 +2041,20 @@ Rats can often be found scavenging on dead animals. They will also scavenge on h
 
 Location | Species | Details
 :--- | --- | ---
-Oil Derrick, Heartlands, NH | Black | close to the rig tower
-Limpany, Heartlands, NH | Both | mainly in the two story building on the west end
-Bolger Glade, Scarlett Meadows, LE | Both | in and around the **Abandoned Church**
-Prinz & Co, Bayou Nwa, LE | Both | around the trash and carcass piles
+Oil Derrick, Heartlands, NH | Black<br>Brown | close to the rig tower
+Limpany, Heartlands, NH | Black<br>Brown | mainly in the two story building on the west end
+Bolger Glade, Scarlett Meadows, LE | Black<br>Brown | in and around the **Abandoned Church**
+Prinz & Co, Bayou Nwa, LE | Black<br>Brown | around the trash and carcass piles
 Saint Denis, Bayou Nwa, LE | Brown | tons of scoreless inside **Doyle's Tavern** during the two infestation random encounters associated with it
 Pleasance, Scarlett Meadows, LE | Black | around the burned down school house
-Copperhead Landing, Bluewater Marsh, LE | Both | around the dilapidated cabin
+Copperhead Landing, Bluewater Marsh, LE | Black<br>Brown | around the dilapidated cabin
 Fort Brennand, Roanoke Ridge, NH | Black | inside the fort walls
 Wild Man's Cave, Roanoke Ridge, NH | Black | inside the cave
-Van Horn, Roanoke Ridge, NH | Both | behind the **Old Light Saloon**
+Van Horn, Roanoke Ridge, NH | Black<br>Brown | behind the **Old Light Saloon**
+Mysterious Hill Home, Grizzlies East, AM | Black | on the southwest side of the home
 Hermit Woman's Shack, Big Valley, WE | Black | inside the shack
 Lone Mule Stead, Big Valley, WE | Black | around the cabin
-Fort Riggs, Big Valley, WE | Both | around the western fort
+Fort Riggs, Big Valley, WE | Black<br>Brown | around the western fort
 The Old Bacchus Place, Hennigan's Stead, NA | Brown | numerous scoreless brown rats inside the shack
 
 ## Domestic Animal Locations
@@ -1961,6 +2072,7 @@ Hanging Dog Ranch, Big Valley, WE | scoreless; Epilogue only
 
 Location | Details
 :--- | ---
+Emerald Ranch, Heartlands, NH | inside the pen behind Seamus' **Fence** barn
 Guthrie Farm, Heartlands, NH | -
 Downes Ranch, Heartlands, NH | inside fence directly southwest of barn
 Downes Ranch, Heartlands, NH | grazing in grass northwest of the ranch
@@ -1977,6 +2089,7 @@ Eris Field, Scarlett Meadows, LE | walking with rancher on east side of road dir
 
 Location | Details
 :--- | ---
+Granger's Hoggery, Heartlands, NH | roaming around the shack
 Emerald Ranch, Heartlands, NH | southwest side of ranch
 Braithwaite Manor, Scarlett Meadows, LE | in a wooden fence pen in the center of the houses along **Flat Iron Lake**
 Bayou Nwa, LE | in ranch north of second 'A' in "BAYOU NW**A**"
@@ -2005,6 +2118,81 @@ Location | Details
 Van Horn Stable, Roanoke Ridge, NH | in a fenced pen south of the stable
 Rathskeller Fork, Gaptooth Ridge, NA | roaming around the farm
 Silent Stead, Gaptooth Ridge, NA | one lone goat in the pen behind the shack
+
+## Horse Stats and Locations
+
+[Source.](https://reddead.fandom.com/wiki/Horse#Red_Dead_Redemption_2)
+
+**(!)** Unique
+
+Breed | Coat | Type | Handling | Health | Stamina | Speed | Acceleration | Location(s)
+:---- | ---- | ---- | -------- | ------ | ------- | ----- | ------------ | -----------
+American Paint | Grey Overo | Work | Standard | 5 | 5 | 4 | 4 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
+American Paint | Overo | Work | Standard | 3 | 4 | 3 | 3 | -
+American Paint | Splashed White | Work | Standard | 3 | 5 | 3 | 3 | -
+American Paint | Tobiano | Work | Standard | 3 | 4 | 3 | 3 | -
+American Standardbred | Black | Race | Race | 3 | 3 | 4 | 3 | -
+American Standardbred | Buckskin | Race | Race | 3 | 3 | 4 | 3 | -
+American Standardbred | Palomino Dapple | Race | Race | 3 | 3 | 5 | 4 | **Valentine, Heartlands, NH** (stable)
+American Standardbred | Silver Tail Buckskin | Race | Race | 4 | 4 | 5 | 5 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
+Andalusian | Dark Bay | War | Standard | 5 | 4 | 3 | 3 | **Strawberry, Big Valley, WE** (stable)
+Andalusian | Rose Grey | War | Standard | 7 | 5 | 3 | 3 | **Van Horn, Roanoke Ridge, NH** (stable)
+Andalusian | Palomino | War | Standard | 7 | 5 | 3 | 3 | **Brandywine Drop, Roanoke Ridge, NH**
+Appaloosa | Blanket | Work | Standard | 3 | 4 | 3 | 3 | -
+Appaloosa | Brown Leopard | Work | Standard | 5 | 6 | 4 | 3 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
+Appaloosa | Leopard | Work | Standard | 5 | 6 | 4 | 3 | **Van Horn, Roanoke Ridge, NH** (stable)
+Appaloosa | Leopard Blanket | Work | Standard | 3 | 4 | 3 | 3 | -
+Appaloosa | Few Spotted | Work | Standard | 3 | 5 | 3 | 3 | -
+Appaloosa | Scarred Blanket | Work | Standard | 3 | 3 | 2 | 2 | during random encounters with Murfree Brood
+Arabian | Black | Superior | Elite | 6 | 6 | 6 | 6 | **Saint Denis, Bayou Nwa, LE** (stable)<br>random encounter `Pedestrian Robbery` in **Saint Denis, Bayou Nwa, LE**
+Arabian | Rose Grey Bay | Superior | Elite | 7 | 7 | 6 | 6 | **Blackwater, Great Plains, WE** (stable)
+Arabian | White | Superior | Elite | 5 | 5 | 6 | 6 | **Lake Isabella, Grizzlies West, AM**
+Arabian | Red Chestnut | Superior | Elite | 4 | 5 | 5 | 4 | **Owanjila, Big Valley, WE** (west side)
+Arabian | Warped Brindle | Superior | Elite | 3 | 5 | 6 | 4 | **Wapiti, Grizzlies East, AM** (northwest of)
+Ardennes | Bay Roan | War | Standard | 5 | 4 | 3 | 3 | **Scarlett Meadows, Scarlett Meadows, LE** (stable)
+Ardennes | Strawberry Roan | War | Standard | 7 | 5 | 3 | 3 | **Van Horn, Roanoke Ridge, NH** (stable)
+Belgian Draft | Mealy Chestnut<br>Blonde Chestnut | Draft | Heavy | 3 | 3 | 3 | 3 | pulling random NPC wagons
+Dutch Warmblood | Chocolate Roan | Work | Standard | 5 | 6 | 4 | 3 | **Valentine, Heartlands, NH** (stable)
+Dutch Warmblood | Seal Brown | Work | Standard | 4 | 5 | 3 | 3 | **Strawberry, Big Valley, WE** (stable)<br>`Bounty Hunter` random encounters<br>ridden by one of Cornwall's men during `An Honest Mistake`
+Dutch Warmblood | Sooty Buckskin | Work | Standard | 4 | 5 | 3 | 3 | **Scarlett Meadows, LE** (stable)<br>`Prospector` random encounters<br>`Bounty Hunter` random encounters
+Dutch Warmblood **(!)** | Cremello Gold | Work | Standard | - | - | - | - | during `The Veteran - V`
+Hungarian Halfbred | Dapple Dark Grey | War | Standard | 5 | 4 | 3 | 3 | **Valentine, Heartlands, NH** (stable)
+Hungarian Halfbred | Flaxen Chestnut | War | Standard | 4 | 3 | 3 | 3 | Wild
+Hungarian Halfbred | Piebald Tobiano | War | Standard | 4 | 3 | 3 | 3 | **Twin Stack Pass, Heartlands, NH** (bounty hunter camp west of)<br>during `An Honest Mistake`
+Kentucky Saddler | Grey<br>Chestnut Pinto<br>Black<br>Silver Bay | Riding | Standard | 3 | 2 | 3 | 2 | Ambient/Wild
+Missouri Fox Trotter | Amber Champagne | Race/Work | Standard | 5 | 6 | 7 | 5 | **Scarlett Meadows, LE** (stable)
+Missouri Fox Trotter | Silver Dapple Pinto | Race/Work | Standard | 5 | 6 | 7 | 5 | **Blackwater, Great Plains, WE** (stable)<br>during `Arcadia for Amateurs - III`<br>during `Trapped Rider` random encounters
+Morgan | Palomino<br>Bay<br>Bay Roan<br>Flaxen Chestnut | Riding | Standard | 2 | 3 | 3 | 2 | Ambient/Wild
+Mustang | Grullo Dun<br>Wild Bay | War/Work | Standard | 4 | 4 | 3 | 2 | Wild
+Mustang | Tiger Striped Bay | War/Work | Standard | 5 | 5 | 4 | 3 | **Rio Del Lobo Rock, Rio Bravo, NA**
+Nokota | Reverse Dapple Roan | Race | Race | 3 | 3 | 7 | 5 | **Saint Denis, Bayou Nwa, LE** (stable)
+Nokota | Blue Roan<br>White Roan | Race | Race | 3 | 3 | 4 | 3 | Wild
+Nokota | Scarred Blue Roan | Race | Race | 3 | 3 | 4 | 3 | during random encounters with Murfree Brood
+Shire | Dark Bay<br>Light Grey | Draft | Heavy | 4 | 3 | 3 | 2 | pulling NPC wagons
+Shire **(!)** | Raven Black | Draft | Heavy | 4 | 4 | 3 | 2 | during `Exit Pursued by a Bruised Ego`
+Suffolk Punch | Red Chestnut | Draft | Heavy | - | - | 3 | 2 | pulling NPC wagons
+Tennessee Walker | Flaxen Roan | Riding | Standard | 3 | 3 | 2 | 2 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
+Tennessee Walker | Mahogany Bay | Riding | Standard | 3 | 3 | 2 | 2 | during `Outlaws from the West`
+Tennessee Walker | Gold Palomino | Riding | Standard | 3 | 4 | 3 | 2 | Ambient/Wild
+Tennessee Walker | Black Rabicano<br>Chestnut<br>Dapple Bay<br>Red Roan | Riding | Standard | 3 | 3 | 2 | 2 | Ambient/Wild
+Thoroughbred | Brindle | Race | Race | 3 | 3 | 7 | 5 | **Strawberry, Big Valley, WE** (stable)
+Thoroughbred | Blood Bay<br>Dapple Grey | Race | Race | 3 | 3 | 4 | 3 | Wild
+Thoroughbred **(!)** | Seal Brown | Race | Race | 4 | 4 | 6 | 4 | after `The Wheel`
+Turkoman | Dark Bay | Race/War | Standard | 7 | 5 | 6 | 5 | **Blackwater, Great Plains, WE** (stable)<br>during `Horse Flesh for Dinner`
+Turkoman | Gold | Race/War | Standard | 7 | 5 | 6 | 5 | **Saint Denis, Bayou Nwa, LE** (stable)
+Turkoman | Silver | Race/War | Standard | 7 | 5 | 6 | 5 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
+
+**Dark Bay Turkoman Early Unlock**
+
+During `Horse Flesh for Dinner`, riding it a very short distance away from Clay, finishing the mission, and then immediately riding back to its location and stabling it, it is entirely possible to acquire a full four chapters before the player is actually supposed to.
+
+**Silver Dapple Pinto Missouri Fox Trotter Early Unlocks**
+
+During the random encounter where the woman's horse "Biscuit" has died and she needs a ride to Emerald Ranch, a glitch can occur where the horse, a Silver Dapple Pinto, will be found alive and can be claimed.
+
+Similarly, a woman needing a ride to Lagras will also have Silver Dapple Pinto that will occasionally spawn alive. One way to ensure this is to go stand upon Face Rock where the event spawns by, aim with a sniper rifle at the road below after which the event should spawn so long as the encounter has not been completed by the player prior, and keep shooting the lady. This causes both her and her horse to respawn, and eventually, it should respawn alive, and be claimed by the player.
+
+Another alternative way to obtain the Silver Dapple Pinto variant as Arthur is after the third encounter with Albert Mason. While herding the horses, go into Eagle Eye, track the Silver Dapple Pinto and then exit Eagle Eye while staying focused on the horse's trail. Once Mason photographs the herd, go to him and skip the cutscene as soon as it starts. Then follow the horse's trail, carefully and patiently, as the trail can be lost and the tracking process can last approximately up to 10 minutes. Once you find the horse, jump on it from your horse's back and ride it to the nearest stable without dismounting it to saddle it up or store it. Save the game and load the save file you just made. Then the horse will be yours to keep.
 
 ## Activites
 
@@ -2055,19 +2243,13 @@ Hill Haven Ranch, Scarlett Meadows, LE | south side of ranch house
 Rhodes, Scarlett Meadows, LE | south side of house directly west of **Rhodes Parlour House**
 Beecher's Hope, Great Plains, WE | next to main campfire
 
-### Bee Hives
-
-Location | Details
-:--- | ---
-Elysian Pool, Roanoke Ridge, NH | west side of pond
-
 ## Extended Information
 
 *Reference links to documents/maps that were used, among other things.*
 
 ### Testing Procedures
 
-- PC v1436 locked at 60fps, V-Sync off, Triple Buffering on, mostly medium settings aside from low lighting qualities and ultra textures.
+- PC v1436.31 locked at 60fps, V-Sync off, Triple Buffering on, mostly medium settings aside from low lighting qualities and ultra textures.
 - All animals are tracked back to their original locations via **Eagle Eye**. All locations shown were verified at least twice before being marked.
 - Dismount horse well away from spawn.
 - Constant application of **Cover Scent Lotion**, as in once every 2-3 minutes.
