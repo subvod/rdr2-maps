@@ -75,6 +75,7 @@
 <br>&emsp;[Animal Skins](#animal-skins)
 <br>&emsp;[Orchids](#orchids)
 <br>[BUGS](#bugs)
+<br>&emsp;[Facial hair bug](#facial-hair-bug)
 <br>&emsp;[Cattleman Hero Grip wrong texture](#cattleman-hero-grip-wrong-texture)
 <br>&emsp;[Unable to obtain Wild Man's Journal](#unable-to-obtain-wild-mans-journal)
 <br>&emsp;[Bugged Soldier During The King's Son](#bugged-soldier-during-the-kings-son)
@@ -843,8 +844,8 @@ Volatile Dynamite | Lockbox underneath wagon at **Hani's Bethel**.
 Volatile Fire Bottle | Lockbox at **Brush Fire**.
 Homing Tomahawk | Lockbox inside **Flattened Cabin**.
 Horse Meal | Reward for completing Kieran's request for Burdock Root (during Chapter 3).
-Poison Arrow | Lockbox beside the **Mysterious Hill Home**.<br><br>Lockbox at poachers' camp during `Hunting - Charles`
-Poison Throwing Knife | Under floorboard of long dilapidated shack north of **Saint Denis** west of the train tracks.
+Poison Arrow | Lockbox beside the **Mysterious Hill Home**.
+Poison Throwing Knife | Under floorboard of long dilapidated shack north of **Saint Denis** west of the train tracks.<br>Lockbox at poachers' camp during `Hunting - Charles`
 
 ### Documents
 
@@ -1096,7 +1097,7 @@ Bob Brownlee is a Sun worshipper who can be found at 12 different locations arou
 
 ### Ghost in Swamp
 
-A physical manifestation of the ghost of a woman, Agnes Dowd, can be seen near a tree west of the **Trapper's Cabin**. [Here's a compilation of all possible encounters.](https://youtu.be/P3Tra3O6Rko)
+A physical manifestation of the ghost of a woman, Agnes Dowd, can be seen near a tree west of the **Trapper's Cabin** from 21:00 to 03:00, usually in foggy weather. [Here's a compilation of all possible encounters.](https://youtu.be/P3Tra3O6Rko)
 
 ### KKK
 
@@ -1351,6 +1352,10 @@ $10.00 | Rat Tail<br>Queen's<br>Lady Slipper<br>
 # BUGS
 
 *These are bugs which don't appear to have exploitable benefits.*
+
+### Facial hair glitch
+
+Sometimes the player's facial hair will appear to grow beside the eyes, high on the sides of the jaw, and patches on the lower neck. The only way to fix this is to exit and restart the game.
 
 ### Cattleman Hero Grip wrong texture
 
@@ -1635,6 +1640,10 @@ Much information here was sourced from the [Red Dead Fandom](https://reddead.fan
 - A single lone gravesite southeast of the 'H' in "WEST ELIZABET**H**".
 - Random dead camper at dilapidated campsite just down the hill from Francis Sinclair's cabin. Only spawns at night.
 
+### Witch in graveyard
+
+A woman dressed in all black with one cataracted eye can be seen running around several spots in the graveyard during `Angelo Bronte, A Man of Honor`. She cannot be killed and doesn't appear outside of this mission.
+
 ### Skinner Brothers Yelps
 
 The sounds made by **Skinner Brothers** during ambushes and attacks are the same made by **Wapiti Tribe** members during **My Last Boy**. Likely just a borrowed scare tactic, but the **Skinner Brothers** might have some other motive in doing this. Perhaps some members are tied to the tribe and are protecting land in **Tall Trees**. Or maybe it's just the former. In either case, the jumpscare potential is unreal. Trotting along the paths, you hear screaming out of nowhere but you know what's coming.
@@ -1666,8 +1675,8 @@ For release format and download information, see [Release Format](#release-forma
 Color | Marker Type
 :-- | ---
 Solid Red | Enemy Hideout
-Hollow Red | Animal Static Spawn<br>Enemy Campsite<br>Bird Static Perch Spawn
-Hollow Blue | Animal Random Encounter<br>Enemy Random Encounter<br>Bird Flying Spawn
+Hollow Red | Animal Static Spawn<br>Bird Static Perch Spawn
+Hollow Blue | Animal Event Spawn<br>Bird Flying Spawn
 
 *Locations:*
 
@@ -1700,17 +1709,19 @@ Random encounters don't seem to be tied to a specific time span. I've seen a Gri
 Animal(s) | Location(s) | Description
 :--- | --- | ---
 Cougar<br>Deer | Along the **Little Creek River**. | Cougar stalks and attacks Deer.
+Cougar<br>NPC Corpse | Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br>Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
 Western Bull Moose | Lake Isabella<br>Barrow Lagoon<br>Cairn Lake | Slipping on ice while attempting to stand upright.
-Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | Elysian Pool | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
+Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | Elysian Pool, Roanoke Ridge, NH<br>Calumet Ravine, Grizzlies East, AM<br>Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow) | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
 Whitetail Buck | - | Two Bucks (one dead) with interlocked horns. Live Buck cannot escape.
 Whitetail Buck | southwest of second 'H' in "THE **H**EARTLANDS" | Two Bucks pushing each other around.
 Bighorn Ram | Northwest side of junction northwest of 'R' in "Little Creek **R**iver".<br>Just east of the Trapper in **Big Valley, WE**.<br>Dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS". | Two Rams headbutt each other.
 American Bison | southwest of 'O' in "Heartland **O**verflow" | One Bison headbutts another.
 Grizzly Bear<br>Gray Wolf | Barrow Lagoon, Grizzlies West, AM<br>Cattail Pond, Grizzlies West, AM | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly. 10:00
-Grizzly Bear | West of **Watson's Cabin** in Big Valley, WE. | Scratching itself on a tree trunk.
-Grizzly Bear<br>Sockeye Salmon | O'Creagh's Run, Grizzlies East, AM<br>Little Creek River, Big Valley, WE<br>Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**) | Grizzly catches and eats Salmon.
-Fox | - | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
-Gray Wolf | just southeast of **Elysian Pool**<br>west shore of **Lake Isabella** | two Gray Wolfs play fighting
+Grizzly Bear | West of **Watson's Cabin** in Big Valley, WE.<br>South of **Fairvale Shanty, Grizzlies East, AM**. | Scratching itself on a tree trunk.
+Grizzly Bear<br>Sockeye Salmon | O'Creagh's Run, Grizzlies East, AM<br>Little Creek River, Big Valley, WE<br>Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br>Aurora Basin, Tall Trees, WE | Grizzly catches and eats Salmon.
+Fox | Barrow Lagoon, Grizzlies West, AM (south of) | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
+Gray Wolf | Elysian Pool, Roanoke Ridge, NH (southeast of)<br>Lake Isabella, Grizzlies West, AM (northwest path)<br>Evelyn Miller Camp, Tall Trees, WE (southeast of) | Two Gray Wolves play fighting.
+Gray Wolf | Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of) | Mourning over dead wolf.
 
 ## Rival Gangs
 
@@ -1732,7 +1743,7 @@ Martelli's Men | Saint Denis, Bayou Nwa, LE
 
 ## Wild Animal Locations
 
-### Western Bull Moose / Western Moose
+### Western Bull Moose
 
 *Primarily diurnal. Three coats: dark brown (almost black), rust brown (almost orange), and a gray-brown. Pelts yielded by each are incorrect. Example, a rust brown bull yields a pelt that should have come from a gray-brown bull. Possibly associated with dodgy spawns and a team of Rockstar scripters messing something up.*
 
@@ -1744,35 +1755,32 @@ Martelli's Men | Saint Denis, Bayou Nwa, LE
 
 **NOTE:** If you spend enough time close by, you can get two moose to spawn on the west side of **Lake Isabella**. It's happened to me only once (using RampageTrainer's time lapse feature), so quite rare but possible nonetheless.
 
-**Grizzlies West, AM**
-
 Location | Details | Time(s)
 :--- | --- | ---
 Colter, Grizzlies West, AM | atop small cliff on southeast side of road running northeast out of **Colter** | 06:27, 14:41
 Cairn Lake, Grizzlies West, AM | laying on ice in center of **Cairn Lake** | 06:55, 16:32, 19:27
-Lake Isabella, Grizzlies West, AM | path on west side of **Lake Isabella**; unaffected by **White Arabian** presence; unaffected by playing wolves random encounter | 09:13, 15:32, 18:40
+Lake Isabella, Grizzlies West, AM | path on west side of **Lake Isabella**; unaffected by **White Arabian** presence; unaffected by playing wolves random encounter | 09:13, 15:32, 16:40, 18:40
 Lake Isabella, Grizzlies West, AM | laying on ice northwest side of **Lake Isabella**; southeast of destroyed cabin; just some paces away from the spawn described above | 06:24
 Lake Isabella, Grizzlies West, AM | chased by wolf across northwestern **Lake Isabella**; swims to northern shore just southeast of waterfall | 17:45
 Barrow Lagoon, Grizzlies West, AM | laying on ice southeast side of lagoon | 08:20, 10:45
 Window Rock, Grizzlies West, AM | west side of train tracks atop cliff overlooking trestle bridge southwest of **Window Rock**; southwest of the trestle bridge itself; dead west of "Dodd's Bluff"; dead south of "Chez Porter"; northeast of dreamcatcher | -
 Cattail Pond, Grizzlies West, AM | northeast shore of **Cattail Pond** on path which **Beartooth Beck** flows over | 19:05
-Calumet Ravine, Grizzlies East, AM | west shore of lake next to junctions running east out of **Wapiti Indian Reservation** | -
-Calumet Ravine, Grizzlies East, AM | swimming west across the south side of the lake being chased by wolf; directly in line with junction east of **Wapiti** | 14:45
+Calumet Ravine, Grizzlies East, AM | swimming west across the south side of the lake being chased by wolf; directly in line with junction east of **Wapiti** | 07:16, 14:45
 Fort Wallace, Grizzlies East, AM | east of **Fort Wallace**; in trees on west side of road at first junction south of **Bacchus Station** | 10:17-15:01
 Witches Cauldron, Grizzlies East, AM | west of **Witches Cauldron**; between 'I' and 'N' in "AMBAR**IN**O"; northeast of junction by **Strange Statues**; OOB, but can be lured with bait or by rolling the dice spooking it; alternative coats spawn here | 24-hour
 Witches Cauldron, Grizzlies East, AM | same as above, but about 100m east-southeast; cow moose only so far | 24-hour
-O'Creagh's Run, Grizzlies East, AM | east shoreline of lake; just south of **Veteran's Homestead**; 15 paces west of Alaskan Ginseng plant; to the east of "O'Creagh's" in "**O'Creagh's** Run" | 06:17
+O'Creagh's Run, Grizzlies East, AM | east shoreline of lake; just south of **Veteran's Homestead**; 15 paces west of Alaskan Ginseng plant; to the east of "O'Creagh's" in "**O'Creagh's** Run" | 06:17, 13:32
 O'Creagh's Run, Grizzlies East, AM | near north shoreline of lake; swims south in line with "Cr" in "O'**Cr**eagh's Run" to northeast edge of western peninsula | 14:09
 Fairvale Shanty, Grizzlies East, AM | in grass on south side of road; southwest of **Fairvale Shanty**; sleep until morning at **The Loft** | 06:49, 12:32
-Willard's Rest, Roanoke Ridge, NH | inside 3-way junction just southeast of "Rest" in "Willard's **Rest**"; north side of train tracks | 07:48, 11:59, 13:15, 18:38
+Willard's Rest, Roanoke Ridge, NH | inside 3-way junction just southeast of "Rest" in "Willard's **Rest**"; north side of train tracks | 07:48, 10:37, 11:59, 13:15, 18:38
 Brandywine Drop, Roanoke Ridge, NH | east side of river; edge of first cliff up from river at waterfall; west of first 'R' in "**R**OANOKE RIDGE" | 08:15, 10:35
 Deer Cottage, Roanoke Ridge, NH | west of 'A' in "RO**A**NOKE RIDGE"; inside double junctions | 10:55
-Viking Tomb, Roanoke Ridge, NH | northern shoreline of **Kamassa River**; southwest of **Viking Tomb**; just below moose map icon | 07:01
+Viking Tomb, Roanoke Ridge, NH | northern shoreline of **Kamassa River**; southwest of **Viking Tomb**; just below moose map icon | 07:01, 08:03
 Cumberland Falls, Heartlands, NH | east shore between 'o' and 't' in "Dak**ot**a River"; across from where **Little Creek River** feeds in; southwest of **Downes Ranch** | 11:15
 Cumberland Falls, Heartlands, NH | island southwest of 'R' in "Dakota **R**iver"; so far this has been exclusively cow moose | 08:15, 09:42; 12:50
-Wallace Station, Heartlands, NH | east-southeast of the station; hanging over the path closest to the west side of the **Dakota River** | 06:28, 09:12, 15:15
+Wallace Station, Heartlands, NH | east-southeast of the station; hanging over the path closest to the west side of the **Dakota River** | 06:28, 09:12, 11:55, 15:15
 Painted Sky, Heartlands, NH | southern shore of **Dakota River** next to 4 Wild Mint plants; north of **Painted Sky**; below **Burdock Root** map icon | -
-Owanjila, Big Valley, WE | chased by wolf swimming across **Owanjila** | 06:47, 07:25, 08:45, 11:45, 17:20
+Owanjila, Big Valley, WE | chased by wolf swimming across **Owanjila** | 06:47, 07:25, 08:45, 11:45, 12:46, 17:20
 Fort Riggs, Big Valley, WE | southwest of junction coming from the **Strawberry Stable**; 10 or so paces southeast of boar map icon | 14:01
 Nekoti Rock, Tall Trees, WE | west side of river; northwest of 'U' in "**U**pper Montana River"; south side of path that crosses the river north of the 'U'; on the edge of a **Loon** map icon | -
 Evelyn Miller Camp, Tall Trees, WE | directly east of second 'L' in "TAL**L** TREES"; next to a **Lady Slipper Orchid**; alternative coats spawn here; can be seen from the permanent campsite with the pine limb lean-to | 24-hour
@@ -1792,7 +1800,7 @@ Location | Details | Time(s)
 :--- | --- | ---
 Old Harry Fen, Scarlett Meadows, LE | two spawns close together; both default to standing active and alert next to the water southeast of **Old Harry Fen**; southwest of tri-junction | 24-hour
 Lakay, Bayou Nwa, LE | two spawns close together; both default to lying down next to eastern bank of **Kamassa River**; sleeping at water's edge northeast of **Lakay** | 22:00-04:00
-Macomb's End, Bayou Nwa, LE | next to a vine wall inside junction leading to **Macomb's End**; foggy weather | 03:46
+Macomb's End, Bayou Nwa, LE | next to a vine wall inside junction leading to **Macomb's End** | 01:24, 02:32, 03:46, 04:04
 
 ### Horned Owl
 
@@ -2181,6 +2189,7 @@ Thoroughbred **(!)** | Seal Brown | Race | Race | 4 | 4 | 6 | 4 | after `The Whe
 Turkoman | Dark Bay | Race/War | Standard | 7 | 5 | 6 | 5 | **Blackwater, Great Plains, WE** (stable)<br>during `Horse Flesh for Dinner`
 Turkoman | Gold | Race/War | Standard | 7 | 5 | 6 | 5 | **Saint Denis, Bayou Nwa, LE** (stable)
 Turkoman | Silver | Race/War | Standard | 7 | 5 | 6 | 5 | **Tumbleweed, Gaptooth Ridge, NA** (stable)
+Mule | - | Work | Standard | - | - | - | - | **Emerald Ranch, Heartlands, NH** (south side of ranch in front of Seamus' **Fence**)
 
 **Dark Bay Turkoman Early Unlock**
 
