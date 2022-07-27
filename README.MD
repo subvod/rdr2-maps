@@ -1718,20 +1718,20 @@ Random encounters don't seem to be tied to a specific time span. I've seen a Gri
 
 Animal(s) | Location(s) | Description
 :--- | --- | ---
-Cougar<br>Deer | Along the **Little Creek River**. | Cougar stalks and attacks Deer.
-Cougar<br>NPC Corpse | Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br>Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
-Western Bull Moose | Lake Isabella<br>Barrow Lagoon<br>Cairn Lake | Slipping on ice while attempting to stand upright.
-Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | Elysian Pool, Roanoke Ridge, NH<br>Calumet Ravine, Grizzlies East, AM<br>Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow) | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
+Cougar<br>Deer | - Along the **Little Creek River**. | Cougar stalks and attacks Deer.
+Cougar<br>NPC Corpse | - Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br>- Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
+Western Bull Moose | - Lake Isabella, Grizzlies West, AM<br>- Barrow Lagoon, Grizzlies West, AM<br>- Cairn Lake, Grizzlies West, AM | Slipping on ice while attempting to stand upright.
+Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | - Elysian Pool, Roanoke Ridge, NH<br>- Calumet Ravine, Grizzlies East, AM<br>- Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow) | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
 Whitetail Buck | - | Two Bucks, one dead and the other alive, with interlocked horns. Live Buck cannot escape.
-Whitetail Buck | southwest of second 'H' in "THE **H**EARTLANDS" | Two Bucks pushing each other around.
-Bighorn Ram | Southeast of 'k' in "Deadboot Cree**k**".<br>"Northwest side of junction northwest of 'R' in "Little Creek **R**iver".<br>Just east of the Trapper in **Big Valley, WE**.<br>First junction on eastbound dashed path heading away from **Pronghorn Ranch**.<br>Dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS". | Two Rams headbutt each other.
-American Bison | southwest of 'O' in "Heartland **O**verflow"<br>west of second 'N' in "NEW AUSTI**N**" | Bison headbutting each nother.
-Grizzly Bear<br>Gray Wolf | Barrow Lagoon, Grizzlies West, AM<br>Cattail Pond, Grizzlies West, AM | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly. 10:00
-Grizzly Bear | West of **Watson's Cabin** in Big Valley, WE.<br>South of **Fairvale Shanty, Grizzlies East, AM**. | Scratching itself on a tree trunk.
-Grizzly Bear<br>Sockeye Salmon | O'Creagh's Run, Grizzlies East, AM<br>Little Creek River, Big Valley, WE<br>Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br>Aurora Basin, Tall Trees, WE | Grizzly catches and eats Salmon.
-Fox | Barrow Lagoon, Grizzlies West, AM (south of) | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
-Gray Wolf | Elysian Pool, Roanoke Ridge, NH (southeast of)<br>Lake Isabella, Grizzlies West, AM (northwest path)<br>Evelyn Miller Camp, Tall Trees, WE (southeast of) | Two Gray Wolves play fighting.
-Gray Wolf | Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of)<br>Lake Isabella, Grizzlies West, AM (atop the cliff overlooking the waterfall on the northwest side of lake) | Mourning over dead wolf.
+Whitetail Buck | - Heartlands, NH (southwest of second 'H' in "THE **H**EARTLANDS") | Two Bucks pushing each other around.
+Bighorn Ram | - Deadboot Creek, Grizzlies West, AM (southeast of 'k' in "Deadboot Cree**k**".<br>- Little Creek River, Big Valley, WE (NW side of junction NW of 'R' in "Little Creek **R**iver"<br>- Black Bone Forest, Big Valley, WE (just SE of the **Trapper**)<br>- Pronghorn Ranch, Big Valley, WE (first junction on eastbound dashed path heading away from the ranch.<br>- Cholla Springs, NA (dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS") | Two Rams headbutt each other.
+American Bison | - Heartland Overflow, Heartlands, NH (SW of 'O' in "Heartland **O**verflow"<br>- Hennigan's Stead, NA (west of second 'N' in "NEW AUSTI**N**") | Bison headbutting each nother.
+Grizzly Bear<br>Gray Wolf | - Barrow Lagoon, Grizzlies West, AM (on ice south side of lagoon)<br>- Cattail Pond, Grizzlies West, AM (east of the pond) | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly. 10:00
+Grizzly Bear | - Watson's Cabin, Big Valley, WE (east of)<br>- Fairvale Shanty, Grizzlies East, AM (south of) | Scratching itself on a tree trunk.
+Grizzly Bear<br>Sockeye Salmon | - O'Creagh's Run, Grizzlies East, AM<br>- Little Creek River, Big Valley, WE (east stretch of creek before downhill)<br>- Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br>- Aurora Basin, Tall Trees, WE (SE shore) | Grizzly catches and eats Salmon.
+Fox | - Barrow Lagoon, Grizzlies West, AM (south of) | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
+Gray Wolf | - Elysian Pool, Roanoke Ridge, NH (southeast of)<br>- Lake Isabella, Grizzlies West, AM (northwest path)<br>- Evelyn Miller Camp, Tall Trees, WE (southeast of) | Two Gray Wolves play fighting.
+Gray Wolf | - Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of)<br>- Lake Isabella, Grizzlies West, AM (atop the cliff overlooking the waterfall on the northwest side of lake) | Mourning over dead wolf.
 
 ## Rival Gangs
 
