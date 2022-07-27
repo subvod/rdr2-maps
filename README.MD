@@ -1,12 +1,15 @@
 # RED DEAD REDEMPTION 2 NOTES
 
-*A collection of noted events and encounters, along with some observed numerical data and notes associated with said data. All information is based upon PC vanilla runs without mods (aside from RampageTrainer).*
+*And detailed maps.*
 
-*There may or may not be spoilers in here. I didn't proofread it to check. Best just assume there are a few spoilers, but as I recall nothing I go over should be too traumatic.*
+# OVERVIEW
 
-*For map-related information, skip to [Maps](#maps).*
+This is a collection of noted events and encounters, along with some observed numerical data and notes associated with said data. All information is based upon PC vanilla runs without mods (aside from RampageTrainer). Be aware, here's a few spoilers here and there, but nothing major.
 
-[SURVIVING IN THE WILDERNESS](#surviving-in-the-wilderness)
+**For map-related information, skip to [Maps](#maps).**
+
+[OVERVIEW](#overview)
+<br>[SURVIVING IN THE WILDERNESS](#surviving-in-the-wilderness)
 <br>&emsp;[Weather and Proper Attire](#weather-and-proper-attire)
 <br>&emsp;[Killing, Skinning, and Cooking](#killing-skinning-and-cooking)
 <br>&emsp;[Animal Attacks](#animal-attacks)
@@ -17,6 +20,7 @@
 <br>&emsp;[How many horses can I own?](#how-many-horses-can-i-own)
 <br>&emsp;[How to tame wild horses?](#how-to-tame-wild-horses)
 <br>&emsp;[What is the best horse?](#what-is-the-best-horse)
+<br>&emsp;[Getting around.](#getting-around)
 <br>&emsp;[Testing tonics.](#testing-tonics)
 <br>&emsp;[How to max weapon familiarity fast?](#how-to-max-weapon-familiarity-fast)
 <br>&emsp;[How to max bond horses fast?](#how-to-max-bond-horses-fast)
@@ -132,7 +136,6 @@
 <br>&emsp;&emsp;[Pileated Woodpecker](#pileated-woodpecker)
 <br>&emsp;&emsp;[Red Bellied Woodpecker](#red-bellied-woodpecker)
 <br>&emsp;&emsp;[American Robin](#american-robin)
-<br>&emsp;&emsp;[California Quail](#california-quail)
 <br>&emsp;&emsp;[Pigeon](#pigeon)
 <br>&emsp;&emsp;[Rat](#rat)
 <br>&emsp;[Domestic Animal Locations](#domestic-animal-locations)
@@ -148,17 +151,15 @@
 <br>&emsp;&emsp;[Alcohol Cases](#alcohol-cases)
 <br>&emsp;&emsp;[Stew Bowl](#stew-bowl)
 <br>&emsp;&emsp;[Chop Firewood](#chop-firewood)
-<br>[Extended Information](#extended-information)
-<br>&emsp;[Testing Procedures](#testing-procedures)
-<br>&emsp;[Release Format](#release-format)
-<br>&emsp;[Map References](#map-references)
-<br>&emsp;[Programs Used](#programs-used)
 <br>[MISCELLANEOUS](#miscellaneous)
 <br>&emsp;[Cool Things](#cool-things)
 <br>&emsp;[Tools](#tools)
-<br>&emsp;[Missable Content References](#missable-content-references)
 <br>&emsp;[Mods](#mods)
+<br>&emsp;[Programs Used](#programs-used)
 <br>&emsp;[References](#references)
+<br>&emsp;[Testing Procedures](#testing-procedures)
+<br>&emsp;[Release Format](#release-format)
+<br>&emsp;[Quotes](#quotes)
 
 # SURVIVING IN THE WILDERNESS
 
@@ -328,6 +329,16 @@ A purely subjective question. But, statistically speaking and taking into accoun
 For the "best" horse that can be found in the wild, I've found the **Thoroughbred** and **American Standardbred** breeds are the best balanced and closest to Turkoman and MFT.
 
 Again, all purely subjective. Some players may go for looks. Others may go for stats.
+
+### Getting around.
+
+Horse is always faster than on foot, of course. But, fast traveling from camp isn't exactly the "fast" way to get somewhere. Taking a train is generally slower, depending on load time. Stagecoach is, by far, the fastest way to get somewhere. It can be costly and stage stops are sparse, but it is by far the fastest way to get around.
+
+Travel Method | Available Stops
+:--- | ---
+Stagecoach | Annesburg<br>Armadillo<br>Emerald Ranch<br>MacFarlane's Ranch<br>Rhodes<br>Saint Denis<br>Strawberry<br>Tumbleweed<br>Valentine<br>Van Horn
+Campfire | Annesburg<br>Armadillo<br>Beecher's Hope<br>Benedict Point<br>Blackwater<br>Braithwaite Manor<br>Butcher Creek<br>Caliga Hall<br>Colter<br>Cornwall Kerosene & Tar<br>Emerald Ranch<br>Lagras<br>MacFarlane's Ranch<br>Manzanita Trading Post<br>Pronghorn Ranch<br>Rhodes<br>Saint Denis<br>Strawberry<br>Thieves Landing<br>Tumbleweed<br>Valentine<br>Van Horn Trading Post<br>Wapiti Indian Reservation
+Train | Annesburg<br>Emerald Ranch<br>Riggs Station<br>Rhodes<br>Saint Denis<br>Valentine<br>Wallace Station
 
 ### Testing tonics.
 
@@ -850,7 +861,7 @@ Poison Throwing Knife | Under floorboard of long dilapidated shack north of **Sa
 ### Documents
 
 (!) Missable<br>
-(*) Obtainable with Photo Mode Glitch
+(?) Obtainable with Photo Mode Glitch
 
 **CHAPTER II**
 
@@ -985,12 +996,11 @@ Letter from Micah to Amos (?) | Found on a crate next to the dock house behind *
 Electric Chair Blueprint (!) | Looted from Professor Andrew Bell III after the product demonstration at the gallows of **Saint Denis**.
 Inventor's Note (!) | On a desk in **Doverhill, Roanoke Ridge, NH** during the third mission (encounter) of `A Bright Bouncing Boy`.
 Inventor's Plan (!) | On a desk in **Doverhill, Roanoke Ridge, NH** during the third mission (encounter) of `A Bright Bouncing Boy`.
-Theatre Ticket (!) | Speak with smoking NPCs near the Mayor.
 List of Accounts (!)<br>Telegram to Police Chief Lambert (!) | On the desk in Bronte's office during `Revenge is a Dish Best Eaten`.
 Farm, Field, and Falconry | Obtained in `Idealism and Pragmatism for Beginners II`.
 The Castle in the Field of Lavender (?) | On a bench near the front entrance of **Shady Belle, Bayou Nwa, LE**.
 Charles Chatenay's Sketch | Obtained during `The Artist's Way`.
-Algernon's Business Card (!) | Obtained during `The Gilded Cage` if Arthur saves Algernon Wasp.
+Theater Ticket (!)<br>Algernon's Business Card (!) | Obtained during `The Gilded Cage`. If Arthur saves Algernon Wasp from choking on a peanut, he'll be offered his business card. If Arthur speaks with the smoking NPCs near the mayor about a cabaret show, he'll be offered the ticket.
 
 **CHAPTER V**
 
@@ -1712,18 +1722,20 @@ Cougar<br>Deer | Along the **Little Creek River**. | Cougar stalks and attacks D
 Cougar<br>NPC Corpse | Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br>Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
 Western Bull Moose | Lake Isabella<br>Barrow Lagoon<br>Cairn Lake | Slipping on ice while attempting to stand upright.
 Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | Elysian Pool, Roanoke Ridge, NH<br>Calumet Ravine, Grizzlies East, AM<br>Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow) | Bird dives and catches random fish/snake (over water) or random small mammal/snake (on land).
-Whitetail Buck | - | Two Bucks (one dead) with interlocked horns. Live Buck cannot escape.
+Whitetail Buck | - | Two Bucks, one dead and the other alive, with interlocked horns. Live Buck cannot escape.
 Whitetail Buck | southwest of second 'H' in "THE **H**EARTLANDS" | Two Bucks pushing each other around.
-Bighorn Ram | Northwest side of junction northwest of 'R' in "Little Creek **R**iver".<br>Just east of the Trapper in **Big Valley, WE**.<br>Dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS". | Two Rams headbutt each other.
-American Bison | southwest of 'O' in "Heartland **O**verflow" | One Bison headbutts another.
+Bighorn Ram | Southeast of 'k' in "Deadboot Cree**k**".<br>"Northwest side of junction northwest of 'R' in "Little Creek **R**iver".<br>Just east of the Trapper in **Big Valley, WE**.<br>First junction on eastbound dashed path heading away from **Pronghorn Ranch**.<br>Dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS". | Two Rams headbutt each other.
+American Bison | southwest of 'O' in "Heartland **O**verflow"<br>west of second 'N' in "NEW AUSTI**N**" | Bison headbutting each nother.
 Grizzly Bear<br>Gray Wolf | Barrow Lagoon, Grizzlies West, AM<br>Cattail Pond, Grizzlies West, AM | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly. 10:00
 Grizzly Bear | West of **Watson's Cabin** in Big Valley, WE.<br>South of **Fairvale Shanty, Grizzlies East, AM**. | Scratching itself on a tree trunk.
 Grizzly Bear<br>Sockeye Salmon | O'Creagh's Run, Grizzlies East, AM<br>Little Creek River, Big Valley, WE<br>Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br>Aurora Basin, Tall Trees, WE | Grizzly catches and eats Salmon.
 Fox | Barrow Lagoon, Grizzlies West, AM (south of) | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
 Gray Wolf | Elysian Pool, Roanoke Ridge, NH (southeast of)<br>Lake Isabella, Grizzlies West, AM (northwest path)<br>Evelyn Miller Camp, Tall Trees, WE (southeast of) | Two Gray Wolves play fighting.
-Gray Wolf | Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of) | Mourning over dead wolf.
+Gray Wolf | Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of)<br>Lake Isabella, Grizzlies West, AM (atop the cliff overlooking the waterfall on the northwest side of lake) | Mourning over dead wolf.
 
 ## Rival Gangs
+
+**NOTE:** The map `RDR2-RivalGangs.jpg` was discontinued some time ago now. It was getting a bit messy, but nearly every encounter, camp, and hideout location is marked.
 
 - O'Driscolls and Laramies share some of the same random encounter locations.
 - O'Driscolls are not meant to be present in the Epilogue. However two can be found stumbling out of Smithfields (Valentine, Heartlands, NH) at night. I also recall a video of a glitched train robbery random event southwest of Armadillo. The event is meant to involve Del Lobos, but due to some fluke it ended up being O'Driscolls. I have seen the former myself, but not the latter.
@@ -1746,6 +1758,8 @@ Martelli's Men | Saint Denis, Bayou Nwa, LE
 ### Western Bull Moose
 
 *Primarily diurnal. Three coats: dark brown (almost black), rust brown (almost orange), and a gray-brown. Pelts yielded by each are incorrect. Example, a rust brown bull yields a pelt that should have come from a gray-brown bull. Possibly associated with dodgy spawns and a team of Rockstar scripters messing something up.*
+
+See `RDR2-WesternBullMoose.jpg` for more locations.
 
 **NOTE:** The most reliable spawns from my experience: Witches Cauldron (OOB spawns), Tall Trees (second 'L'). They're 24-hour spawn points and allow all coats and both genders to spawn. Every other static spawn may as well be considered a random encounter given how rarely I've come across them.
 
@@ -1792,15 +1806,17 @@ Bear Claw, Tall Trees, WE | second 'E' in "TALL TRE**E**S"; occasionally a rando
 
 *Primarily nocturnal. Three coats: two of the ordinary Panther and one of the Florida Panther. All are relatively similar, while the Florida panther has a paler coat than the regular Panther.*
 
-**NOTE:** All coats of the **Panther** and **Florida Panther** spawn at both **Old Harry Fen** and (north of) **Lakay**.
+See `RDR2-CougarPanther.jpg` for specific locations.
 
-**NOTE:** There are two spawns very close to each other at each location. But, it seems only one location will spawn a panther when approaching either. I have not been able to get two panthers to spawn at the same time at either location.
+**NOTE:** All coats of the **Panther** and **Florida Panther** spawn at all known locations.
+
+**NOTE:** There are two spawns very close to each other at each location. But, it seems only one location will spawn a panther when approaching either. I have not been able to get two panthers to spawn at the same time at any location.
 
 Location | Details | Time(s)
 :--- | --- | ---
-Old Harry Fen, Scarlett Meadows, LE | two spawns close together; both default to standing active and alert next to the water southeast of **Old Harry Fen**; southwest of tri-junction | 24-hour
-Lakay, Bayou Nwa, LE | two spawns close together; both default to lying down next to eastern bank of **Kamassa River**; sleeping at water's edge northeast of **Lakay** | 22:00-04:00
-Macomb's End, Bayou Nwa, LE | next to a vine wall inside junction leading to **Macomb's End** | 01:24, 02:32, 03:46, 04:04
+Old Harry Fen, Scarlett Meadows, LE | two spawns close together; both default to standing active and alert next to the water southeast of **Old Harry Fen**; southwest of tri-junction | 24 HOURS
+Lakay, Bayou Nwa, LE | two spawns close together; both default to lying down next to eastern bank of **Kamassa River**; sleeping at water's edge northeast of **Lakay** | 00:00-04:00
+Macomb's End, Bayou Nwa, LE | next to a vine wall inside junction leading to **Macomb's End** | 01:00-05:00
 
 ### Horned Owl
 
@@ -1808,54 +1824,40 @@ Macomb's End, Bayou Nwa, LE | next to a vine wall inside junction leading to **M
 
 Owls seem to share many (if not all) perch locations with Hawks and Eagles. However owls' spawn rate is apparently drastically lower and they primarily come out at night. Go figure.
 
-Some spawns are active 24 hours:
-
 - Tanner's Reach, Tall Trees, WE (atop chimney)
 - Evelyn Miller Camp, Tall Trees, WE (atop a small cliff facing north)
 - Little Creek River, Big Valley, WE (on the ground next to a boulder at the water's edge southwest of the path junction from **Watson's Cabin**)
 
 Coastal and Great variants can be found across the entire map despite name implications. I've found Coastals as far north as **Cairn Lake** (Grizzlies West, AM) and as far south as **Lake Don Julio** (Rio Bravo, NA). Coastals seem to spawn more frequently around bodies of water. Again, go figure. Owls in **New Austin** are usually Californians, but all three coats can spawn in the entire state. Coastals in New Austin are more common along the **San Luis River** and **Lake Don Julio**.
 
-The Californian appears to spawn only south of the **Upper Montana River**. It is possible to study, kill, and pluck one as Arthur via traveling to the outskirts of New Austin using an OOB glitch (best done blacking out at the **Devil's Cave** in **Big Valley, WE**). There is an in-flight spawn north of **Blackwater** which owls start from. They have a chance of taking a route headed north on which they fly over both the **Upper Montana River** and **Lone Mule Stead**. The alternative route appears to fly towards the plains west of Blackwater. I have never seen a Californian perched atop **Lone Mule**, though. Some players have noted finding it in the marsh flats around **Canebreak Manor** (Bluewater Marsh, LE), but I have yet to see it anywhere north of the **Upper Montana River**. I have found the Californian in the southwest region of **Big Valley**, namely over the **Upper Montana River**, **Fort Riggs**, and north of **Blackwater**. [This fella posted screens of his catch at Fort Riggs.](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/page/64/#comment-1071852129)
+The only place to find a Californian north of the **Upper Montana River** is just along the river itself:
 
-According to GTABase, the areas with the highest concentration of Owl spawns are (highest to lowest): Tall Trees, slightly north of Strawberry, the whole stretch of the **Little Creek River** (from **Hanging Dog Ranch** to **Sheperd's Rise**), **Cumberland Falls**, the **Trading Post** (point of interest located northwest of **Gill's Landing**), and the entirety of **Cumberland Forest**. I can verify **Tall Trees** is the best for Owl hunting in general, but pre-Epilogue I've killed plenty of Great Horned and Coastals around **Fort Wallace** (Cumberland Forest, NH), **Cumberland Falls** (Cumberland Forest, NH) and down that section of the **Dakota River**, as well as a ton around **Canebreak Manor** (Bluewater Marsh, LE).
+- Fort Riggs, Big Valley, WE. Spawns on the cliff edge southeast of the fort. [This fella posted screens of his catch at Fort Riggs.](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/page/64/#comment-1071852129))
+- Fort Riggs, Big Valley, WE. Spawns flying south over the river a ways northwest of the fort. Usually turns westbound into **Tall Trees**, but sometimes turns eastward towards the fort.
+- Lone Mule Stead, Big Valley, WE. There is a flying spawn northwest of Blackwater which will sometimes fly over **Lone Mule Stead**.
+
+Hotspots, from most to least dense, for owl hunting are:
+
+- Bluewater Marsh, LE (from **Copperhead Landing** to the northern city limits of **Saint Denis**)
+- Tall Trees, WE (the whole region)
+- Big Valley, WE (southwest of Strawberry)
+
+And, for simplicity sake, I'll list the spawns which are active 24 hours:
 
 Location | Details
 :--- | ---
 Little Creek River, Big Valley, WE | 24 HOURS; perched on ground next to boulder creekside southeast of **Hanging Dog Ranch**
-Emerald Ranch, Heartlands, NH | perched in the south window of the barn where **Seamus** runs his **Fence**
-Guthrie Farm, Heartlands, NH | perched atop the southeast house
-Strawberry, Big Valley, WE | southwest of Strawberry; perched in tree east of first 'p' in "U**p**per Montana River"
-Chez Porter, Grizzlies West, AM | perched on a wooden bridge south of the cabins at **Chez Porter**
 Fairvale Shanty, Grizzlies East, AM | perched atop a rock directly south of the shanty; north side of road
-Cumberland Falls, Big Valley, WE | perched west cliffside
-Elysian Pool, Roanoke Ridge, NH | perched atop dead tree in pond
-Canebreak Manor, Bluewater Marsh, LE | flying over the entire area of marsh flats to the north
-Flat Iron Lake, Scarlett Meadows, LE | atop mast of a wrecked ship on largest island west of Braitewaite Manor
-Fort Riggs, Big Valley, WE | flying overhead, sometimes perched on ground southeast of fort
-Lone Mule Stead, Big Valley, WE | perched atop **Lone Mule Stead**
 Evelyn Miller Camp, Tall Trees, WE | 24 HOURS; perched atop rockface
-Tanner's Reach, Tall Trees, WE | perched atop chimney; spawns both before and after **Evelyn Miller** stranger missions; 24 hours
-Bear Claw, Tall Trees, WE | sometimes perched atop all four cabins
-Bear Claw, Tall Trees, WE | perched on cliff west of cabins
-Coots Chapel, Cholla Springs, NA | perched atop chapel
-Coots Chapel, Cholla Springs, NA | perched atop cactus by front entrance
-Two Crows, Cholla Springs, NA | perched atop wagon
-Ridgewood Farm, Cholla Springs, NA | perched atop north barn above front doors
-Silent Stead, Gaptooth Ridge, NA | perched atop cabin above front door
+Tanner's Reach, Tall Trees, WE | 24 HOURS; perched atop chimney; spawns both before and after burning the cabin
+
+Many additional locations are marked in `RDR2-Owl.jpg`.
 
 ### Timber Wolf
 
 *Solely nocturnal. Very much localized to **Cotorra Springs, Grizzlies West, AM** and the entirety of **Cumberland Forest, NH**, but can be found in a few places outside of its main habitat. On those fringe locations, every Timber I've encountered was in a team of two. Wolf ambush locations in **Grizzlies West, AM**, **Grizzlies East, AM**, and **Cumberland Forest, NH** seem to randomly spawn either Timbers or Grays. All wolf spawn locations outside of those areas have yielded nothing but Grays.*
 
-Location | Details
-:--- | ---
-Cairn Lake, Grizzlies West, AM | south side of path; west of lake
-Lake Isabella, Grizzlies West, AM | west side of path; north of lake
-Barrow Lagoon, Grizzlies West, AM | west side of path; south of lagoon
-Cotorra Springs, Grizzlies East, AM | east side of easternmost path aside hot springs
-Veteran's Homestead, Grizzlies East, AM | peninsula south of cabin
-Fairvale Shanty, Grizzlies East, AM | south side of road atop hill
+See `RDR2-TimberWolf.jpg` for locations.
 
 ### Cougar
 
@@ -1935,14 +1937,6 @@ Location | Details
 :--- | ---
 Armadillo, Cholla Springs, NA | flying all around the outskirts of Armadillo
 
-### Gray Wolf
-
-*They're very common outside of New Austin, so I'll only list those locations I've verified in New Austin.*
-
-Location | Details
-:--- | ---
-Rathskeller Fork, Gaptooth Ridge, NA | southeast of **Rathskeller**
-
 ## Small Birds and Animals
 
 *Here's locations for those little hard-as-hell-to-find boogers.*
@@ -1956,25 +1950,6 @@ Kamassa River, Roanoke Ridge, NH | atop rocks in the river and on the shore from
 Fort Brennand, Roanoke Ridge, NH | atop the fort walls
 Taxidermist House, Big Valley, WE | atop the house
 Lone Mule Stead | atop the house
-
-### Little Brown Bat
-
-*Solely nocturnal and common across Lemoyne, but can be found in only certain locations outside of Lemoyne.*
-
-Location | Details
-:--- | ---
-Bolger Glade, Scarlett Meadows, LE | perched on **Abandoned Church**; also may be flying overhead
-Braithewaite Manor, Scarlett Meadows, LE | flying around the boat house on the east shore of Flat Iron Lake
-Bayall Edge, Bayou Nwa, LE | perched on the front of the cabin
-Canebreak Manor, Bluewater Marsh, LE | flying over the marsh flats
-Pleasance, Scarlett Meadows, LE | inside the schoolhouse damaged by a fallen tree; south of 'c' in "Pleasan**c**e"
-Fort Brennand, Roanoke Ridge, NH | perched in southwest crows nest
-Elysian Pool, Roanoke Ridge, NH | perched on ceiling of cave inside the waterfall
-Wild Man's Cave, Roanoke Ridge, NH | perched on ceiling of cave entrance
-Flattened Cabin, Grizzlies East, AM | inside the cabin at **Moonstone Pond**; tons of them if you approach shortly after; 18:00
-Mount Shann, Big Valley, WE | cave mouth just south of 'U' in "MO**U**NT SHANN"; same cave **Winton Holmes** and the player travel to during `Money Lending and Other Sins IV`
-Swadbass Point, Tall Trees, WE | perched on north side of cabin at **Aurora Basin**
-Tumbleweed, Gaptooth Ridge, NA | atop the large two story house on the west edge of Tumbleweed
 
 ### Pileated Woodpecker
 
@@ -2006,6 +1981,8 @@ Cholla Springs, NA | sometimes flying, but more often perched on ground and can 
 
 *Primarily diurnal.*
 
+Seems to be quite widespread, but flying spawns appear to be more common in **Great Plains, WE**.
+
 Location | Details
 :--- | ---
 Roanoke Ridge, NH | atop the bridge near the **Trail Trees**
@@ -2016,16 +1993,9 @@ Great Plains, WE | atop large rocks and flying overhead all west of **Blackwater
 
 ### California Quail
 
-*Primarily diurnal. Quite localized. Usually found in groups of three to four, but sometimes as few as just one or as many as five.*
+*Primarily diurnal. Usually found in groups of three to four, but sometimes as few as just one or as many as six.*
 
-Location | Details
-:--- | ---
-Horseshoe Overlook, Heartlands, NH | southwest of the **Brush Fire**
-Horseshoe Overlook, Heartlands, NH | just north of the **Brush Fire**
-Carmody Dell, Heartlands, NH | on small hillside just southwest of the ranch
-Carmody Dell, Heartlands, NH | east side of path directly east of the ranch
-Lone Mule Stead, Big Valley, WE | west side of house
-Diablo Ridge, Big Valley, WE | south side of first junction southeast of "DIABLO RIDGE"
+See `RDR2-CaliforniaQuail.jpg` for locations.
 
 ### Pigeon
 
@@ -2038,8 +2008,9 @@ Bard's Crossing, Heartlands, NH | perched atop rocks on islands below the railro
 Braithwaite Manor, Scarlett Meadows, LE | swarming over grass northeast of the main plantation house
 Saint Denis, Bayou Nwa, LE | perched in the mud and on the fence north side of dilapidated train station along tracks NW of **Crawdad Willies**
 Van Horn, Roanoke Ridge, NH | swarming over and perched on a decent sized boulder a few paces NW from the **Van Horn Post Office**
+Van Horn, Roanoke Ridge, NH | perched on the shore north of **Van Horn**
 Annesburg, Roanoke Ridge, NH | perched along the shoreline of the town, usually more numerous on the north shore
-Blackwater, Great Plains, WE | unverified; perched atop buildings all around town
+Pleasance House, Cholla Springs, NA | swarming just south of the **Crashed Airship** (south of **Pleasance House**)
 
 ### Rat
 
@@ -2054,8 +2025,10 @@ Limpany, Heartlands, NH | Black<br>Brown | mainly in the two story building on t
 Bolger Glade, Scarlett Meadows, LE | Black<br>Brown | in and around the **Abandoned Church**
 Prinz & Co, Bayou Nwa, LE | Black<br>Brown | around the trash and carcass piles
 Saint Denis, Bayou Nwa, LE | Brown | tons of scoreless inside **Doyle's Tavern** during the two infestation random encounters associated with it
+Lagras, Bayou Nwa, LE | Black | a few near the west shore across the road from the **Bait Shop**
 Pleasance, Scarlett Meadows, LE | Black | around the burned down school house
 Copperhead Landing, Bluewater Marsh, LE | Black<br>Brown | around the dilapidated cabin
+Maclean's House, Roanoke Ridge, NH | Brown | next to the outhouse west of the farmhouse
 Fort Brennand, Roanoke Ridge, NH | Black | inside the fort walls
 Wild Man's Cave, Roanoke Ridge, NH | Black | inside the cave
 Van Horn, Roanoke Ridge, NH | Black<br>Brown | behind the **Old Light Saloon**
@@ -2064,6 +2037,26 @@ Hermit Woman's Shack, Big Valley, WE | Black | inside the shack
 Lone Mule Stead, Big Valley, WE | Black | around the cabin
 Fort Riggs, Big Valley, WE | Black<br>Brown | around the western fort
 The Old Bacchus Place, Hennigan's Stead, NA | Brown | numerous scoreless brown rats inside the shack
+
+### Little Brown Bat
+
+*Solely nocturnal and common across Lemoyne, but can be found in only certain locations outside of Lemoyne.*
+
+Location | Details
+:--- | ---
+Bolger Glade, Scarlett Meadows, LE | perched on **Abandoned Church**; also may be flying overhead
+Braithewaite Manor, Scarlett Meadows, LE | flying around the boat house on the east shore of Flat Iron Lake
+Bayall Edge, Bayou Nwa, LE | perched on the front of the cabin
+Canebreak Manor, Bluewater Marsh, LE | flying over the marsh flats
+Pleasance, Scarlett Meadows, LE | inside the schoolhouse damaged by a fallen tree; south of 'c' in "Pleasan**c**e"
+Fort Brennand, Roanoke Ridge, NH | perched in southwest crows nest
+Elysian Pool, Roanoke Ridge, NH | perched on ceiling of cave inside the waterfall
+Wild Man's Cave, Roanoke Ridge, NH | perched on ceiling of cave entrance
+Flattened Cabin, Grizzlies East, AM | inside the cabin at **Moonstone Pond**; tons of them if you approach shortly after; 18:00
+Mount Shann, Big Valley, WE | cave mouth just south of 'U' in "MO**U**NT SHANN"; same cave **Winton Holmes** and the player travel to during `Money Lending and Other Sins IV`
+Swadbass Point, Tall Trees, WE | perched on north side of cabin at **Aurora Basin**
+Two Crows, Cholla Springs, NA | perched in northern shed
+Tumbleweed, Gaptooth Ridge, NA | atop the large two story house on the west edge of Tumbleweed
 
 ## Domestic Animal Locations
 
@@ -2084,7 +2077,6 @@ Emerald Ranch, Heartlands, NH | inside the pen behind Seamus' **Fence** barn
 Guthrie Farm, Heartlands, NH | -
 Downes Ranch, Heartlands, NH | inside fence directly southwest of barn
 Downes Ranch, Heartlands, NH | grazing in grass northwest of the ranch
-Roanoke Ridge, NH | next to the first shack on the road heading southeast out of **Butcher Creek**; northwest of **Manmade Mutant**
 Robard Farm, Scarlett Meadows, LE | inside the wooden fence across from the small pond; southwest of second 'F' in "Southfield **F**lats"
 Robard Farm, Scarlett Meadows, LE | northwest edge of the 's' in "Southfield Flat**s**"
 Caliga Hall, Scarlett Meadows, LE | near the water northeast of all the houses
@@ -2092,6 +2084,8 @@ Caliga Hall, Scarlett Meadows, LE | west of 'C' in "**C**ALIGA HALL"
 Braithewaite Manor, Scarlett Meadows, LE | southeast of the main plantation house
 Hill Haven Ranch, Scarlett Meadows, LE | walking with rancher across the road northwest of the ranch
 Eris Field, Scarlett Meadows, LE | walking with rancher on east side of road directly west of north side of **Ringneck Creek**
+Roanoke Ridge, NH | next to the first shack on the road heading southeast out of **Butcher Creek**; northwest of **Manmade Mutant**
+Brandywine Drop, Roanoke Ridge, NH | grazing with rancher on west side of path; southeast of **Brandywine Drop**
 
 ### Rooster
 
@@ -2123,8 +2117,10 @@ Armadillo, Cholla Springs, NA | in a fenced off area on the west edge of town (a
 
 Location | Details
 :--- | ---
+Emerald Ranch, Heartlands, NH | in pen west of **Seamus' Fence**
 Van Horn Stable, Roanoke Ridge, NH | in a fenced pen south of the stable
 Rathskeller Fork, Gaptooth Ridge, NA | roaming around the farm
+Pleasance House, Cholla Springs, NA | roaming down the hill south of the house
 Silent Stead, Gaptooth Ridge, NA | one lone goat in the pen behind the shack
 
 ## Horse Stats and Locations
@@ -2207,6 +2203,8 @@ Another alternative way to obtain the Silver Dapple Pinto variant as Arthur is a
 
 ### Coffee
 
+*The rare four-sip brews.*
+
 Location | Details
 :--- | ---
 Beecher's Hope, Great Plains, WE | at main campfire
@@ -2214,6 +2212,8 @@ Blackwater, Great Plains, WE | camp on southwest side of town
 Blackwater, Great Plains, WE | northwest side of bank construction
 
 ### Alcohol Cases
+
+*Homebrew and swamp whiskey.*
 
 Location | Type | Details
 :--- | --- | ---
@@ -2231,6 +2231,7 @@ Butcher Creek, Roanoke Ridge, NH | whiskey | atop a table next to the house just
 Downes Ranch, Heartlands, NH | beer | inside ranch house
 Castor's Ridge, Heartlands, NH | beer | inside house
 Lagras, Bayou Nwa, LE | beer<br>random<br>whiskey | two beer, two whiskey, one random, all among the houses
+Wapiti, Grizzlies East, AM | beer | next to a cabin on the northwest side of the settlement; not present in Epilogue
 Beecher's Hope, Great Plains, WE | beer | atop blacksmithing table
 Blackwater, Great Plains, WE | beer | in camp southwest of town
 Blackwater, Great Plains, WE | beer | on the porch of the first houses west of the **Blackwater Post Office** and **Blackwater Stable**
@@ -2238,13 +2239,18 @@ Ridgewood Farm, Cholla Springs, NA | whiskey | outside the southeast corner of t
 
 ### Stew Bowl
 
+*Mystery meat.*
+
 Location | Details
 :--- | ---
 Valentine, Heartlands, NH | in camp west side of town
 Beecher's Hope, Great Plains, WE | Abigail will serve stew every evening
 Blackwater, Great Plains, WE | west side of bank construction
+Blackwater, Great Plains, WE | southeast side of camp outside of town
 
 ### Chop Firewood
+
+*Mr. Appleseed will be proud.*
 
 Location | Details
 :--- | ---
@@ -2252,26 +2258,54 @@ Hill Haven Ranch, Scarlett Meadows, LE | south side of ranch house
 Rhodes, Scarlett Meadows, LE | south side of house directly west of **Rhodes Parlour House**
 Beecher's Hope, Great Plains, WE | next to main campfire
 
-## Extended Information
+# MISCELLANEOUS
 
-*Reference links to documents/maps that were used, among other things.*
+### Cool Things
 
-### Testing Procedures
+*All references to controls are in terms of Xbox One/Series controllers.*
 
-- PC v1436.31 locked at 60fps, V-Sync off, Triple Buffering on, mostly medium settings aside from low lighting qualities and ultra textures.
-- All animals are tracked back to their original locations via **Eagle Eye**. All locations shown were verified at least twice before being marked.
-- Dismount horse well away from spawn.
-- Constant application of **Cover Scent Lotion**, as in once every 2-3 minutes.
-- Slow approach, normal crouched walking.
-- RampageTrainer (freeze/change time/weather; 2021/12/05 using Ignored By Wild Animals to pinpoint exact spawn locations)
+[Reference](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/)
 
-### Release Format
+- Double-tap RB to walk your horse backwards.
+- Perform a flashy holster animation by double-tapping LB. Works with only primary sidearm. Does not work with Sawed Off Shotgun.
+- You can buy goods from some of the shops at the **Saint Denis Market**.
 
-You can download archives of maps in the `Releases` tab on the right side of this page. All releases are in 7z format with LZMA2 compression, so you'll need an archiving program capable of extracting LZMA2 7-zip archives. I use [7-zip itself](https://www.7-zip.org/), but you're free to use whatever you want.
+### Tools
 
-In-game screenshots of the player sitting at a "sit" location are uploaded in their own, separate archives with the suffix `SitLocationsInGame` (i.e. `rdr2-maps-2021-11-07-SitLocationsInGame.7z`).
+- [CodeWalker](https://github.com/dexyfex/CodeWalker)
 
-### Map References
+### Mods
+
+- [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) - ScriptHookRDR2 base. SDK for development of C++ plugins available on the same page.
+- [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer.
+- [Stash That Lantern](https://www.nexusmods.com/reddeadredemption2/mods/333) - Store lantern on satchels, both your own and on your horse.
+- [SnappyUI](https://www.nexusmods.com/reddeadredemption2/mods/971) - Disable the "smooth transition" in the pause menu.
+- [Realistic Weapon Rebalance](https://www.nexusmods.com/reddeadredemption2/mods/1156) - Slower reloads, damage buffs/nerfs, etc.
+- [Realistic Hunting Rebalance](https://www.nexusmods.com/reddeadredemption2/mods/1559) - Changes clean kill data.
+- [Herbalist](https://www.nexusmods.com/reddeadredemption2/mods/1457) - plants yield more materials.
+- [Multiclass Horses](https://www.nexusmods.com/reddeadredemption2/mods/1226) - Cross-species horse coats. Avaiable for all breeds.
+- [Lenny's Mod Loader](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) - stream modded content directly into game.
+- [Realistic Clean Kills](https://www.nexusmods.com/reddeadredemption2/mods/1559) - allows Varmint Rifle and/or Pistols to make clean kills on small game.
+- [Proper horse sprint on controller.](https://www.nexusmods.com/reddeadredemption2/mods/1347)
+
+### Programs Used
+
+- [GNU Image Manipulation Program](https://www.gimp.org/) - *Editing maps.*
+- [GreenShot](https://github.com/greenshot/greenshot) - Capturing in-game screenshots.
+- [nomacs](https://github.com/nomacs/nomacs) - Scan through screenshots when marking new locations.
+- [CheatEngine](https://www.cheatengine.org/download/CheatEngine7.2_MissingSetup.rar) - *portable version; used for speedhack to make time fly by.*
+- [7-Zip](https://www.7-zip.org/) - *Archiving and compressing.*
+- [VS Code](https://code.visualstudio.com/) - *Editing and previewing Markdown docs.*
+
+### References
+
+[RDR Fandom Missable Content](https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2) - missable content. [[Steam]](https://steamcommunity.com/sharedfiles/filedetails/?id=2002543938) [[GTAForums]](https://gtaforums.com/topic/924480-spoilers-everything-missable-in-rdr2/)
+
+[RDR2Mods](https://www.rdr2mods.com/) - focused around RDR2 modding. Wiki with databases, tutorials, and references (including hash IDs). [[Wiki]](https://www.rdr2mods.com/wiki/)
+
+[RDOMap](https://jeanropke.github.io/RDOMap/) - Red Dead Online interactive map.
+
+[Complete Map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) - Story mode map with all discoverable animal icons and location names.
 
 [Original map, a fantastic 10MP hillshaded render](https://www.reddit.com/r/reddeadredemption/comments/gimo7v/10mp_rdr2_game_map_redux_enhanced_with_hillshaded/) by Reddit user [domriccobene](https://www.reddit.com/user/domriccobene/).
 
@@ -2290,16 +2324,20 @@ For select animal population maps:
 - [RDR2.org](https://rdr2.org/)
 - [PowerPyx's Guides](https://www.powerpyx.com/red-dead-redemption-2-all-animal-locations-zoologist-skin-deep/)
 
-### Programs Used
+### Testing Procedures
 
-- [GNU Image Manipulation Program](https://www.gimp.org/) - *Editing maps.*
-- [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - *To change/freeze time of day and/or weather*
-- [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) - *RampageTrainer dependency*
-- [GreenShot](https://github.com/greenshot/greenshot) - Capturing in-game screenshots.
-- [nomacs](https://github.com/nomacs/nomacs) - Scan through screenshots when marking new locations.
-- [CheatEngine](https://www.cheatengine.org/download/CheatEngine7.2_MissingSetup.rar) - *portable version; used for speedhack to make time fly by.*
-- [7-Zip](https://www.7-zip.org/) - *Archiving and compressing.*
-- [VS Code](https://code.visualstudio.com/) - *Editing and previewing Markdown docs.*
+- PC v1436.31 locked at 60fps, V-Sync off, Triple Buffering on, mostly medium settings aside from low lighting qualities and ultra textures.
+- All animals are tracked back to their original locations via **Eagle Eye**. All locations shown were verified at least twice before being marked.
+- Dismount horse well away from spawn.
+- Constant application of **Cover Scent Lotion**, as in once every 2-3 minutes.
+- Slow approach, normal crouched walking.
+- RampageTrainer (freeze/change time/weather; 2021/12/05 using Ignored By Wild Animals to pinpoint exact spawn locations)
+
+### Release Format
+
+You can download archives of maps in the `Releases` tab on the right side of this page. All releases are in 7z format with LZMA2 compression, so you'll need an archiving program capable of extracting LZMA2 7-zip archives. I use [7-zip itself](https://www.7-zip.org/), but you're free to use whatever you want.
+
+In-game screenshots of the player sitting at a "sit" location are uploaded in their own, separate archives with the suffix `SitLocationsInGame` (i.e. `rdr2-maps-2021-11-07-SitLocationsInGame.7z`).
 
 ### Quotes
 
@@ -2310,39 +2348,3 @@ For select animal population maps:
 [Charles Smith (Ep. II, Bare Knuckle Friendships)](https://game-scripts.fandom.com/wiki/Red_Dead_Redemption_2#Bare_Knuckle_Friendships)
 
 > Those are Guido Martelli's men.
-
-# MISCELLANEOUS
-
-### Cool Things
-
-*All references to controls are in terms of Xbox One/Series controllers.*
-
-[Reference](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/)
-
-- Double-tap RB to walk your horse backwards.
-- Perform a flashy holster animation by double-tapping LB. Works with only primary sidearm. Does not work with Sawed Off Shotgun.
-- You can buy goods from some of the shops at the **Saint Denis Market**.
-
-### Tools
-
-- [CodeWalker](https://github.com/dexyfex/CodeWalker)
-
-### Missable Content References
-
-- [RDR Fandom](https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2) - missable content. [[Steam]](https://steamcommunity.com/sharedfiles/filedetails/?id=2002543938) [[GTAForums]](https://gtaforums.com/topic/924480-spoilers-everything-missable-in-rdr2/)
-
-### Mods
-
-- [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) - ScriptHookRDR2 base. SDK for development of C++ plugins available on the same page.
-- [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer.
-- [Proper horse sprint on controller.](https://www.nexusmods.com/reddeadredemption2/mods/1347)
-- [Lenny's Mod Loader](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) - stream modded content directly into game.
-- [Huntsman](https://www.nexusmods.com/reddeadredemption2/mods/1482) - animals yield more materials.
-- [Herbalist](https://www.nexusmods.com/reddeadredemption2/mods/1457) - plants yield more ingredients.
-
-### References
-
-- [rdr2-maps](https://github.com/subvod/rdr2-maps) - A collection of maps showing locations of places to sit, enemy encounters, and rare animals.
-- [RDR2Mods](https://www.rdr2mods.com/) - focused around RDR2 modding. Wiki with databases, tutorials, and references (including hash IDs). [[Wiki]](https://www.rdr2mods.com/wiki/)
-- [RDOMap](https://jeanropke.github.io/RDOMap/) - Red Dead Online interactive map.
-- [Complete Map](https://gtaforums.com/topic/968364-complete-map-with-all-discoverable-icons/) - Story mode map with all discoverable animal icons and location names.
