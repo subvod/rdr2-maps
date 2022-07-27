@@ -1167,7 +1167,7 @@ https://reddead.fandom.com/wiki/Feral_Man
 
 *Random Events:*
 
-- Rescue Bill Williamson: Random Event outside the camp where you’re getting asked to help safe Bill from some Bounty hunters
+- Rescue Bill Williamson: Random Event outside the camp where you’re getting asked to help safe Bill from some Bounty hunters (Chapter II-IV)
 - Fundraiser: (Possible Chapter II – IV)
 - Braithwaite's Secret: point of interest, the crazy lady in the outhouse, Gertrude Braithwaite. She is no longer there after Chapter 6
 - Horse Races: can be made unavailable if declined once; [Reddit post.](https://redd.it/9yq601)
