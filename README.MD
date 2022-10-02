@@ -324,11 +324,18 @@ After hopping on, hold the stick in the opposite direction of where the horse is
 
 ### What is the best horse?
 
-A purely subjective question. But, statistically speaking and taking into account my own experience in practice, the **Turkoman** and **Missouri Fox Trotter** are the best all-around breeds. Sure, they don't have as fantastic of stats as Arabians. But those Arabian breeds dart off at the first clink of a pen drop. The Turkoman and MFT are both well-rounded breeds. However they can only be obtained from Stables, and some are locked until a certain story progression point.
+A purely subjective question. But, statistically speaking and taking into account my own experience in practice, the **Turkoman** and **Missouri Fox Trotter** are the best all-around breeds. Sure they don't have as fantastic of stats as Arabians, but those Arabians dart off at the first clink of a pen drop. The Turkoman and MFT are both well-rounded breeds, however they can only be obtained from Stables and some are locked until a certain story progression point.
 
 For the "best" horse that can be found in the wild, I've found the **Thoroughbred** and **American Standardbred** breeds are the best balanced and closest to Turkoman and MFT.
 
-Again, all purely subjective. Some players may go for looks. Others may go for stats.
+Again, all purely subjective. Some players may go for looks. Others may go for stats. Like a certain coat on a certain horse, but don't care for its stats? If you're on PC, you're in luck:
+
+[Multiclass Horses](https://www.nexusmods.com/reddeadredemption2/mods/1226)
+[Work Horses](https://www.nexusmods.com/reddeadredemption2/mods/1340)
+[War Horses](https://www.nexusmods.com/reddeadredemption2/mods/1327)
+[Race Horses](https://www.nexusmods.com/reddeadredemption2/mods/1303)
+[Draft Horses](https://www.nexusmods.com/reddeadredemption2/mods/1271)
+[Riding Horses](https://www.nexusmods.com/reddeadredemption2/mods/1239)
 
 ### Getting around.
 
@@ -598,6 +605,8 @@ If you're looking to farm animals for pelts, it's best to get rid of the carcass
 1. Sell the carcass whole.
 2. Shimmy the carcass into to a body of water deep enough for the carcass to float.
 3. Burn the carcass. I've had super spotty success with this, which is why I advise more to use the first two methods. Sometimes burning the carcass still leaves bones, where as donating/selling the carcass completely gets rid of it for sure and leaving it floating in even semi-deep water does the job more consistently.
+
+You can attract scavenger birds and mammals by leaving a freshly killed carcass out in the open, then watching it from afar. Most areas will spawn rats, vultures, hawks, eagles, etc, over the carcass.
 
 ### List of Materials for Satchel, Camp, and Trapper
 
@@ -1725,7 +1734,7 @@ Hawk/Eagle/Owl<br>Fish/Snake/Rabbit/Rat | - Elysian Pool, Roanoke Ridge, NH<br>-
 Whitetail Buck | - | Two Bucks, one dead and the other alive, with interlocked horns. Live Buck cannot escape.
 Whitetail Buck | - Heartlands, NH (southwest of second 'H' in "THE **H**EARTLANDS") | Two Bucks pushing each other around.
 Bighorn Ram | - Deadboot Creek, Grizzlies West, AM (southeast of 'k' in "Deadboot Cree**k**".<br>- Little Creek River, Big Valley, WE (NW side of junction NW of 'R' in "Little Creek **R**iver"<br>- Black Bone Forest, Big Valley, WE (just SE of the **Trapper**)<br>- Pronghorn Ranch, Big Valley, WE (first junction on eastbound dashed path heading away from the ranch.<br>- Cholla Springs, NA (dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS") | Two Rams headbutt each other.
-American Bison | - Heartland Overflow, Heartlands, NH (SW of 'O' in "Heartland **O**verflow"<br>- Hennigan's Stead, NA (west of second 'N' in "NEW AUSTI**N**") | Bison headbutting each nother.
+American Bison | - Heartland Overflow, Heartlands, NH (SW of 'O' in "Heartland **O**verflow"<br>- Great Plains, WE (southeast of 'T' and west of 'P' in "GREA**T P**LAINS")<br>- Hennigan's Stead, NA (west of second 'N' in "NEW AUSTI**N**") | Bison headbutting each nother.
 Grizzly Bear<br>Gray Wolf | - Barrow Lagoon, Grizzlies West, AM (on ice south side of lagoon)<br>- Cattail Pond, Grizzlies West, AM (east of the pond) | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly. 10:00
 Grizzly Bear | - Watson's Cabin, Big Valley, WE (east of)<br>- Fairvale Shanty, Grizzlies East, AM (south of) | Scratching itself on a tree trunk.
 Grizzly Bear<br>Sockeye Salmon | - O'Creagh's Run, Grizzlies East, AM<br>- Little Creek River, Big Valley, WE (east stretch of creek before downhill)<br>- Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br>- Aurora Basin, Tall Trees, WE (SE shore) | Grizzly catches and eats Salmon.
@@ -1925,6 +1934,7 @@ Location | Details
 :--- | ---
 Twin Stack Pass, Heartlands, NH | both perched atop and flying around the peaks
 Grizzlies East, AM | tons of both flying and perched around the first 'I' in "GR**I**ZZLIES EAST"
+Mount Hagen, Grizzlies West, AM | perched on top of mountain and flying overhead
 Tanner's Reach, Tall Trees, WE | tons of eagles
 
 ### Vulture
@@ -1935,6 +1945,7 @@ Tanner's Reach, Tall Trees, WE | tons of eagles
 
 Location | Details
 :--- | ---
+Bluewater Marsh, LE | flying overhead
 Armadillo, Cholla Springs, NA | flying all around the outskirts of Armadillo
 
 ## Small Birds and Animals
@@ -1953,18 +1964,19 @@ Lone Mule Stead | atop the house
 
 ### Pileated Woodpecker
 
-*Primarily diurnal. They can be seen flying in more of a "cruise" style, like a Raven, as opposed to the smaller Red Bellied's constant flapping. Doesn't appear to spawn nor land on the sides of tree trunks, unlike the Red Bellied.*
+*Primarily diurnal. They can be seen flying in more of a "cruise" style, like a Raven, as opposed to the smaller Red Bellied's constant flapping. Doesn't appear to spawn nor land as often on the ground or sides of tree trunks, unlike the Red Bellied Woodpecker.*
 
 Location | Details
 :--- | ---
 Cumberland Forest, NH | flying overhead
 Cotorra Springs, Grizzlies West, AM | flying overhead
-Old Harry Fen, Scarlett Meadows, LE | all around the forests nearby
+Old Harry Fen, Scarlett Meadows, LE | fliyng overhead in the nearby forests
 Fort Brennand, Roanoke Ridge, NH | perched on fort walls and flying overhead
 Black Bone Forest, Big Valley, WE | flying overhead
-Little Creek River, Big Valley, WE | flying overhead
-Wallace Station, Big Valley, WE | in and above the forests west of the train tracks
+Little Creek River, Big Valley, WE | flying overhead, primarily on the western junctions (north of **Pronghorn Ranch**)
+Wallace Station, Big Valley, WE | flying overhead in the forests west of the train tracks
 Aurora Basin, Tall Trees, WE | flying overhead
+Hennigan's Stead, NA | flying overhead; from **MacFarlane's Ranch** southwest to the scattered trees and plains
 
 ### Red Bellied Woodpecker
 
@@ -1972,8 +1984,11 @@ Aurora Basin, Tall Trees, WE | flying overhead
 
 Location | Details
 :--- | ---
+Downes Ranch, Heartlands, NH | on the southwest side of a tree trunk just southwest of the barn
 Fort Brennand, Roanoke Ridge, NH | perched on fort walls and flying overhead
 Viking Burial Site, Roanoke Ridge, NH | perched on tree trunks and atop rocks all along the **Kamassa River**
+Vetter's Echo, Big Valley, WE | pecking the post to the right of the front door
+Appleseed Timber Co, Big Valley, WE | east side of tree trunk just west of fourth railroad dot northwest of the logging site's junction
 Hennigan's Stead, NA | flying overhead
 Cholla Springs, NA | sometimes flying, but more often perched on ground and can be stirred up even at night
 
@@ -1985,8 +2000,9 @@ Seems to be quite widespread, but flying spawns appear to be more common in **Gr
 
 Location | Details
 :--- | ---
-Roanoke Ridge, NH | atop the bridge near the **Trail Trees**
-Scarlett Meadows, LE | flying overhead
+Flat Iron Lake, Scarlett Meadows, LE | on the southernmost island
+Roanoke Ridge, NH | on the railing of the bridge north of **Trapper**, near the **Trail Trees**
+Kamassa River, Roanoke Ridge, NH | perched atop rocks along the river, north of **Elysian Pool** all the way to **Brandywine Drop**
 Fort Brennand, Roanoke Ridge, NH | perched on fort walls and flying overhead
 Upper Montana River, Great Plains, WE | standing next to water's edge along the south side of the river; directly across from two canoe spawns south of **Fort Riggs**
 Great Plains, WE | atop large rocks and flying overhead all west of **Blackwater**
@@ -1996,6 +2012,10 @@ Great Plains, WE | atop large rocks and flying overhead all west of **Blackwater
 *Primarily diurnal. Usually found in groups of three to four, but sometimes as few as just one or as many as six.*
 
 See `RDR2-CaliforniaQuail.jpg` for locations.
+
+Location | Details
+:--- | ---
+Lone Mule Stead, Big Valley, WE | next to northwest corner of house, 24 HOURS
 
 ### Pigeon
 
@@ -2025,6 +2045,7 @@ Limpany, Heartlands, NH | Black<br>Brown | mainly in the two story building on t
 Bolger Glade, Scarlett Meadows, LE | Black<br>Brown | in and around the **Abandoned Church**
 Prinz & Co, Bayou Nwa, LE | Black<br>Brown | around the trash and carcass piles
 Saint Denis, Bayou Nwa, LE | Brown | tons of scoreless inside **Doyle's Tavern** during the two infestation random encounters associated with it
+Saint Denis, Bayou Nwa, LE | east end of main path through cemetary near 45 degree turn southeast
 Lagras, Bayou Nwa, LE | Black | a few near the west shore across the road from the **Bait Shop**
 Pleasance, Scarlett Meadows, LE | Black | around the burned down school house
 Copperhead Landing, Bluewater Marsh, LE | Black<br>Brown | around the dilapidated cabin
@@ -2074,7 +2095,9 @@ Hanging Dog Ranch, Big Valley, WE | scoreless; Epilogue only
 Location | Details
 :--- | ---
 Emerald Ranch, Heartlands, NH | inside the pen behind Seamus' **Fence** barn
-Guthrie Farm, Heartlands, NH | -
+Emerald Ranch, Heartlands, NH | walking with rancher southeast of **Heartland Overflow**
+Emerald Ranch, Heartlands, NH | walking with rancher southwest of Seamus' **Fence**, northeast of **Old Trail Rise**
+Guthrie Farm, Heartlands, NH | inside fence with hay barn on southeast side of farm, sometimes with a Mule
 Downes Ranch, Heartlands, NH | inside fence directly southwest of barn
 Downes Ranch, Heartlands, NH | grazing in grass northwest of the ranch
 Robard Farm, Scarlett Meadows, LE | inside the wooden fence across from the small pond; southwest of second 'F' in "Southfield **F**lats"
