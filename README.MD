@@ -6,7 +6,7 @@
 
 This is a collection of noted events and encounters, along with some observed numerical data and notes associated with said data. All information is based upon PC vanilla runs without mods (aside from RampageTrainer). Be aware, here's a few spoilers here and there, but nothing major.
 
-**For map-related information, skip to [Maps](#maps).**
+**For map-related information and animal locations, skip to [Maps](#maps).**
 
 [OVERVIEW](#overview)
 <br>[SURVIVING IN THE WILDERNESS](#surviving-in-the-wilderness)
@@ -48,6 +48,7 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;[Weather, bait, and bite sequences.](#weather-baits-and-bite-sequences)
 <br>[PLANT/HERB LOCATIONS](#plantherb-locations)
 <br>[ITEM LOCATIONS](#item-locations)
+<br>&emsp;[Weapons](#weapons)
 <br>&emsp;[Ginseng Elixir](#ginseng-elixir)
 <br>&emsp;[Aged Pirate Rum](#aged-pirate-rum)
 <br>&emsp;[Valerian Root](#valerian-root)
@@ -132,6 +133,7 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;&emsp;[Vulture](#vulture)
 <br>&emsp;&emsp;[Gray Wolf](#gray-wolf)
 <br>&emsp;[Small Birds and Animals](#small-birds)
+<br>&emsp;&emsp;[Scoreless Spawns](#scoreless-spawns)
 <br>&emsp;&emsp;[Little Brown Bat](#little-brown-bat)
 <br>&emsp;&emsp;[Pileated Woodpecker](#pileated-woodpecker)
 <br>&emsp;&emsp;[Red Bellied Woodpecker](#red-bellied-woodpecker)
@@ -757,13 +759,41 @@ Sparrow's Egg Orchid | All around northeastern **Roanoke Ridge, NA**.<br>Odd loc
 - Items in containers (lockboxes, chests, cabinets, wardrobes, etc) will respawn regardless of rarity. Rare items (i.e. Aged Pirate Rum) do not respawn unless they're in a container. Respawnable items are bolded in these lists for simplicity sake.
 - New years day 2022, all non-respawning items respawned. Unsure if the game has something coded into it for refreshing every year.
 
+### Weapons
+
+*Guns, knives, etc.*
+
+Weapon | Location
+:--- | ---
+Double-Action Revolver | In a weapon case under a bunk bed during a random event at **Lonnie's Shack, Roanoke Ridge, NH**
+Schofield Revolver | In a gun case during the `Shop Robbery - Valentine Gunsmith`
+Otis Miller's Revolver | In a chest within a cave at **Rattlesnake Hollow, Cholla Springs, NA**
+Carbine Repeater | -
+Lancaster Repeater | In a gun case in the basement of the Gunsmith in **Rhodes, Scarlett Meadows, LE**. Accessible only during `Shop Robbery - Rhodes Gunsmith`.
+Double Barrel Shotgun | Over the fireplace at **Catfish Jacksons, Scarlett Meadows, LE**
+Pump Action Shotgun | In a gun case in the overhead crawl space of the northwest corner of the house at **Chez Porter, Grizzlies West, AM**
+Semi-Auto Shotgun | In a gun case in the basement of **Watson's Cabin, Big Valley, WE**
+Machete | Used by **Murfree Brood** and **Night Folk**
+Broken Pirate Sword | In a broken boat south of **Caliga Hall** and **Saint Denis**, northeast of **Shady Belle, Scarlett Meadows, LE**
+Antler Knife | In the neck of a dead *Grizzly Bear* northeast of **Stilt Shack, Big Valley, WE**
+Civil War Knife | In the basement of **Fort Brennand, Roanoke Ridge, NH**
+Wide Blade Knife | In the back of a dead miner inside the cave at **Beryl's Dream, Big Valley, WE**
+Ornate Dagger | Dropped by the Saint Denis **Vampire**
+Hewing Hatchet | In a tree stump next to **Flattened Cabin, Grizzlies East, AM**
+Stone Hatchet | In the center of **Native Burial, Big Valley, WE**
+Viking Hatchet | In a skeleton at the center of **Old Tomb, Roanoke Ridge, NH**
+Hunter Hatchet | In a tree stump outside **Dodd's Bluff, Grizzlies West, AM**
+Rusted Hunter Hatchet | In a tree stump outside **Martha's Swain, Grizzlies East, AM**
+Double Bit Hatchet | In a tree stump next to the rubble and remaining fence of an old cabin northwest of **Wallace Station, Big Valley, WE**
+Rusted Double Bit Hatchet | In a tree stump between two large houses in northern **Annesburg, Roanoke Ridge, NH**
+
 ### Ginseng Elixir
 
 *Adds health experience.*
 
 Location | Details
 :--- | ---
-Cairn Lodge, Grizzlies West, AM | inside the lodge
+**Cairn Lodge, Grizzlies West, AM** | in lockbox under bed inside the lodge
 Dakota River, Grizzlies West, AM | by a tree on the island; west of **Lucky's Cabin**
 **Six Point Cabin, Cumberland Forest, NH** | in a lockbox inside the cabin; inaccessible in Epilogue
 **Cumberland Forest, NH** | lockbox in abandoned mail coach; first junction northeast of **Six Point Cabin**
@@ -793,28 +823,30 @@ Aurora Basin, Tall Trees, WE | in a lockbox at the random Skinner campsite on th
 Location | Details
 :--- | ---
 Hani's Bethel, Heartlands, NH | inside chimney; northeast of **Heartland Overflow**
-**Twin Stack Pass, Heartlands, NH** | lockbox atop cliff's edge; southwest of **Cornwall Kerosene and Tar**
-Gill Landing, Heartlands, NH | on table to the right of the fireplace
-Clemens Point, Scarlett Meadows, LE | wrecked blue boat on southern shoreline
-**Flat Iron Lake, NH** | lockbox inside shipwreck on largest island directly west of **Clemens Point**
-Braithwaite Manor, Scarlett Meadows, LE | on a barrel beside a fishing house on far west shore; slightly northwest of **Braithwaite's Secret**
-Bolger Glade, Scarlett Meadows, LE | second floor of **Abandoned Church**
-Bolger Glade, Scarlett Meadows, LE | boat in tree along shoreline; south of **Bolger Glade**
-**Catfish Jackson's, Scarlett Meadows, LE** | lockbox on side of house
+**Twin Stack Pass, Heartlands, NH** | lockbox atop northern cliff's edge; southwest of **Cornwall Kerosene and Tar**
+Gill Landing, Heartlands, NH | inside the cabin atop some barrels under a taxidermied *Muskie* to the right of the fireplace
+Clemens Point, Scarlett Meadows, LE | in a wrecked teal colored boat on southern shoreline
+Clemens Point, Scarlett Meadows, LE | during Lemoyne Raider `Captive` random event just south of **Horse Fence**; can happen in other places around **Scarlett Meadows**; in a large chest next to a Lemoyne Raider campsite
+**Flat Iron Lake, NH** | lockbox inside a wrecked pirate ship on largest island directly west of **Clemens Point**
+Braithwaite Manor, Scarlett Meadows, LE | atop a barrel beside a fishing shack and dock on far west shore; slightly northwest of **Braithwaite's Secret**
+Bolger Glade, Scarlett Meadows, LE | second floor of **Abandoned Church** next to some ammo 
+Bolger Glade, Scarlett Meadows, LE | atop a crate under the *Boat in Tree* along shoreline; south of **Bolger Glade**
+**Catfish Jackson's, Scarlett Meadows, LE** | lockbox on west side of house
 **Shady Belle, Bayou Nwa, LE** | lockbox under barn southeast of main house
-Saint Denis, Bayou Nwa, LE | inside the second floor of the **Saint Denis Gunsmith**; only accessible during the associated `Shop Robbery` mission
-Fort Brennand, Roanoke Ridge, NH | basement cellar
-Van Horn Trading Post, Roanoke Ridge, NH | underneath large rock off stone path to lighthouse
-**Brandywine Drop, Roanoke Ridge, NH** | lockbox inside waterfall
-Cotorra Springs, Grizzlies West, AM | east of **Granite Pass/Whinyard Strait**; southernmost freight car in train wreck below bridge; jump in from cliff overhead
-**Grizzlies East, AM** | northwest of **O'Creagh's Run**; lockbox on cliffside south of train tracks; climb down ledges from above first 'I' in "GR**I**ZZLIES EAST"
-**Mount Hagen, Grizzlies West, AM** | top floor of watch tower; southeast side of Mount Hagen; east of **Micah's Hideout**
-Mount Shann, Big Valley, WE | base of boulder beside trail atop mountain; northeast of **Beryl's Dream**
+Saint Denis, Bayou Nwa, LE | atop a piano on the second floor above the **Saint Denis Gunsmith**; only accessible during the associated `Shop Robbery` mission
+Fort Brennand, Roanoke Ridge, NH | atop a cabinet in the basement cellar
+Van Horn Trading Post, Roanoke Ridge, NH | with a compass underneath large rock off next to the stone path leading to lighthouse
+**Brandywine Drop, Roanoke Ridge, NH** | lockbox on cliff inside waterfall
+Cotorra Springs, Grizzlies West, AM | in the southernmost freight car of a crashed train; east of **Granite Pass/Whinyard Strait**; jump in from cliff overhead to the east
+Cumberland Forest, NH | reward for completing `Moonshiner` random event; at the 'E' in "CUMBERLAND" only during the first encounter; can occur at other places 
+**Grizzlies East, AM** | lockbox on cliffside south of train tracks; northwest of **O'Creagh's Run**; climb down ledges from above first 'I' in "GR**I**ZZLIES EAST"
+**Mount Hagen, Grizzlies West, AM** | in lockbox on top floor of watch tower; southeast side of Mount Hagen; east of **Micah's Hideout**
+Mount Shann, Big Valley, WE | base of a trailside boulder near a compass, bedroll, and some ammo; northeast of **Beryl's Dream**
 Blackwater, Great Plains, WE | atop a yellow windmill south of a beige house; southwest of **Blackwater**
 Stillwater Cabin, Hennigan's Stead, NA | atop a table across from the bed inside the cabin
-**McFarlane's Ranch, Hennigan's Stead, NA** | lockbox under bed inside blacksmith shop
+**McFarlane's Ranch, Hennigan's Stead, NA** | lockbox under bed inside blacksmith barn
 Mercer Station, Cholla Springs, NA | in the window of a dilapidated cabin next to railroad tracks
-Solomon's Folly, Gaptooth Ridge, NA | in the basement cellar
+Solomon's Folly, Gaptooth Ridge, NA | on a shelf in the basement cellar
 
 ### Valerian Root
 
@@ -833,6 +865,7 @@ Lannahechee River, LE | second floor window of dilapidated building; climb hangi
 Shady Belle, Bayou Nwa, LE | on some crates; northwest of main house
 Dakota River, Heartlands, NH | under a rock along the north shore next to a fishing pole; west of **Painted Sky**
 Grizzlies East, AM | west side of **Ambarino Bridge**; enter through boards on west side; southeast of **The Loft**)
+Cotorra Springs, Grizzlies West, AM | in the southernmost freight car of a crashed train; east of **Granite Pass/Whinyard Strait**; jump in from cliff overhead to the east
 **Beaver Hollow, Roanoke Ridge, NH** | chest in very back of Murphy Brood cave
 Annesburg, Roanoke Ridge, NH | atop the mineshaft tower; guards will attack you
 Hanging Dog Ranch, Big Valley, WE | top floor of barn
@@ -1770,13 +1803,13 @@ Martelli's Men | Saint Denis, Bayou Nwa, LE
 
 See `RDR2-WesternBullMoose.jpg` for more locations.
 
-**NOTE:** The most reliable spawns from my experience: Witches Cauldron (OOB spawns), Tall Trees (second 'L'). They're 24-hour spawn points and allow all coats and both genders to spawn. Every other static spawn may as well be considered a random encounter given how rarely I've come across them.
-
-**NOTE:** Unsure if a glitch, but every bull I run across is rust-brown and every cow I come across is gray-brown. The only places I've been able to get alternative coats of each are: second 'L' in "TAL**L** TREES" and both OOB spawns at **Witches Cauldron, Grizzlies East, AM**.
+**NOTE:** The most reliable spawns from my experience: Witches Cauldron (out of bounds) and Tall Trees (second 'L'). They're 24-hour spawn points and are the only two spots I'm aware of which allow all coats and both genders to spawn. Every other static spawn gives either a gray cow or orange bull and may as well be considered a random encounter given how rarely I've come across them elsewhere.
 
 **NOTE:** Random encounters include: swimming across bodies of water being chased by lone wolf, attempting to stand up on ice.
 
 **NOTE:** If you spend enough time close by, you can get two moose to spawn on the west side of **Lake Isabella**. It's happened to me only once (using RampageTrainer's time lapse feature), so quite rare but possible nonetheless.
+
+**NOTE:** I've found moose all over the map during both sleet and mist/fog. However they don't seem to spawn during other inclement weather like rain, thunderstorm, etc.
 
 Location | Details | Time(s)
 :--- | --- | ---
@@ -1952,15 +1985,18 @@ Armadillo, Cholla Springs, NA | flying all around the outskirts of Armadillo
 
 *Here's locations for those little hard-as-hell-to-find boogers.*
 
-There are a ton of scoreless bird spawn points around the map. Here are a few I frequent:
+### Scoreless Spawns
+
+There are a ton of scoreless bird spawn points around the map. These are active 24 hours a day, but are not guaranteed spawns every time you visit them. All small birds (except for Pileated Woodpecker) can be found at all of these locations.
 
 Location | Details
 :--- | ---
 Dakota River, Heartlands, NH | atop rocks in the river and on the shore from **Bard's Crossing** to **Whinyard Strait**
 Kamassa River, Roanoke Ridge, NH | atop rocks in the river and on the shore from **Maclean's House** to **Brandywine Drop**
 Fort Brennand, Roanoke Ridge, NH | atop the fort walls
+Cattail Pond, Grizzlies West, AM | atop the flat rockface directly west of the pond
 Taxidermist House, Big Valley, WE | atop the house
-Lone Mule Stead | atop the house
+Lone Mule Stead, Big Valley, WE | atop the house
 
 ### Pileated Woodpecker
 
@@ -1968,14 +2004,14 @@ Lone Mule Stead | atop the house
 
 Location | Details
 :--- | ---
-Cumberland Forest, NH | flying overhead
+Cumberland Forest, NH | flying overhead, primarily southeast of **Fort Wallace**
 Cotorra Springs, Grizzlies West, AM | flying overhead
 Old Harry Fen, Scarlett Meadows, LE | fliyng overhead in the nearby forests
-Fort Brennand, Roanoke Ridge, NH | perched on fort walls and flying overhead
 Black Bone Forest, Big Valley, WE | flying overhead
 Little Creek River, Big Valley, WE | flying overhead, primarily on the western junctions (north of **Pronghorn Ranch**)
 Wallace Station, Big Valley, WE | flying overhead in the forests west of the train tracks
-Aurora Basin, Tall Trees, WE | flying overhead
+Painted Sky, Big Valley, WE | flying over the forests SW of **Painted Sky**
+Aurora Basin, Tall Trees, WE | flying overhead even at night
 Hennigan's Stead, NA | flying overhead; from **MacFarlane's Ranch** southwest to the scattered trees and plains
 
 ### Red Bellied Woodpecker
@@ -1986,11 +2022,14 @@ Location | Details
 :--- | ---
 Downes Ranch, Heartlands, NH | on the southwest side of a tree trunk just southwest of the barn
 Fort Brennand, Roanoke Ridge, NH | perched on fort walls and flying overhead
-Viking Burial Site, Roanoke Ridge, NH | perched on tree trunks and atop rocks all along the **Kamassa River**
-Vetter's Echo, Big Valley, WE | pecking the post to the right of the front door
+Viking Burial Site, Roanoke Ridge, NH | atop rocks all along the **Kamassa River**
+Vetter's Echo, Big Valley, WE | pecking post to the right of the front door
+Black Bone Forest, Big Valley, WE | pecking tree trunk east of **Trapper** just below the hill which his camp is set upon
 Appleseed Timber Co, Big Valley, WE | east side of tree trunk just west of fourth railroad dot northwest of the logging site's junction
+Riggs Station, Big Valley, WE | pecking tree trunk just north of **Trapper**
+Old Harry Fen, Scarlett Meadows, LE | pecking tree trunk NE of **Old Harry Fen**, south of the junction near **Killer Clue**, west side of path running north/south
 Hennigan's Stead, NA | flying overhead
-Cholla Springs, NA | sometimes flying, but more often perched on ground and can be stirred up even at night
+Pleasance House, Cholla Springs, NA | in the hills west of **Pleasance House**; sometimes flying, but more often perched on ground and can be stirred up even at night
 
 ### American Robin
 
@@ -2000,12 +2039,14 @@ Seems to be quite widespread, but flying spawns appear to be more common in **Gr
 
 Location | Details
 :--- | ---
-Flat Iron Lake, Scarlett Meadows, LE | on the southernmost island
+Fort Wallace, Cumberland Forest, NH | flying overhead east of **Fort Wallace**
+Flat Iron Lake, Scarlett Meadows, LE | perched on the ground; southwestern side of the southernmost island
 Roanoke Ridge, NH | on the railing of the bridge north of **Trapper**, near the **Trail Trees**
 Kamassa River, Roanoke Ridge, NH | perched atop rocks along the river, north of **Elysian Pool** all the way to **Brandywine Drop**
 Fort Brennand, Roanoke Ridge, NH | perched on fort walls and flying overhead
-Upper Montana River, Great Plains, WE | standing next to water's edge along the south side of the river; directly across from two canoe spawns south of **Fort Riggs**
-Great Plains, WE | atop large rocks and flying overhead all west of **Blackwater**
+Upper Montana River, Great Plains, WE | up to four standing on river bank along the south side of the **Upper Montana**; directly across from two canoe spawns south of **Fort Riggs**
+Broken Tree, Great Plains, WE | flying overhead, atop large rocks, and small cliffs southwest of **Blackwater**
+Aurora Basin, Tall Trees, WE | perched on ground next to sign at junction south of **Swadbass Point**
 
 ### California Quail
 
@@ -2023,13 +2064,14 @@ Lone Mule Stead, Big Valley, WE | next to northwest corner of house, 24 HOURS
 
 Location | Details
 :--- | ---
-Bard's Crossing, Heartlands, NH | perched atop railing of railroad bridge over **Flat Iron Lake**
-Bard's Crossing, Heartlands, NH | perched atop rocks on islands below the railroad bridge
+Bard's Crossing, Heartlands, NH | perched atop railing of railroad bridge over **Flat Iron Lake**, also perched atop rocks on islands below the bridge
 Braithwaite Manor, Scarlett Meadows, LE | swarming over grass northeast of the main plantation house
-Saint Denis, Bayou Nwa, LE | perched in the mud and on the fence north side of dilapidated train station along tracks NW of **Crawdad Willies**
+Saint Denis, Bayou Nwa, LE | perched on the fence and in the mud around dilapidated train station along tracks NW of **Crawdad Willies**
+Saint Denis, Bayou Nwa, LE | flying over the pond NW of **Stable**
 Van Horn, Roanoke Ridge, NH | swarming over and perched on a decent sized boulder a few paces NW from the **Van Horn Post Office**
 Van Horn, Roanoke Ridge, NH | perched on the shore north of **Van Horn**
-Annesburg, Roanoke Ridge, NH | perched along the shoreline of the town, usually more numerous on the north shore
+Annesburg, Roanoke Ridge, NH | perched along the shoreline of the town, usually more numerous on the north shore, may spawn very near the piers
+Cumberland Falls, Big Valley, WE | perched on the ground in middle of paths' intersection on west side of falls.
 Pleasance House, Cholla Springs, NA | swarming just south of the **Crashed Airship** (south of **Pleasance House**)
 
 ### Rat
@@ -2055,6 +2097,7 @@ Wild Man's Cave, Roanoke Ridge, NH | Black | inside the cave
 Van Horn, Roanoke Ridge, NH | Black<br>Brown | behind the **Old Light Saloon**
 Mysterious Hill Home, Grizzlies East, AM | Black | on the southwest side of the home
 Hermit Woman's Shack, Big Valley, WE | Black | inside the shack
+Appleseed Timber Co, Big Valley, WE | Black<br>Brown | inside the foreman's cabin after the area is abandoned
 Lone Mule Stead, Big Valley, WE | Black | around the cabin
 Fort Riggs, Big Valley, WE | Black<br>Brown | around the western fort
 The Old Bacchus Place, Hennigan's Stead, NA | Brown | numerous scoreless brown rats inside the shack
@@ -2069,7 +2112,8 @@ Bolger Glade, Scarlett Meadows, LE | perched on **Abandoned Church**; also may b
 Braithewaite Manor, Scarlett Meadows, LE | flying around the boat house on the east shore of Flat Iron Lake
 Bayall Edge, Bayou Nwa, LE | perched on the front of the cabin
 Canebreak Manor, Bluewater Marsh, LE | flying over the marsh flats
-Pleasance, Scarlett Meadows, LE | inside the schoolhouse damaged by a fallen tree; south of 'c' in "Pleasan**c**e"
+Macomb's End, Bayou Nwa, LE | swarm in the easternmost house
+Pleasance, Scarlett Meadows, LE | swarm in the schoolhouse damaged by a fallen tree; south of 'c' in "Pleasan**c**e"
 Fort Brennand, Roanoke Ridge, NH | perched in southwest crows nest
 Elysian Pool, Roanoke Ridge, NH | perched on ceiling of cave inside the waterfall
 Wild Man's Cave, Roanoke Ridge, NH | perched on ceiling of cave entrance
@@ -2262,7 +2306,7 @@ Ridgewood Farm, Cholla Springs, NA | whiskey | outside the southeast corner of t
 
 ### Stew Bowl
 
-*Mystery meat.*
+*Guess... it's a surprise, then.*
 
 Location | Details
 :--- | ---
@@ -2273,7 +2317,7 @@ Blackwater, Great Plains, WE | southeast side of camp outside of town
 
 ### Chop Firewood
 
-*Mr. Appleseed will be proud.*
+*Mr. Appleseed would be proud.*
 
 Location | Details
 :--- | ---
