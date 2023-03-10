@@ -7,6 +7,22 @@ I've moved this project to NexusMods: [Animal Location Maps](https://www.nexusmo
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # RED DEAD REDEMPTION 2 NOTES
 
