@@ -243,7 +243,6 @@ This is a collection of noted events and encounters, along with some observed nu
 <br>&emsp;&emsp;[Chop Firewood](#chop-firewood)
 <br>[MISCELLANEOUS](#miscellaneous)
 <br>&emsp;[Cool Things](#cool-things)
-<br>&emsp;[Tools](#tools)
 <br>&emsp;[Mods](#mods)
 <br>&emsp;[Programs Used](#programs-used)
 <br>&emsp;[References](#references)
@@ -1492,10 +1491,10 @@ Riggs Station | Beaver<br>Bighorn<br>Chipmunk<br>Cougar<br>Elk<br>Goose<br>Grizz
 
 Price | Orchid(s)
 :--- | ---
-$15.00 | Dragon's Mouth
-$14.00 | Night Scented<br>Moccasin Flower<br>Ghost<br>Clamshell
-$11.00 | Sparrow's Egg<br>Lady of the Night<br>Cigar<br>Acuna's Star
-$10.00 | Rat Tail<br>Queen's<br>Lady Slipper<br>
+$15.00 | &bull;Dragon's Mouth
+$14.00 | &bull;Night Scented<br>&bull;Moccasin Flower<br>&bull;Ghost<br>&bull;Clamshell
+$11.00 | &bull;Sparrow's Egg<br>&bull;Lady of the Night<br>&bull;Cigar<br>&bull;Acuna's Star
+$10.00 | &bull;Rat Tail<br>&bull;Queen's<br>&bull;Lady Slipper
 
 # BUGS
 
@@ -1810,7 +1809,6 @@ There are more of these caskets hidden around the map. (See picture #4) In the c
 
 - **Aberdeen Pig Farm, Scarlett Meadows, LE** (Five under a floorboard.)
 - **Rhodes, Scarlett Meadows, LE** (Caravan at the Fence.)
-- ****
 
 ### Witch in Graveyard
 
@@ -2001,8 +1999,8 @@ For release format and download information, see [Release Format](#release-forma
 Color | Marker Type
 :--- | ---
 Solid Red | Gang Hideout
-Hollow Red | Animal Static Spawn<br>Bird Static Perch Spawn<br>Gang Campsite<br>Permanent Sit Spot<br>Friendly NPC With Dialogue
-Hollow Blue | Animal Scenario Spawn<br>Bird Flying Spawn<br>Gang Random Event<br>Temporary Sit Spot<br>Friendly NPC Without Dialogue
+Hollow Red | &bull;Animal Static Spawn<br><br>&bull;Bird Static Perch Spawn<br><br>&bull;Gang Campsite<br><br>&bull;Permanent Sit Spot<br><br>&bull;Friendly NPC With Dialogue
+Hollow Blue | &bull;Animal Scenario Spawn<br><br>&bull;Bird Flying Spawn<br><br>&bull;Gang Random Event<br><br>&bull;Temporary Sit Spot<br><br>&bull;Friendly NPC Without Dialogue
 
 Some exceptions to these map key rules are:
 
@@ -2012,13 +2010,13 @@ Some exceptions to these map key rules are:
 
 I list locations in the typical format of smallest to largest territory. For RDR2 this is **Place, Region, State**.
 
-Abbreviation | State | Regions
+State | Abbreviation | Regions
 :- | -- | --
-AM | Ambarino | Grizzlies West<br>Grizzlies East
-NH | New Hanover | Heartlands<br>Cumberland Forest<br>Roanoke Ridge
-LE | Lemoyne | Scarlett Meadows<br>Bayou Nwa<br>Bluewater Marsh
-WE | West Elizabeth | Big Valley<br>Great Plains<br>Tall Trees
-NA | New Austin | Hennigan's Stead<br>Cholla Springs<br>Rio Bravo<br>Gaptooth Ridge
+Ambarino | AM | &bull;Grizzlies West<br><br>&bull;Grizzlies East
+New Hanover | NH | &bull;Heartlands<br><br>&bull;Cumberland Forest<br><br>&bull;Roanoke Ridge
+Lemoyne | LE | &bull;Scarlett Meadows<br><br>&bull;Bayou Nwa<br><br>&bull;Bluewater Marsh
+West Elizabeth | WE | &bull;Big Valley<br><br>&bull;Great Plains<br><br>&bull;Tall Trees
+New Austin | NA | &bull;Hennigan's Stead<br><br>&bull;Cholla Springs<br><br>&bull;Rio Bravo<br><br>&bull;Gaptooth Ridge
 
 ### Some Notes
 
@@ -2052,24 +2050,24 @@ Span | Effect
 
 Animal(s) | Location(s) | Description
 :--- | --- | ---
-Cougar<br><br>Deer | &bull; Little Creek River, Big Valley, WE (south of 'E' in "Little Creek Riv**e**r", `11:23`, `20:56`) | Cougar stalks and attacks Deer.
-Cougar<br><br>NPC Corpse | &bull; Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br><br>&bull; Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
-Western Bull Moose | &bull; Lake Isabella, Grizzlies West, AM<br><br>&bull; Barrow Lagoon, Grizzlies West, AM<br><br>&bull; Cairn Lake, Grizzlies West, AM (16:08) | Slipping on ice while attempting to stand upright.
-Western Bull Moose<br><br>Gray Wolf | &bull; Lake Isabella, Grizzlies West, AM (northwest side of lake, swims to western shore)<br><br>&bull; Calumet Ravine, Grizzlies East, AM (just north of the bridge to **Wapiti**, swims to west shore)<br><br>&bull; Owanjila, Big Valley, WE (towards north side of lake, swims to west shore, `18:55`)<br><br>&bull; Owanjila, Big Valley, WE (closer to bridge at **Owanjila Dam**, swims to east shore with a single **Burdock Root**, `08:28`) | Moose swimming, sometimes being chased by a lone wolf.
-Hawk/Eagle/Owl<br><br>Fish/Snake/Rabbit/Rat | &bull; Old Greenbank Mill, Heartlands, NH (west side of path west of the mill)<br><br>&bull; Emerald Ranch, Heartlands, NH (owl catches rat on NE side of ranch)<br><br>&bull; Elysian Pool, Roanoke Ridge, NH<br><br>&bull; Calumet Ravine, Grizzlies East, AM<br><br>&bull; Little Creek River, Big Valley, WE (hawk catches squirrel, northeast of **Valley View**)<br><br>&bull; Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow)<br><br>&bull; Blackwater, Great Plains, WE (owl catches rat, east side of easternmost path heading southbound out of **Blackwater**) | Bird dives and catches random fish/mammal/snake.
-Whitetail Buck | &bull; Diablo Ridge, Big Valley, WE (near path northeastbound from **Appleseed Timber Co.**) | Three dead bucks. Evidently based on a 2015 event in Ohio.
-Whitetail Buck | &bull; Heartlands, NH (SW of the 'H' in "THE **H**EARTLANDS")<br><br>&bull; Strawberry, Big Valley, WE (SE of the **Strawberry Stable**) | Two Bucks, one dead and the other alive, with interlocked horns.
-Whitetail Buck | &bull; Heartlands, NH (SW of second 'H' in "THE **H**EARTLANDS")<br><br>&bull; Cumberland Falls, Heartlands, NH (east side of river, east of path southbound from **Cumberland Falls**, `12:50`)<br><br>&bull; Roanoke Ridge, NH (northern edge of the train tracks just inside the county border, southwest of the **Trapper**) | Two Bucks pushing each other around.
-Bighorn Ram | &bull; Cumberland Forest, NH (north of 'D' in "CUMBERLAN**D** FOREST")<br><br>&bull; Deadboot Creek, Grizzlies West, AM (southeast of 'k' in "Deadboot Cree**k**".<br><br>&bull; Little Creek River, Big Valley, WE (northwest side of junction NW of 'R' in "Little Creek **R**iver"<br><br>&bull; Black Bone Forest, Big Valley, WE (just SE of the **Trapper**)<br><br>&bull; Black Bone Forest, Big Valley, WE (southeast corner of the path junction just southeast of the Geddes' house at **Pronghorn Ranch**)<br><br>&bull; Pronghorn Ranch, Big Valley, WE (first junction on eastbound dashed path heading away from the ranch.<br><br>&bull; Cholla Springs, NA (dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS") | Two Rams headbutt each other.
-American Bison | &bull; Heartland Overflow, Heartlands, NH (SW of 'H' in "**H**eartland Overflow"<br><br>&bull; Great Plains, WE (southeast of 'T' and west of 'P' in "GREA**T P**LAINS")<br><br>&bull; Hennigan's Stead, NA (west of second 'N' in "NEW AUSTI**N**") | Bison headbutting each other.
-Grizzly Bear<br><br>Gray Wolf | &bull; Barrow Lagoon, Grizzlies West, AM (on ice south side of lagoon)<br><br>&bull; Cattail Pond, Grizzlies West, AM (east of the pond; `13:35`)<br><br>&bull; Little Creek River, Big Valley, WE (southwest of 'R' in "Little Creek **R**iver"; `12:42`) | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly.
-Grizzly Bear | &bull; Cattail Pond, Grizzlies West, AM (cliffside overlooking **Dakota River**, south of the pond) | Just chilling.
-Grizzly Bear | &bull; Watson's Cabin, Big Valley, WE (east of the cabin)<br><br>&bull; Fairvale Shanty, Grizzlies East, AM (a few feet south of the cabin)<br><br>&bull; Bear Claw, Tall Trees, WE (south of the cabins) | Scratching itself on a tree trunk.
-Grizzly Bear<br><br>Sockeye Salmon | &bull; O'Creagh's Run, Grizzlies East, AM (northern shore)<br><br>&bull; Little Creek River, Big Valley, WE (east stretch of creek before stream goes downhill; `14:14`)<br><br>&bull; Little Creek River, Big Valley, WE (south of **Watson's Cabin**, `17:34`)<br><br>&bull; Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br><br>&bull; Aurora Basin, Tall Trees, WE (southeast shore) | Grizzly catches and eats Salmon.
-American Red Fox | &bull; Barrow Lagoon, Grizzlies West, AM (south of lagoon)<br><br>&bull; Spider Gorge, Grizzlies West, AM (south of 'S' in "**S**pider Gorge") | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
-Gray Wolf | &bull; Elysian Pool, Roanoke Ridge, NH (southeast of)<br><br>&bull; Lake Isabella, Grizzlies West, AM (northwest path)<br><br>&bull; Cairn Lake, Grizzlies West, AM (south side of the path leading westbound away from the lake)<br><br>&bull; Evelyn Miller Camp, Tall Trees, WE (southeast of) | Two Gray Wolves play fighting.
-Gray Wolf | &bull; Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of)<br><br>&bull; Lake Isabella, Grizzlies West, AM (atop the cliff overlooking the waterfall on the northwest side of lake) | Mourning over dead wolf.
-American Fox Hound<br><br>Bluetick Coonhound | &bull; Rhodes, Scarlett Meadows, LE (next to the train station; [[Source.]](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/?do=findComment&comment=1072192862))<br><br>&bull; Painted Sky, Big Valley, WE (east side of path next to junction directly west of woodpecker icon) | Two domestic dogs play-fighting.
+Cougar<br><br>Deer | &bull;Little Creek River, Big Valley, WE (south of 'E' in "Little Creek Riv**e**r", `11:23`, `20:56`) | Cougar stalks and attacks Deer.
+Cougar<br><br>NPC Corpse | &bull;Northeast of first 'N' in "HE**N**NIGAN'S STEAD".<br><br>&bull;Shore of **Kamassa River** south of **Old Tomb, Roanoke Ridge, NH**. | Cougar eating dead NPC.
+Western Bull Moose | &bull;Lake Isabella, Grizzlies West, AM<br><br>&bull;Barrow Lagoon, Grizzlies West, AM<br><br>&bull;Cairn Lake, Grizzlies West, AM (`16:08`) | Slipping on ice while attempting to stand upright.
+Western Bull Moose<br><br>Gray Wolf | &bull;Lake Isabella, Grizzlies West, AM (northwest side of lake, swims to western shore)<br><br>&bull;Calumet Ravine, Grizzlies East, AM (just north of the bridge to **Wapiti**, swims to west shore)<br><br>&bull;Owanjila, Big Valley, WE (towards north side of lake, swims to west shore, `18:55`)<br><br>&bull;Owanjila, Big Valley, WE (closer to bridge at **Owanjila Dam**, swims to east shore with a single **Burdock Root**, `08:28`) | Moose swimming, sometimes being chased by a lone wolf.
+Hawk/Eagle/Owl<br><br>Fish/Snake/Rabbit/Rat | &bull;Old Greenbank Mill, Heartlands, NH (west side of path west of the mill)<br><br>&bull;Emerald Ranch, Heartlands, NH (owl catches rat on NE side of ranch)<br><br>&bull;Elysian Pool, Roanoke Ridge, NH<br><br>&bull;Calumet Ravine, Grizzlies East, AM<br><br>&bull;Little Creek River, Big Valley, WE (hawk catches squirrel, northeast of **Valley View**)<br><br>&bull;Kamassa River, Roanoke Ridge, NH (southwest of Beaver Hollow)<br><br>&bull;Blackwater, Great Plains, WE (owl catches rat, east side of easternmost path heading southbound out of **Blackwater**) | Bird dives and catches random fish/mammal/snake.
+Whitetail Buck | &bull;Diablo Ridge, Big Valley, WE (near path northeastbound from **Appleseed Timber Co.**) | Three dead bucks. Evidently based on a 2015 event in Ohio.
+Whitetail Buck | &bull;Heartlands, NH (SW of the 'H' in "THE **H**EARTLANDS")<br><br>&bull;Strawberry, Big Valley, WE (SE of the **Strawberry Stable**) | Two Bucks, one dead and the other alive, with interlocked horns.
+Whitetail Buck | &bull;Heartlands, NH (SW of second 'H' in "THE **H**EARTLANDS")<br><br>&bull;Cumberland Falls, Heartlands, NH (east side of river, east of path southbound from **Cumberland Falls**, `12:50`)<br><br>&bull;Roanoke Ridge, NH (northern edge of the train tracks just inside the county border, southwest of the **Trapper**) | Two Bucks pushing each other around.
+Bighorn Ram | &bull;Cumberland Forest, NH (north of 'D' in "CUMBERLAN**D** FOREST")<br><br>&bull;Deadboot Creek, Grizzlies West, AM (southeast of 'k' in "Deadboot Cree**k**".<br><br>&bull;Little Creek River, Big Valley, WE (northwest side of junction NW of 'R' in "Little Creek **R**iver"<br><br>&bull;Black Bone Forest, Big Valley, WE (just SE of the **Trapper**)<br><br>&bull;Black Bone Forest, Big Valley, WE (southeast corner of the path junction just southeast of the Geddes' house at **Pronghorn Ranch**)<br><br>&bull;Pronghorn Ranch, Big Valley, WE (first junction on eastbound dashed path heading away from the ranch.<br><br>&bull;Cholla Springs, NA (dead south between 'I' and 'N' in "CHOLLA SPR**IN**GS") | Two Rams headbutt each other.
+American Bison | &bull;Heartland Overflow, Heartlands, NH (SW of 'H' in "**H**eartland Overflow"<br><br>&bull;Great Plains, WE (southeast of 'T' and west of 'P' in "GREA**T P**LAINS")<br><br>&bull;Hennigan's Stead, NA (west of second 'N' in "NEW AUSTI**N**") | Bison headbutting each other.
+Grizzly Bear<br><br>Gray Wolf | &bull;Barrow Lagoon, Grizzlies West, AM (on ice south side of lagoon)<br><br>&bull;Cattail Pond, Grizzlies West, AM (east of the pond; `13:35`)<br><br>&bull;Little Creek River, Big Valley, WE (southwest of 'R' in "Little Creek **R**iver"; `12:42`) | Grizzly eating Deer carcass. Wolves attempt to overpower the Grizzly.
+Grizzly Bear | &bull;Cattail Pond, Grizzlies West, AM (cliffside overlooking **Dakota River**, south of the pond) | Just chilling.
+Grizzly Bear | &bull;Watson's Cabin, Big Valley, WE (east of the cabin)<br><br>&bull;Fairvale Shanty, Grizzlies East, AM (a few feet south of the cabin)<br><br>&bull;Bear Claw, Tall Trees, WE (south of the cabins) | Scratching itself on a tree trunk.
+Grizzly Bear<br><br>Sockeye Salmon | &bull;O'Creagh's Run, Grizzlies East, AM (northern shore)<br><br>&bull;Little Creek River, Big Valley, WE (east stretch of creek before stream goes downhill; `14:14`)<br><br>&bull;Little Creek River, Big Valley, WE (south of **Watson's Cabin**, `17:34`)<br><br>&bull;Dakota River, Big Valley, WE (where **Little Creek River** feeds into **Dakota River**)<br><br>&bull;Aurora Basin, Tall Trees, WE (southeast shore) | Grizzly catches and eats Salmon.
+American Red Fox | &bull;Barrow Lagoon, Grizzlies West, AM (south of lagoon)<br><br>&bull;Spider Gorge, Grizzlies West, AM (south of 'S' in "**S**pider Gorge") | Stalks and pounces on prey beneath snow. Only occurs in northwestern snowy regions.
+Gray Wolf | &bull;Elysian Pool, Roanoke Ridge, NH (southeast of)<br><br>&bull;Lake Isabella, Grizzlies West, AM (northwest path)<br><br>&bull;Cairn Lake, Grizzlies West, AM (south side of the path leading westbound away from the lake)<br><br>&bull;Evelyn Miller Camp, Tall Trees, WE (southeast of) | Two Gray Wolves play fighting.
+Gray Wolf | &bull;Fairvale Shanty, Grizzlies East, AM (on the hilltop across the path south of)<br><br>&bull;Lake Isabella, Grizzlies West, AM (atop the cliff overlooking the waterfall on the northwest side of lake) | Mourning over dead wolf.
+American Fox Hound<br><br>Bluetick Coonhound | &bull;Rhodes, Scarlett Meadows, LE (next to the train station; [[Source.]](https://gtaforums.com/topic/917511-things-you-didnt-know-about-rdr2-until-now/?do=findComment&comment=1072192862))<br><br>&bull;Painted Sky, Big Valley, WE (east side of path next to junction directly west of woodpecker icon) | Two domestic dogs play-fighting.
 
 ## Rival Gangs
 
@@ -2556,9 +2554,9 @@ Gill's Landing, Heartlands, NH | along the water west of **Gill's Landing**
 
 ### Snake
 
-&bull; Three species of Rattlesnake: Diamondback, Black-Tailed, and Timber.
-&bull; Two species of Copperhead: Northern and Southern.
-&bull; Three species of Water Snake: Midland, Northern, and Cottonmouth.
+&bull;Three species of Rattlesnake: Diamondback, Black-Tailed, and Timber.
+&bull;Two species of Copperhead: Northern and Southern.
+&bull;Three species of Water Snake: Midland, Northern, and Cottonmouth.
 
 Location | Details
 :--- | ---
@@ -2785,61 +2783,61 @@ Little Creek River, Big Valley, WE | coming from tree line herded by rancher hea
 
 Breed | Coat | Type | Handling | Health | Stamina | Speed | Acceleration | Location(s)
 :---- | ---- | ---- | -------- | ------ | ------- | ----- | ------------ | -----------
-American Paint | Grey Overo | Work | Standard | 5 | 5 | 4 | 4 | &bull; **Tumbleweed, Gaptooth Ridge, NA** (stable)
+American Paint | Grey Overo | Work | Standard | 5 | 5 | 4 | 4 | &bull;**Tumbleweed, Gaptooth Ridge, NA** (stable)
 American Paint | Overo | Work | Standard | 3 | 4 | 3 | 3 | -
 American Paint | Splashed White | Work | Standard | 3 | 5 | 3 | 3 | -
 American Paint | Tobiano | Work | Standard | 3 | 4 | 3 | 3 | -
 American Standardbred | Black | Race | Race | 3 | 3 | 4 | 3 | -
 American Standardbred | Buckskin | Race | Race | 3 | 3 | 4 | 3 | -
-American Standardbred | Palomino Dapple | Race | Race | 3 | 3 | 5 | 4 | &bull; **Valentine, Heartlands, NH** (stable)
-American Standardbred | Silver Tail Buckskin | Race | Race | 4 | 4 | 5 | 5 | &bull; **Tumbleweed, Gaptooth Ridge, NA** (stable)
-Andalusian | Dark Bay | War | Standard | 5 | 4 | 3 | 3 | &bull; **Strawberry, Big Valley, WE** (stable)
-Andalusian | Rose Grey | War | Standard | 7 | 5 | 3 | 3 | &bull; **Van Horn, Roanoke Ridge, NH** (stable)
-Andalusian | Perlino | War | Standard | 7 | 5 | 3 | 3 | &bull; **Brandywine Drop, Roanoke Ridge, NH**
+American Standardbred | Palomino Dapple | Race | Race | 3 | 3 | 5 | 4 | &bull;**Valentine, Heartlands, NH** (stable)
+American Standardbred | Silver Tail Buckskin | Race | Race | 4 | 4 | 5 | 5 | &bull;**Tumbleweed, Gaptooth Ridge, NA** (stable)
+Andalusian | Dark Bay | War | Standard | 5 | 4 | 3 | 3 | &bull;**Strawberry, Big Valley, WE** (stable)
+Andalusian | Rose Grey | War | Standard | 7 | 5 | 3 | 3 | &bull;**Van Horn, Roanoke Ridge, NH** (stable)
+Andalusian | Perlino | War | Standard | 7 | 5 | 3 | 3 | &bull;**Brandywine Drop, Roanoke Ridge, NH**
 Appaloosa | Blanket | Work | Standard | 3 | 4 | 3 | 3 | -
-Appaloosa | Brown Leopard | Work | Standard | 5 | 6 | 4 | 3 | &bull; **Tumbleweed, Gaptooth Ridge, NA** (stable)
-Appaloosa | Leopard | Work | Standard | 5 | 6 | 4 | 3 | &bull; **Van Horn, Roanoke Ridge, NH** (stable)
+Appaloosa | Brown Leopard | Work | Standard | 5 | 6 | 4 | 3 | &bull;**Tumbleweed, Gaptooth Ridge, NA** (stable)
+Appaloosa | Leopard | Work | Standard | 5 | 6 | 4 | 3 | &bull;**Van Horn, Roanoke Ridge, NH** (stable)
 Appaloosa | Leopard Blanket | Work | Standard | 3 | 4 | 3 | 3 | -
 Appaloosa | Few Spotted | Work | Standard | 3 | 5 | 3 | 3 | -
-Appaloosa | Scarred Blanket | Work | Standard | 3 | 3 | 2 | 2 | &bull; during random encounters with **Murfree Brood**
-Arabian | Black | Superior | Elite | 6 | 6 | 6 | 6 | &bull; **Saint Denis, Bayou Nwa, LE** (stable)<br><br>&bull; random encounter `Pedestrian Robbery` in **Saint Denis, Bayou Nwa, LE**
-Arabian | Rose Grey Bay | Superior | Elite | 7 | 7 | 6 | 6 | &bull; **Blackwater, Great Plains, WE** (stable)
-Arabian | White | Superior | Elite | 5 | 5 | 6 | 6 | &bull; **Lake Isabella, Grizzlies West, AM**
-Arabian | Red Chestnut | Superior | Elite | 4 | 5 | 5 | 4 | &bull; **Owanjila, Big Valley, WE** (west side)
-Arabian | Warped Brindle | Superior | Elite | 3 | 5 | 6 | 4 | &bull; **Wapiti, Grizzlies East, AM** (northwest of)
-Ardennes | Bay Roan | War | Standard | 5 | 4 | 3 | 3 | &bull; **Scarlett Meadows, Scarlett Meadows, LE** (stable)
-Ardennes | Strawberry Roan | War | Standard | 7 | 5 | 3 | 3 | &bull; **Van Horn, Roanoke Ridge, NH** (stable)
-Belgian Draft | Mealy Chestnut<br>Blonde Chestnut | Draft | Heavy | 3 | 3 | 3 | 3 | &bull; pulling random NPC wagons
-Dutch Warmblood | Chocolate Roan | Work | Standard | 5 | 6 | 4 | 3 | &bull; **Valentine, Heartlands, NH** (stable)
-Dutch Warmblood | Seal Brown | Work | Standard | 4 | 5 | 3 | 3 | &bull; **Strawberry, Big Valley, WE** (stable)<br><br>&bull; `Bounty Hunter` random encounters<br><br>&bull; ridden by one of Cornwall's men during `An Honest Mistake`
-Dutch Warmblood | Sooty Buckskin | Work | Standard | 4 | 5 | 3 | 3 | &bull; **Scarlett Meadows, LE** (stable)<br><br>&bull; `Prospector` random encounters<br><br>&bull; `Bounty Hunter` random encounters
-Dutch Warmblood **(!)** | Cremello Gold | Work | Standard | - | - | - | - | &bull; during `The Veteran - V`
-Hungarian Halfbred | Dapple Dark Grey | War | Standard | 5 | 4 | 3 | 3 | &bull; **Valentine, Heartlands, NH** (stable)
-Hungarian Halfbred | Flaxen Chestnut | War | Standard | 4 | 3 | 3 | 3 | &bull; Wild
-Hungarian Halfbred | Piebald Tobiano | War | Standard | 4 | 3 | 3 | 3 | &bull; **Twin Stack Pass, Heartlands, NH** (bounty hunter camp west of)<br><br>&bull; during `An Honest Mistake`
-Kentucky Saddler | Grey<br>Chestnut Pinto<br>Black<br>Silver Bay | Riding | Standard | 3 | 2 | 3 | 2 | &bull; Ambient/Wild
-Missouri Fox Trotter | Amber Champagne | Race/Work | Standard | 5 | 6 | 7 | 5 | &bull; **Scarlett Meadows, LE** (stable)
-Missouri Fox Trotter | Silver Dapple Pinto | Race/Work | Standard | 5 | 6 | 7 | 5 | &bull; **Blackwater, Great Plains, WE** (stable)<br>during `Arcadia for Amateurs - III`<br>during `Trapped Rider` random encounters
-Morgan | Palomino<br>Bay<br>Bay Roan<br>Flaxen Chestnut | Riding | Standard | 2 | 3 | 3 | 2 | &bull; Ambient/Wild
-Mustang | Grullo Dun<br>Wild Bay | War/Work | Standard | 4 | 4 | 3 | 2 | &bull; Wild
-Mustang | Tiger Striped Bay | War/Work | Standard | 5 | 5 | 4 | 3 | &bull; **Rio Del Lobo Rock, Rio Bravo, NA**
-Nokota | Reverse Dapple Roan | Race | Race | 3 | 3 | 7 | 5 | &bull; **Saint Denis, Bayou Nwa, LE** (stable)
-Nokota | Blue Roan<br>White Roan | Race | Race | 3 | 3 | 4 | 3 | &bull; Wild
-Nokota | Scarred Blue Roan | Race | Race | 3 | 3 | 4 | 3 | &bull; during random encounters with Murfree Brood
-Shire | Dark Bay<br>Light Grey | Draft | Heavy | 4 | 3 | 3 | 2 | &bull; pulling NPC wagons
-Shire **(!)** | Raven Black | Draft | Heavy | 4 | 4 | 3 | 2 | &bull; during `Exit Pursued by a Bruised Ego`
-Suffolk Punch | Red Chestnut | Draft | Heavy | - | - | 3 | 2 | &bull; pulling NPC wagons
-Tennessee Walker | Flaxen Roan | Riding | Standard | 3 | 3 | 2 | 2 | &bull; **Tumbleweed, Gaptooth Ridge, NA** (stable)
-Tennessee Walker | Mahogany Bay | Riding | Standard | 3 | 3 | 2 | 2 | &bull; during `Outlaws from the West`
-Tennessee Walker | Gold Palomino | Riding | Standard | 3 | 4 | 3 | 2 | &bull; Ambient/Wild
-Tennessee Walker | Black Rabicano<br>Chestnut<br>Dapple Bay<br>Red Roan | Riding | Standard | 3 | 3 | 2 | 2 | &bull; Ambient/Wild
-Thoroughbred | Brindle | Race | Race | 3 | 3 | 7 | 5 | &bull; **Strawberry, Big Valley, WE** (stable)
-Thoroughbred | Blood Bay<br>Dapple Grey | Race | Race | 3 | 3 | 4 | 3 | &bull; Wild
-Thoroughbred **(!)** | Seal Brown | Race | Race | 4 | 4 | 6 | 4 | &bull; after `The Wheel`
-Turkoman | Dark Bay | Race/War | Standard | 7 | 5 | 6 | 5 | &bull; **Blackwater, Great Plains, WE** (stable)
-Turkoman | Gold | Race/War | Standard | 7 | 5 | 6 | 5 | &bull; **Saint Denis, Bayou Nwa, LE** (stable)
-Turkoman | Silver | Race/War | Standard | 7 | 5 | 6 | 5 | &bull; **Tumbleweed, Gaptooth Ridge, NA** (stable)
-Mule | - | Work | Standard | - | - | - | - | &bull; **Emerald Ranch, Heartlands, NH** (south side of ranch in front of Seamus' **Fence**)
+Appaloosa | Scarred Blanket | Work | Standard | 3 | 3 | 2 | 2 | &bull;during random encounters with **Murfree Brood**
+Arabian | Black | Superior | Elite | 6 | 6 | 6 | 6 | &bull;**Saint Denis, Bayou Nwa, LE** (stable)<br><br>&bull;random encounter `Pedestrian Robbery` in **Saint Denis, Bayou Nwa, LE**
+Arabian | Rose Grey Bay | Superior | Elite | 7 | 7 | 6 | 6 | &bull;**Blackwater, Great Plains, WE** (stable)
+Arabian | White | Superior | Elite | 5 | 5 | 6 | 6 | &bull;**Lake Isabella, Grizzlies West, AM**
+Arabian | Red Chestnut | Superior | Elite | 4 | 5 | 5 | 4 | &bull;**Owanjila, Big Valley, WE** (west side)
+Arabian | Warped Brindle | Superior | Elite | 3 | 5 | 6 | 4 | &bull;**Wapiti, Grizzlies East, AM** (northwest of)
+Ardennes | Bay Roan | War | Standard | 5 | 4 | 3 | 3 | &bull;**Scarlett Meadows, Scarlett Meadows, LE** (stable)
+Ardennes | Strawberry Roan | War | Standard | 7 | 5 | 3 | 3 | &bull;**Van Horn, Roanoke Ridge, NH** (stable)
+Belgian Draft | Mealy Chestnut<br>Blonde Chestnut | Draft | Heavy | 3 | 3 | 3 | 3 | &bull;pulling random NPC wagons
+Dutch Warmblood | Chocolate Roan | Work | Standard | 5 | 6 | 4 | 3 | &bull;**Valentine, Heartlands, NH** (stable)
+Dutch Warmblood | Seal Brown | Work | Standard | 4 | 5 | 3 | 3 | &bull;**Strawberry, Big Valley, WE** (stable)<br><br>&bull;`Bounty Hunter` random encounters<br><br>&bull;ridden by one of Cornwall's men during `An Honest Mistake`
+Dutch Warmblood | Sooty Buckskin | Work | Standard | 4 | 5 | 3 | 3 | &bull;**Scarlett Meadows, LE** (stable)<br><br>&bull;`Prospector` random encounters<br><br>&bull;`Bounty Hunter` random encounters
+Dutch Warmblood **(!)** | Cremello Gold | Work | Standard | - | - | - | - | &bull;during `The Veteran - V`
+Hungarian Halfbred | Dapple Dark Grey | War | Standard | 5 | 4 | 3 | 3 | &bull;**Valentine, Heartlands, NH** (stable)
+Hungarian Halfbred | Flaxen Chestnut | War | Standard | 4 | 3 | 3 | 3 | &bull;Wild
+Hungarian Halfbred | Piebald Tobiano | War | Standard | 4 | 3 | 3 | 3 | &bull;**Twin Stack Pass, Heartlands, NH** (bounty hunter camp west of)<br><br>&bull;during `An Honest Mistake`
+Kentucky Saddler | Grey<br>Chestnut Pinto<br>Black<br>Silver Bay | Riding | Standard | 3 | 2 | 3 | 2 | &bull;Ambient/Wild
+Missouri Fox Trotter | Amber Champagne | Race/Work | Standard | 5 | 6 | 7 | 5 | &bull;**Scarlett Meadows, LE** (stable)
+Missouri Fox Trotter | Silver Dapple Pinto | Race/Work | Standard | 5 | 6 | 7 | 5 | &bull;**Blackwater, Great Plains, WE** (stable)<br>during `Arcadia for Amateurs - III`<br>during `Trapped Rider` random encounters
+Morgan | Palomino<br>Bay<br>Bay Roan<br>Flaxen Chestnut | Riding | Standard | 2 | 3 | 3 | 2 | &bull;Ambient/Wild
+Mustang | Grullo Dun<br>Wild Bay | War/Work | Standard | 4 | 4 | 3 | 2 | &bull;Wild
+Mustang | Tiger Striped Bay | War/Work | Standard | 5 | 5 | 4 | 3 | &bull;**Rio Del Lobo Rock, Rio Bravo, NA**
+Nokota | Reverse Dapple Roan | Race | Race | 3 | 3 | 7 | 5 | &bull;**Saint Denis, Bayou Nwa, LE** (stable)
+Nokota | Blue Roan<br>White Roan | Race | Race | 3 | 3 | 4 | 3 | &bull;Wild
+Nokota | Scarred Blue Roan | Race | Race | 3 | 3 | 4 | 3 | &bull;during random encounters with Murfree Brood
+Shire | Dark Bay<br>Light Grey | Draft | Heavy | 4 | 3 | 3 | 2 | &bull;pulling NPC wagons
+Shire **(!)** | Raven Black | Draft | Heavy | 4 | 4 | 3 | 2 | &bull;during `Exit Pursued by a Bruised Ego`
+Suffolk Punch | Red Chestnut | Draft | Heavy | - | - | 3 | 2 | &bull;pulling NPC wagons
+Tennessee Walker | Flaxen Roan | Riding | Standard | 3 | 3 | 2 | 2 | &bull;**Tumbleweed, Gaptooth Ridge, NA** (stable)
+Tennessee Walker | Mahogany Bay | Riding | Standard | 3 | 3 | 2 | 2 | &bull;during `Outlaws from the West`
+Tennessee Walker | Gold Palomino | Riding | Standard | 3 | 4 | 3 | 2 | &bull;Ambient/Wild
+Tennessee Walker | Black Rabicano<br>Chestnut<br>Dapple Bay<br>Red Roan | Riding | Standard | 3 | 3 | 2 | 2 | &bull;Ambient/Wild
+Thoroughbred | Brindle | Race | Race | 3 | 3 | 7 | 5 | &bull;**Strawberry, Big Valley, WE** (stable)
+Thoroughbred | Blood Bay<br>Dapple Grey | Race | Race | 3 | 3 | 4 | 3 | &bull;Wild
+Thoroughbred **(!)** | Seal Brown | Race | Race | 4 | 4 | 6 | 4 | &bull;after `The Wheel`
+Turkoman | Dark Bay | Race/War | Standard | 7 | 5 | 6 | 5 | &bull;**Blackwater, Great Plains, WE** (stable)
+Turkoman | Gold | Race/War | Standard | 7 | 5 | 6 | 5 | &bull;**Saint Denis, Bayou Nwa, LE** (stable)
+Turkoman | Silver | Race/War | Standard | 7 | 5 | 6 | 5 | &bull;**Tumbleweed, Gaptooth Ridge, NA** (stable)
+Mule | - | Work | Standard | - | - | - | - | &bull;**Emerald Ranch, Heartlands, NH** (south side of ranch in front of Seamus' **Fence**)
 
 **Early Unlocks:**
 
@@ -2922,38 +2920,55 @@ Beecher's Hope, Great Plains, WE | next to main campfire
 - Perform a flashy holster animation by double-tapping LB. Works with only primary sidearm. Does not work with Sawed Off Shotgun.
 - You can buy goods from some of the shops at the **Saint Denis Market**.
 
-### Tools
-
-- [CodeWalker](https://github.com/dexyfex/CodeWalker)
-
 ### Mods
+
+*Main:*
 
 - [ScriptHookRDR2](https://www.dev-c.com/rdr2/scripthookrdr2/) - ScriptHookRDR2 base required for ASI plugin mods. SDK for development of C++ plugins available on the same page.
 - [Lenny's Mod Loader](https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/) - a.k.a. **LML**. Stream modded content directly into game. Required by all mods that stream files.
-
 - [RampageTrainer](https://www.nexusmods.com/reddeadredemption2/mods/233) - SP trainer. Many useful functions.
+
+*Quality of Life:*
+
 - [Main Menu and Legal Skip](https://www.nexusmods.com/reddeadredemption2/mods/1469) - Boot right into story mode.
 - [SnappyUI](https://www.nexusmods.com/reddeadredemption2/mods/971) - Disable the "smooth transition" in the pause menu.
+- [Gun Belt Fix](https://www.nexusmods.com/reddeadredemption2/mods/1600) - Changes the gun belt physics from the current patch version to the `1.00` version.
+- [Fixed Bandolier](https://www.nexusmods.com/reddeadredemption2/mods/982) - Fixes the hovering bandolier.
 - [Stash That Lantern](https://www.nexusmods.com/reddeadredemption2/mods/333) - Store lantern on satchels, both your own and on your horse.
+- [Non-Sticky Hats](https://www.nexusmods.com/reddeadredemption2/mods/263) - Changes physics to make hats more likely to fall off.
+- [Remove Speed Limits](https://www.nexusmods.com/reddeadredemption2/mods/975) - Remove horse and player speed limits in camps, towns, indoors and on bridges.
+- [No Honor Loss When Masked](https://www.nexusmods.com/reddeadredemption2/mods/2122) - Prevents honor stat from being modified while wearing a bandana or large mask.
+- [Locomotive Power](https://www.nexusmods.com/reddeadredemption2/mods/1309) - Train top speed and acceleration/deceleration adjusted to real life.
+- [Corpse Spawn Distance](https://www.nexusmods.com/reddeadredemption2/mods/1786) - Increased spawn distance of the corpses so you will not see them drop in front of you.
+- [Better Horses](https://www.nexusmods.com/reddeadredemption2/mods/842) - Improves horse stats of those which basically only the player can own.
+- [Auto Challenges](https://www.nexusmods.com/reddeadredemption2/mods/1067) - It's at the bottom of the list for a reason.
+
+*Gameplay:*
+
+- [Unlimited Horse Whistling Distance](https://www.nexusmods.com/reddeadredemption2/mods/306) - F--- realism! When I whistle, that horse better come!
+- [Unlocked Deadeye](https://www.nexusmods.com/reddeadredemption2/mods/867) - Unlock all Deadeye abilities from level 1.
 - [Improved Wildlife](https://www.nexusmods.com/reddeadredemption2/mods/1527) - Increases spawn rates.
 - [ImprovedLoot](https://www.nexusmods.com/reddeadredemption2/mods/1596) - Improves NPC, animal, and herb loot pool.
 - [Easier Hunting](https://www.nexusmods.com/reddeadredemption2/mods/841) - Makes more pristine animals spawn.
-- [Non-Sticky Hats](https://www.nexusmods.com/reddeadredemption2/mods/263) - Changes physics to make hats more likely to fall off.
-- [Unlimited Horse Whistling Distance](https://www.nexusmods.com/reddeadredemption2/mods/306) - F--- realism! When I whistle, that horse better come!
-- [Better Horses](https://www.nexusmods.com/reddeadredemption2/mods/842) - Improves horse stats of those which basically only the player can own.
+- [Dynamic Seasons](https://www.nexusmods.com/reddeadredemption2/mods/1557) - Makes the game world a bit more robust.
+
+*Textures:*
+
 - [Multiclass Horses](https://www.nexusmods.com/reddeadredemption2/mods/1226) - Cross-species horse coats. Available for all breeds.
 - [Legend of the East Equipment Restored](https://www.nexusmods.com/reddeadredemption2/mods/1462) - Complete set of LotE gear.
-- [Dynamic Seasons](https://www.nexusmods.com/reddeadredemption2/mods/1557) - Makes the game world a bit more robust.
-- [No Honor Loss When Masked](https://www.nexusmods.com/reddeadredemption2/mods/2122) - Prevents honor stat from being modified while wearing a bandana or large mask.
+- [Clothing and Accessory Textures](https://www.nexusmods.com/reddeadredemption2/mods/570) - A ton of retextures.
+- [Worn Arthur Clothes](https://www.nexusmods.com/reddeadredemption2/mods/530) - This makes Arthur's **Gunslinger Jacket** and **Gambler Hat** more worn.
+- [Marston Equipment Retexture](https://www.nexusmods.com/reddeadredemption2/mods/782) - Retextures Marston's equipment to a darker tone. Changes the **Upgraded Bandolier**'s texture to match the newer Marston textures. It darkens the rifle strap as well and gives it a more clean up look.
 
 ### Programs Used
 
-- [GNU Image Manipulation Program](https://www.gimp.org/) - *Editing maps.*
-- [GreenShot](https://github.com/greenshot/greenshot) - Capturing in-game screenshots.
+- [GNU Image Manipulation Program](https://www.gimp.org/) - GNU Photoshop.
+- [GreenShot](https://github.com/greenshot/greenshot) - Capture in-game screenshots.
 - [nomacs](https://github.com/nomacs/nomacs) - Scan through screenshots when marking new locations.
-- [CheatEngine](https://www.cheatengine.org/download/CheatEngine7.2_MissingSetup.rar) - *portable version; used for speedhack to make time fly by.*
-- [7-Zip](https://www.7-zip.org/) - *Archiving and compressing.*
-- [VS Code](https://code.visualstudio.com/) - *Editing and previewing Markdown docs.*
+- [7-Zip](https://www.7-zip.org/) - Archiving and compressing.
+- [Notepad++](https://notepad-plus-plus.org/) - Text editor. Using [NppMarkdownPanel](https://github.com/mohzy83/NppMarkdownPanel) to edit and preview **Markdown** docs.
+- [CodeWalker](https://github.com/dexyfex/CodeWalker) - RDR2 support unconfirmed.
+- [OpenIV](https://openiv.com/) - Borderline supports RDR2.
 
 ### References
 
@@ -2976,20 +2991,15 @@ For select animal population maps:
 
 ### Testing Procedures
 
-Here's some notes on what all I keep constant while playing:
-
-- PC, latest version, locked at 60fps, V-Sync on, Triple Buffering on, mostly medium settings aside from low lighting qualities and ultra textures.
+- Playing on **RDR2 PC v1436.28 (DODI Repack)**, which can be found on **1337x**. (I can't be bothered to use the Rockstar Launcher anymore, don't give me a hard time.)
 - All animals are tracked back to their original locations via **Eagle Eye**. All locations shown were verified at least twice before being marked.
 - Dismount horse well away from spawn.
-- Constant application of **Cover Scent Lotion**, as in once every 30 or so seconds.
+- Constant application of **Cover Scent Lotion**, as in once every 30 or so seconds even if it's not worn off yet.
 - Slow approach, normal crouched walking.
-- RampageTrainer (freeze/change time/weather; 2021/12/05 using Ignored By Wild Animals to pinpoint exact spawn locations)
 
 ### Release Format
 
-You can download archives of maps in the `Releases` tab on the right side of this page. All releases are in 7z format with LZMA2 compression, so you'll need an archiving program capable of extracting LZMA2 7-zip archives. I use [7-zip itself](https://www.7-zip.org/), but you're free to use whatever you want.
-
-In-game screenshots of the player sitting at a "sit" location are uploaded in their own, separate archives with the suffix `SitLocationsInGame` (i.e. `rdr2-maps-2021-11-07-SitLocationsInGame.7z`).
+More details on [NexusMods](https://www.nexusmods.com/reddeadredemption2/mods/1929).
 
 ### Quotes
 
